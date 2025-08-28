@@ -1,0 +1,644 @@
+{
+  "30000009": {
+    "route_long_name": "T808",
+    "trips": {
+      "250804020049S9": "MRT SURIAN - SEK 11 KOTA DAMANSARA"
+    }
+  },
+  "30000010": {
+    "route_long_name": "T811",
+    "trips": {
+      "250804020058S9": "MRT BANDAR UTAMA - MUTIARA TROPICANA"
+    }
+  },
+  "30000011": {
+    "route_long_name": "T812",
+    "trips": {
+      "250804020061S9": "MRT BANDAR UTAMA - TAMAN TUN DR ISMAIL (NORTH) / KG SG PENCHALA"
+    }
+  },
+  "30000016": {
+    "route_long_name": "T815",
+    "trips": {
+      "250804020137S9": "MRT PHILEO DAMANSARA - UNIVERSITI MALAYA"
+    }
+  },
+  "30000025": {
+    "route_long_name": "T816",
+    "trips": {
+      "250804020078S9": "MRT PHILEO DAMANSARA - SS2"
+    }
+  },
+  "30000026": {
+    "route_long_name": "T817",
+    "trips": {
+      "250804020082S9": "MRT PUSAT BANDAR DAMANSARA - MIDVALLEY"
+    }
+  },
+  "30000027": {
+    "route_long_name": "T818",
+    "trips": {
+      "250804020086S9": "DESA SRI HARTAMAS - MRT SEMANTAN"
+    }
+  },
+  "30000028": {
+    "route_long_name": "T819",
+    "trips": {
+      "250804020091S9": "MRT SEMANTAN - STESEN KL SENTRAL via STESEN KTM SEGAMBUT"
+    }
+  },
+  "30000029": {
+    "route_long_name": "T820",
+    "trips": {
+      "250804020093S9": "MRT SEMANTAN - MENARA DBKL 2"
+    }
+  },
+  "30000030": {
+    "route_long_name": "T821",
+    "trips": {
+      "250804010098S9": "MRT SEMANTAN - KOMPLEKS MAHKAMAH JALAN DUTA"
+    }
+  },
+  "30000034": {
+    "route_long_name": "T456",
+    "trips": {
+      "250804020240S9": "MRT SUNGAI JERNIH PINTU B - SAUJANA IMPIAN"
+    }
+  },
+  "30000036": {
+    "route_long_name": "T415",
+    "trips": {
+      "250804020219S9": "MRT BANDAR TUN HUSSEIN ONN PINTU B - MAHKOTA CHERAS"
+    }
+  },
+  "30000038": {
+    "route_long_name": "T409",
+    "trips": {
+      "250804020195S9": "MRT TAMAN MUTIARA - TAMAN SUPREME / KETUMBAR HILL"
+    }
+  },
+  "30000040": {
+    "route_long_name": "T410",
+    "trips": {
+      "250804020198S9": "MRT TAMAN CONNAUGHT - BANDAR TASIK SELATAN"
+    }
+  },
+  "30000041": {
+    "route_long_name": "T411",
+    "trips": {
+      "250804020202S9": "MRT TAMAN CONNAUGHT - TAMAN CHERAS AWANA"
+    }
+  },
+  "30000044": {
+    "route_long_name": "T413",
+    "trips": {
+      "250804020213S9": "MRT TAMAN SUNTEX - TAMAN KEMACAHAYA"
+    }
+  },
+  "30000045": {
+    "route_long_name": "T414",
+    "trips": {
+      "250804020215S9": "MRT SRI RAYA - TAMAN TUN PERAK / TAMAN MEGAH"
+    }
+  },
+  "30000046": {
+    "route_long_name": "T416",
+    "trips": {
+      "250804020222S9": "MRT BATU SEBELAS CHERAS - TAMAN CHERAS JAYA"
+    }
+  },
+  "30000056": {
+    "route_long_name": "T412",
+    "trips": {
+      "250804020145S9": "MRT TAMAN CONNAUGHT - ALAM DAMAI"
+    }
+  },
+  "30000057": {
+    "route_long_name": "T400",
+    "trips": {
+      "250804020922S9": "MRT COCHRANE - BANDAR TUN RAZAK"
+    }
+  },
+  "30000058": {
+    "route_long_name": "T401",
+    "trips": {
+      "250804020926S9": "MRT COCHRANE - BANDAR SRI PERMAISURI"
+    }
+  },
+  "30000060": {
+    "route_long_name": "T802",
+    "trips": {
+      "250804020027S9": "MRT KWASA SENTRAL - SUBANG BESTARI"
+    }
+  },
+  "30000062": {
+    "route_long_name": "T804",
+    "trips": {
+      "250804020034S9": "MRT KWASA SENTRAL - SUBANG PERDANA"
+    }
+  },
+  "30000064": {
+    "route_long_name": "T408",
+    "trips": {
+      "250804020190S9": "MRT TAMAN MUTIARA - TAMAN SEGAR PERDANA"
+    }
+  },
+  "30000067": {
+    "route_long_name": "T803",
+    "trips": {
+      "250804022002S9": "MRT KWASA SENTRAL - SUBANG SURIA"
+    }
+  },
+  "30000068": {
+    "route_long_name": "T852",
+    "trips": {
+      "250804021013S9": "MRT SEMANTAN - MONT KIARA"
+    }
+  },
+  "30000069": {
+    "route_long_name": "T417",
+    "trips": {
+      "250804020227S9": "MRT BATU 11 CHERAS - TAMAN KARUNMAS"
+    }
+  },
+  "30000075": {
+    "route_long_name": "T352",
+    "trips": {
+      "250804021051S9": "MRT COCHRANE - TAMAN SHAMELIN"
+    }
+  },
+  "30000085": {
+    "route_long_name": "T805",
+    "trips": {
+      "250804020039S9": "MRT KOTA DAMANSARA - SEKSYEN 4 & 5"
+    }
+  },
+  "30000091": {
+    "route_long_name": "T104",
+    "trips": {
+      "250804020019S9": "MRT KAMPUNG SELAMAT - KAMPUNG BARU SG BULOH"
+    }
+  },
+  "30000092": {
+    "route_long_name": "T813",
+    "trips": {
+      "250804020066S9": "MRT TAMAN TUN DR ISMAIL - SS22"
+    }
+  },
+  "30000093": {
+    "route_long_name": "T814",
+    "trips": {
+      "250804020069S9": "MRT TTDI - TTDI"
+    }
+  },
+  "30000094": {
+    "route_long_name": "T453",
+    "trips": {
+      "250804020231S9": "MRT BUKIT DUKUNG - BANDAR SG. LONG"
+    }
+  },
+  "30000095": {
+    "route_long_name": "T454",
+    "trips": {
+      "250804020235S9": "MRT BUKIT DUKUNG - KG. SG. SEKAMAT"
+    }
+  },
+  "30000096": {
+    "route_long_name": "T455",
+    "trips": {
+      "250804020239S9": "MRT BUKIT DUKUNG - TAMAN SUTERA CHERAS"
+    }
+  },
+  "30000097": {
+    "route_long_name": "T305",
+    "trips": {
+      "250804020003S9": "MRT TAMAN MIDAH PINTU B - SRI NILAM"
+    }
+  },
+  "30000098": {
+    "route_long_name": "T402",
+    "trips": {
+      "250804020151S9": "MRT TAMAN MIDAH PINTU A - LRT SALAK SELATAN"
+    }
+  },
+  "30000100": {
+    "route_long_name": "T461",
+    "trips": {
+      "250804020514S9": "MRT KAJANG PINTU A - TAMAN KAJANG UTAMA"
+    }
+  },
+  "30000101": {
+    "route_long_name": "T462",
+    "trips": {
+      "250804020150S9": "MRT KAJANG PINTU A - SEKSYEN 8 BANGI"
+    }
+  },
+  "30000102": {
+    "route_long_name": "T463",
+    "trips": {
+      "250804021059S9": "MRT KAJANG PINTU A - BANGI SEKSYEN 4"
+    }
+  },
+  "30000105": {
+    "route_long_name": "T810",
+    "trips": {
+      "250804020055S9": "MRT MUTIARA DAMANSARA - BUKIT LANJAN"
+    }
+  },
+  "30000106": {
+    "route_long_name": "T809",
+    "trips": {
+      "250804020052S9": "MRT MUTIARA DAMANSARA - DAMANSARA PERDANA"
+    }
+  },
+  "30000115": {
+    "route_long_name": "T457",
+    "trips": {
+      "250804020156S9": "MRT STADIUM KAJANG PINTU A - PRIMA SAUJANA"
+    }
+  },
+  "30000116": {
+    "route_long_name": "T458",
+    "trips": {
+      "250804020148S9": "MRT STADIUM KAJANG PINTU A - TAMAN INDAH"
+    }
+  },
+  "30000117": {
+    "route_long_name": "T459",
+    "trips": {
+      "250804020249S9": "MRT STADIUM KAJANG - TAMAN JASMIN"
+    }
+  },
+  "30000118": {
+    "route_long_name": "T460",
+    "trips": {
+      "250804020159S9": "MRT STADIUM KAJANG - BANDAR TEKNOLOGI"
+    }
+  },
+  "30000120": {
+    "route_long_name": "T100",
+    "trips": {
+      "250804021022S9": "MRT SUNGAI BULOH - MASJID HOSPITAL SUNGAI BULOH"
+    }
+  },
+  "30000121": {
+    "route_long_name": "T101",
+    "trips": {
+      "250804020005S9": "MRT SUNGAI BULOH - BUKIT RAHMAN PUTRA"
+    }
+  },
+  "30000122": {
+    "route_long_name": "T102",
+    "trips": {
+      "250804020011S9": "MRT SUNGAI BULOH - AMAN PUTRI"
+    }
+  },
+  "30000124": {
+    "route_long_name": "T105",
+    "trips": {
+      "250804021025S9": "MRT SUNGAI BULOH - TAMAN IMPIAN INDAH"
+    }
+  },
+  "30000125": {
+    "route_long_name": "T807",
+    "trips": {
+      "250804020046S9": "MRT SURIAN - ARA DAMANSARA"
+    }
+  },
+  "30000127": {
+    "route_long_name": "T407",
+    "trips": {
+      "250804020143S9": "MRT TUN RAZAK EXCHANGE - TAMAN MALURI / DESA PANDAN"
+    }
+  },
+  "30000128": {
+    "route_long_name": "T451",
+    "trips": {
+      "250804020154S9": "MRT STADIUM KAJANG PINTU A - UKM BANGI"
+    }
+  },
+  "30000129": {
+    "route_long_name": "T464",
+    "trips": {
+      "250804020162S9": "MRT STADIUM KAJANG - TERAS JERNANG"
+    }
+  },
+  "30000130": {
+    "route_long_name": "T801",
+    "trips": {
+      "250804020023S9": "MRT KWASA SENTRAL - SEKSYEN 6. 7. 8. 9 KOTA DAMANSARA"
+    }
+  },
+  "30000131": {
+    "route_long_name": "T772",
+    "trips": {
+      "250804021512S9": "MRT KWASA SENTRAL - BUKIT SUBANG"
+    }
+  },
+  "30000132": {
+    "route_long_name": "T106",
+    "trips": {
+      "250804020012S9": "MRT SRI DAMANSARA BARAT - BANDAR SRI DAMANSARA"
+    }
+  },
+  "30000133": {
+    "route_long_name": "T107",
+    "trips": {
+      "250804020014S9": "MRT SRI DAMANSARA SENTRAL - TAMAN WANGSA PERMAI"
+    }
+  },
+  "30000134": {
+    "route_long_name": "T108",
+    "trips": {
+      "250804020017S9": "MRT SRI DAMANSARA SENTRAL - BANDAR MENJALARA"
+    }
+  },
+  "30000135": {
+    "route_long_name": "T109",
+    "trips": {
+      "250804020021S9": "MRT SRI DAMANSARA SENTRAL - DESA PARKCITY"
+    }
+  },
+  "30000136": {
+    "route_long_name": "T110",
+    "trips": {
+      "250804020029S9": "MRT SRI DAMANSARA TIMUR - TMN DESA JAYA/DESA AMAN PURI"
+    }
+  },
+  "30000137": {
+    "route_long_name": "T111",
+    "trips": {
+      "250804020031S9": "MRT SRI DAMANSARA TIMUR - TAMAN EHSAN/KEPONG ULU"
+    }
+  },
+  "30000138": {
+    "route_long_name": "T112",
+    "trips": {
+      "250804020033S9": "MRT METRO PRIMA - TAMAN KEPONG"
+    }
+  },
+  "30000139": {
+    "route_long_name": "T113",
+    "trips": {
+      "250804020037S9": "MRT METRO PRIMA - KEPONG ENTREPRENEURS PARK"
+    }
+  },
+  "30000140": {
+    "route_long_name": "T114",
+    "trips": {
+      "250804020042S8": "MRT METRO PRIMA - BANDAR BARU SELAYANG"
+    }
+  },
+  "30000141": {
+    "route_long_name": "T115",
+    "trips": {
+      "250804020043S9": "MRT KEPONG BARU - TAMAN SRI SINAR"
+    }
+  },
+  "30000143": {
+    "route_long_name": "T117",
+    "trips": {
+      "250804020053S9": "MRT JINJANG - TAMAN SRI SEGAMBUT"
+    }
+  },
+  "30000144": {
+    "route_long_name": "T118",
+    "trips": {
+      "250804020054S9": "MRT SRI DELIMA - TAMAN KOK DOH"
+    }
+  },
+  "30000145": {
+    "route_long_name": "T103",
+    "trips": {
+      "250804020007S9": "MRT DAMANSARA DAMAI - SUTERA DAMANSARA"
+    }
+  },
+  "30000146": {
+    "route_long_name": "T119",
+    "trips": {
+      "250804020013S9": "MRT KENTONMEN - PERINDUSTRIAN TAMAN SEGAMBUT"
+    }
+  },
+  "30000147": {
+    "route_long_name": "T180",
+    "trips": {
+      "250804020018S9": "MRT SENTUL BARAT - BANDAR BARU SENTUL/TAMAN DATO SENU"
+    }
+  },
+  "30000148": {
+    "route_long_name": "T562",
+    "trips": {
+      "250804020118S9": "MRT SERDANG RAYA UTARA - SERDANG PERDANA"
+    }
+  },
+  "30000149": {
+    "route_long_name": "T508",
+    "trips": {
+      "250804020099S9": "MRT PUTRAJAYA SENTRAL - PRESINT 10"
+    }
+  },
+  "30000150": {
+    "route_long_name": "T504",
+    "trips": {
+      "250804020068S9": "MRT CYBERJAYA UTARA - CYBER 11"
+    }
+  },
+  "30000151": {
+    "route_long_name": "T505",
+    "trips": {
+      "250804020048S9": "MRT CYBERJAYA UTARA - TAMAN PINGGIRAN CYBER"
+    }
+  },
+  "30000152": {
+    "route_long_name": "T506",
+    "trips": {
+      "250804020032S9": "MRT CYBERJAYA CITY CENTRE - CYBER 10"
+    }
+  },
+  "30000153": {
+    "route_long_name": "T507",
+    "trips": {
+      "250804020163S9": "MRT CYBERJAYA CITY CENTRE - CYBERJAYA TRANSPORT TERMINAL"
+    }
+  },
+  "30000154": {
+    "route_long_name": "T509",
+    "trips": {
+      "250804020127S9": "MRT PUTRAJAYA SENTRAL - PRESINT 16/ALAMANDA"
+    }
+  },
+  "30000155": {
+    "route_long_name": "T510",
+    "trips": {
+      "250804020104S9": "MRT PUTRAJAYA SENTRAL - AYER 8"
+    }
+  },
+  "30000156": {
+    "route_long_name": "T544",
+    "trips": {
+      "250804020114S9": "MRT PUTRA PERMAI - TAMAN LESTARI PUTRA"
+    }
+  },
+  "30000157": {
+    "route_long_name": "T512",
+    "trips": {
+      "250804020108S9": "MRT PUTRAJAYA SENTRAL - PRESINT 11"
+    }
+  },
+  "30000158": {
+    "route_long_name": "T561",
+    "trips": {
+      "250804020077S9": "MRT SERDANG RAYA UTARA - THE PARK BUKIT SERDANG"
+    }
+  },
+  "30000159": {
+    "route_long_name": "T563",
+    "trips": {
+      "250804020081S9": "MRT SERDANG RAYA UTARA - BUKIT JALIL & TPM"
+    }
+  },
+  "30000160": {
+    "route_long_name": "T564",
+    "trips": {
+      "250804020083S9": "MRT SERDANG RAYA SELATAN - KAMPUNG BARU SERI KEMBANGAN"
+    }
+  },
+  "30000161": {
+    "route_long_name": "T585",
+    "trips": {
+      "250804020117S9": "MRT KUCHAI - TAMAN DESA"
+    }
+  },
+  "30000162": {
+    "route_long_name": "T586",
+    "trips": {
+      "250804020120S9": "MRT KUCHAI - TAMAN OVERSEA UNION"
+    }
+  },
+  "30000163": {
+    "route_long_name": "T587",
+    "trips": {
+      "250804020121S9": "MRT KUCHAI - DESA PETALING"
+    }
+  },
+  "30000164": {
+    "route_long_name": "T588",
+    "trips": {
+      "250804020124S9": "MRT KUCHAI - JALAN KLANG LAMA"
+    }
+  },
+  "30000165": {
+    "route_long_name": "T543",
+    "trips": {
+      "250804020098S9": "MRT TAMAN EQUINE - PPR PINGGIRAN BUKIT JALIL"
+    }
+  },
+  "30000166": {
+    "route_long_name": "T568",
+    "trips": {
+      "250804020126S9": "MRT UPM - DE CENTRUM MALL"
+    }
+  },
+  "30000167": {
+    "route_long_name": "T566",
+    "trips": {
+      "250804020094S9": "MRT UPM - TAMAN BUKIT SERDANG/UNIVERSITI INDAH"
+    }
+  },
+  "30000168": {
+    "route_long_name": "T567",
+    "trips": {
+      "250804020097S9": "MRT UPM - TAMAN SRI SERDANG/FAKULTI KEJURUTERAAN"
+    }
+  },
+  "30000169": {
+    "route_long_name": "T418",
+    "trips": {
+      "250804020090S9": "MRT CHAN SOW LIN - KENANGA MALL"
+    }
+  },
+  "30000170": {
+    "route_long_name": "T419",
+    "trips": {
+      "250804020036S9": "MRT CHAN SOW LIN - RAZAK MANSION"
+    }
+  },
+  "30000171": {
+    "route_long_name": "T589",
+    "trips": {
+      "250804020125S9": "MRT TAMAN NAGA EMAS - BANDAR BARU SRI PETALING/SALAK SOUTH GARDEN"
+    }
+  },
+  "30000172": {
+    "route_long_name": "T559",
+    "trips": {
+      "250804020063S9": "MRT SUNGAI BESI - KAMPUNG MALAYSIA TAMBAHAN"
+    }
+  },
+  "30000173": {
+    "route_long_name": "T560",
+    "trips": {
+      "250804020067S9": "MRT SUNGAI BESI - BANDAR TASIK SELATAN"
+    }
+  },
+  "30000174": {
+    "route_long_name": "T565",
+    "trips": {
+      "250804020112S9": "MRT SERDANG JAYA - THE MINES"
+    }
+  },
+  "30000175": {
+    "route_long_name": "T542",
+    "trips": {
+      "250804020109S9": "MRT TAMAN EQUINE - TAMAN PINGGIRAN PUTRA"
+    }
+  },
+  "30000176": {
+    "route_long_name": "T511",
+    "trips": {
+      "250804020106S9": "MRT PUTRAJAYA SENTRAL - PRESINT 4"
+    }
+  },
+  "30000180": {
+    "route_long_name": "T545",
+    "trips": {
+      "250804020059S9": "MRT PUTRA PERMAI - LRT PUCHONG PERDANA via TERMINAL PUCHONG UTAMA"
+    }
+  },
+  "30000181": {
+    "route_long_name": "T569",
+    "trips": {
+      "250804020105S9": "MRT SERDANG JAYA - MRT BATU 11 CHERAS"
+    }
+  },
+  "30000183": {
+    "route_long_name": "T152",
+    "trips": {
+      "250804020122S9": "MRT METRO PRIMA - PUSAT BANDAR SELAYANG"
+    }
+  },
+  "30000184": {
+    "route_long_name": "T121",
+    "trips": {
+      "250804020128S9": "MRT SRI DELIMA - TAMAN WAHYU"
+    }
+  },
+  "30000185": {
+    "route_long_name": "T154",
+    "trips": {
+      "250804020131S8": "MRT SUNGAI BULOH - KUANG"
+    }
+  },
+  "30000186": {
+    "route_long_name": "T155",
+    "trips": {
+      "250804020136S9": "PINEWOOD COURT - MRT SUNGAI BULOH"
+    }
+  },
+  "30000187": {
+    "route_long_name": "T465",
+    "trips": {
+      "250804020172S9": "MRT STADIUM KAJANG - JADE HILLS"
+    }
+  }
+}
