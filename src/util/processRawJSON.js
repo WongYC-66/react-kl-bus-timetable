@@ -38,6 +38,36 @@ const generateStopData = async () => {
     await writeToDisk('my-stops.json', stopIdToHash)
 }
 
+const generateRouteWithKeywords = async () => {
+    // derivative data from my-routes.json/my-stops.json/my-trips.json
+    const { default: myAllRoutes } = await import("../data/my-routes.json", { with: { type: 'json' } })
+    const { default: myAllTrips } = await import("../data/my-trips.json", { with: { type: 'json' } })
+    const { default: myAllStops } = await import("../data/my-stops.json", { with: { type: 'json' } })
+
+    const routeIdToKeywords = {}
+    for (let routeId in myAllRoutes) {
+        const info = myAllRoutes[routeId]
+        const { route_long_name, trips } = info
+        const keywords = [route_long_name]
+
+        for (let tripId in trips) {
+            const trip = myAllTrips[tripId]
+            for (let stopSeq in trip) {
+                const stopId = trip[stopSeq].stop_id
+                const stopName = myAllStops[stopId].stop_name
+                keywords.push(stopName)
+            }
+        }
+        routeIdToKeywords[routeId] = keywords
+    }
+
+    for (let routeId in routeIdToKeywords) {
+        const strArr = routeIdToKeywords[routeId]
+        routeIdToKeywords[routeId] = [...new Set(strArr)]   // to unique
+    }
+    await writeToDisk('my-routes-keywords.json', routeIdToKeywords)
+}
+
 
 const writeToDisk = async (filename, data) => {
     const stringified = JSON.stringify(data, null, 2)
@@ -53,6 +83,7 @@ const main = async () => {
         await generateRouteData()
         await generateTripData()
         await generateStopData()
+        await generateRouteWithKeywords()
     } catch (e) {
         console.error("FAILED!")
         console.error(e)
