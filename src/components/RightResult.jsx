@@ -12,18 +12,15 @@ export default function RightResult(props) {
 
   const stop_sequences = useMemo(() => Object.keys(allStops), [selectedRoute])
 
-  // continue here -
-  // 1. stop.jsx - show times
-  // 2. problem - StopStation not in order like Pulse, T114
-
   // console.log(allStops)
+  console.log(stop_sequences)
 
   return (
     <div className="result-right-window w-1/2">
 
       {/* TripName */}
       {tripNames.map(name =>
-        <h2 
+        <h2
           className="text-xl lg:text-4xl font-bold"
           key={name}>{name}
         </h2>
@@ -32,7 +29,7 @@ export default function RightResult(props) {
       {/* Each Bus Stop */}
       {stop_sequences.map(stopSeq =>
         <Stop
-          key={stopSeq}
+          key={selectedRoute + stopSeq}
           stopSeq={stopSeq}
           detail={allStops[stopSeq]}
         />
