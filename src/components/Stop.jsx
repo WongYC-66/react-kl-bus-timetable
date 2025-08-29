@@ -50,7 +50,7 @@ export default function Stop(props) {
       <div className="flex justify-center mt-3">
         {showSchedule &&
           <button className="btn btn-soft" onClick={handleViewMoreBtnClick}>
-            View More
+            View {showAll ? 'Less' : 'More'}
           </button>
         }
       </div>
