@@ -50,7 +50,14 @@ export default function App() {
         <p>
           Created by YC_Wong @2025
         </p>
-        <p>Disclaimer: Not Live data. Only serves as reference, data source : https://developer.data.gov.my/realtime-api/gtfs-static</p>
+
+        <p>Disclaimer: Not Live data. Only serves as reference. </p>
+
+        <p>
+          <a href='https://github.com/WongYC-66/react-kl-bus-timetable'>soure code</a> 
+          <span> </span>
+          <a href='https://developer.data.gov.my/realtime-api/gtfs-static'>data source</a>
+        </p>
       </footer>
     </div>
   )
