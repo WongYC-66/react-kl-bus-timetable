@@ -52,6 +52,9 @@ const generateRouteWithKeywords = async () => {
         const keywords = [route_long_name]
 
         for (let tripId in trips) {
+            const tripName = trips[tripId]
+            keywords.push(tripName)
+
             const trip = myAllTrips[tripId]
             for (let stopSeq in trip) {
                 const stopId = trip[stopSeq].stop_id
