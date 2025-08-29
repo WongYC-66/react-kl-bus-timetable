@@ -13,7 +13,7 @@ export default function RightResult(props) {
   const stop_sequences = useMemo(() => Object.keys(allStops), [selectedRoute])
 
   // console.log(allStops)
-  console.log(stop_sequences)
+  // console.log(stop_sequences)
 
   return (
     <div className="result-right-window w-1/2">

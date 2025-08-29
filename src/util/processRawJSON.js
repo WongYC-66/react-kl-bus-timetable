@@ -39,7 +39,8 @@ const generateStopData = async () => {
 }
 
 const generateRouteWithKeywords = async () => {
-    // derivative data from my-routes.json/my-stops.json/my-trips.json
+    // derive data from my-routes.json/my-stops.json/my-trips.json
+    // to be used as keyword search reference
     const { default: myAllRoutes } = await import("../data/my-routes.json", { with: { type: 'json' } })
     const { default: myAllTrips } = await import("../data/my-trips.json", { with: { type: 'json' } })
     const { default: myAllStops } = await import("../data/my-stops.json", { with: { type: 'json' } })
@@ -55,7 +56,8 @@ const generateRouteWithKeywords = async () => {
             for (let stopSeq in trip) {
                 const stopId = trip[stopSeq].stop_id
                 const stopName = myAllStops[stopId].stop_name
-                keywords.push(stopName)
+                const stopCode = myAllStops[stopId].stop_code
+                keywords.push(stopName, stopCode)
             }
         }
         routeIdToKeywords[routeId] = keywords
