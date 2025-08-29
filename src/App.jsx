@@ -16,13 +16,13 @@ export default function App() {
   // console.log({ searchTerm, selectedRoute })
 
   return (
-    <div id='container' className='p-15'>
+    <div id='container' className='p-4 lg:p-16'>
       <header>
         <h1 className='text-5xl'>KL Bus Timetable (MRT Feeder Bus)</h1>
       </header>
 
       <main>
-        <div className='search-input sticky top-0 '>
+        <div className='search-input sticky top-0 inline:block'>
           <label>
             Search :
             <input type='text'

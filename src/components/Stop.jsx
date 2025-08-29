@@ -23,12 +23,13 @@ export default function Stop(props) {
   return (
     <div className="my-5" >
       {/* Stop name */}
-      <h2 className={`${showSchedule ? 'font-black text-xl' : 'text-lg'} `} onClick={handleStopClick}>
+      <h2 className={`${showSchedule ? 'font-bold text-xl' : 'text-lg'} `} onClick={handleStopClick}>
         {stopSeq} - {stop_name} - {stop_code}
       </h2>
 
       {/* Grid of Arrival times */}
-      <div className="grid gap-1 grid-cols-[repeat(auto-fill,minmax(150px,1fr))] ps-12">
+      <div className="grid gap-1 grid-cols-[repeat(auto-fill,minmax(75px,1fr))]
+       lg:grid-cols-[repeat(auto-fill,minmax(150px,1fr))] lg:ps-12">
         {showSchedule && uniqueArrivalTimes.map(({ expired, display }) => {
 
           let toShow = showAll || !expired

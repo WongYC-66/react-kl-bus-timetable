@@ -24,7 +24,7 @@ export default function RightResult(props) {
       {/* TripName */}
       {tripNames.map(name =>
         <h2 
-          className="text-4xl font-bold"
+          className="text-xl lg:text-4xl font-bold"
           key={name}>{name}
         </h2>
       )}
