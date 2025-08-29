@@ -50,6 +50,7 @@ export default function App() {
         <p>
           Created by YC_Wong @2025
         </p>
+        <p>Disclaimer: Not Live data. Only serves as reference, data source : https://developer.data.gov.my/realtime-api/gtfs-static</p>
       </footer>
     </div>
   )

@@ -6,23 +6,30 @@ export default function Stop(props) {
   const { arrival_times, stop_code, stop_name, stop_id } = detail
 
   const [showAll, setShowAll] = useState(false)
+  const [showSchedule, setShowSchedule] = useState(false)
 
   const formattedArrivalTimes = useMemo(() => formatArrivalTime(arrival_times), [stop_name])
 
   const uniqueArrivalTimes = useMemo(() => filterToUnique(formattedArrivalTimes), [stop_name])
 
   const handleStopClick = () => {
+    setShowSchedule(prev => !prev)
+  }
+
+  const handleViewMoreBtnClick = () => {
     setShowAll(prev => !prev)
   }
 
   return (
-    <div className="my-5" onClick={handleStopClick}>
-      <p className="text-xl font-bold">
+    <div className="my-5" >
+      {/* Stop name */}
+      <h2 className={`${showSchedule ? 'font-black text-xl' : 'text-lg'} `} onClick={handleStopClick}>
         {stopSeq} - {stop_name} - {stop_code}
-      </p>
+      </h2>
 
+      {/* Grid of Arrival times */}
       <div className="grid gap-1 grid-cols-[repeat(auto-fill,minmax(150px,1fr))] ps-12">
-        {uniqueArrivalTimes.map(({ expired, display }) => {
+        {showSchedule && uniqueArrivalTimes.map(({ expired, display }) => {
 
           let toShow = showAll || !expired
 
@@ -37,6 +44,16 @@ export default function Stop(props) {
         })}
 
       </div>
+
+      {/* Button */}
+      <div className="flex justify-center mt-3">
+        {showSchedule &&
+          <button className="btn btn-soft" onClick={handleViewMoreBtnClick}>
+            View More
+          </button>
+        }
+      </div>
+
     </div>
   )
 }
