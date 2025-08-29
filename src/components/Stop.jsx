@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 
 export default function Stop(props) {
 
@@ -7,29 +7,9 @@ export default function Stop(props) {
 
   const [showAll, setShowAll] = useState(false)
 
-  const nowUtc8 = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Kuala_Lumpur" }));
+  const formattedArrivalTimes = useMemo(() => formatArrivalTime(arrival_times), [stop_name])
 
-  // "14:06:44"
-  const nowTime = nowUtc8.toLocaleTimeString("en-GB", {
-    hour12: false,
-    timeZone: "Asia/Kuala_Lumpur"
-  });
-
-  const convertedArrivalTimes = arrival_times
-    .sort()
-    .map(time => ({ time, expired: nowTime >= time }))
-    .map(({ time, ...rest }) => ({
-      ...rest,
-      time: time.startsWith('24') ? time.replace('24', '00') : time,  //  24:15:00 -> 00:15:00
-    }))
-    .map(({ time, ...rest }) => ({
-      ...rest,
-      display: new Date(`2024-01-01T${time}+08:00`).toLocaleTimeString("en-MY", { hour: "2-digit", minute: "2-digit" }),  // 00:15:00 -> 12:15 am
-    }))
-
-  const uniqueArrivalTimes = [...new Set(convertedArrivalTimes)]
-
-  // console.log(arrival_times)
+  const uniqueArrivalTimes = useMemo(() => filterToUnique(formattedArrivalTimes), [stop_name])
 
   const handleStopClick = () => {
     setShowAll(prev => !prev)
@@ -59,4 +39,40 @@ export default function Stop(props) {
       </div>
     </div>
   )
+}
+
+
+const formatArrivalTime = (arrival_times) => {
+  const nowUtc8 = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Kuala_Lumpur" }));
+
+  // "14:06:44"
+  const nowTime = nowUtc8.toLocaleTimeString("en-GB", {
+    hour12: false,
+    timeZone: "Asia/Kuala_Lumpur"
+  });
+
+  return arrival_times
+    .sort()
+    .map(time => ({ time, expired: nowTime >= time }))
+    .map(({ time, ...rest }) => ({
+      ...rest,
+      time: time.startsWith('24') ? time.replace('24', '00') : time,  //  24:15:00 -> 00:15:00
+    }))
+    .map(({ time, ...rest }) => ({
+      ...rest,
+      display: new Date(`2024-01-01T${time}+08:00`).toLocaleTimeString("en-MY", { hour: "2-digit", minute: "2-digit" }),  // 00:15:00 -> 12:15 am
+    }))
+}
+
+const filterToUnique = (convertedArrivalTimes) => {
+  const seen = new Set()
+  const res = []
+
+  for (let { display, ...rest } of convertedArrivalTimes) {
+    if (seen.has(display)) continue
+    seen.add(display)
+    res.push({ ...rest, display })
+  }
+
+  return res
 }
