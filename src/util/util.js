@@ -1,33 +1,20 @@
 import allRoutes from "../data/my-routes.json"
 import allTrips from "../data/my-trips.json"
 import allStops from "../data/my-stops.json"
+import allRouteWithKeywords from "../data/my-routes-keywords.json"
 
 export const getRelevantRoutes = (searchTerm) => {
     searchTerm = searchTerm.toLowerCase()
 
-    const result = _getRelevantRoutes()     // [[routeId, [str1, str2, ...]]]
-
-    return result
-        .filter(([_, areaToSearch]) => areaToSearch.some(text => text.toLowerCase().includes(searchTerm)))
-        .map(([routeId]) => routeId)
-}
-
-const _getRelevantRoutes = () => {
     const result = []
 
-    for (let routeId in allRoutes) {
-        let areaToSearch = new Set()
+    Object.entries(allRouteWithKeywords)
+        .forEach(([routeId, keywords]) => {
+            if (keywords.some(key => key.toLowerCase().includes(searchTerm))) {
+                result.push(routeId)
+            }
+        })
 
-        const routeDetail = allRoutes[routeId]
-
-        areaToSearch.add(routeDetail.route_long_name)   // e.g. T808
-
-        for (let tripId in routeDetail.trips) {
-            areaToSearch.add(routeDetail.trips[tripId]) // e.g. MRT SURIAN - SEK 11 KOTA DAMANSARA
-        }
-
-        result.push([routeId, [...areaToSearch]])
-    }
     return result
 }
 

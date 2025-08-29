@@ -13,7 +13,7 @@ export default function App() {
 
   const routesWithNames = getRouteWithNames(routes)
 
-  // console.log({ searchTerm, selectedRoute })
+  // console.log({ routes, routesWithNames })
 
   return (
     <div id='container' className='p-4 lg:p-16'>
