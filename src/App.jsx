@@ -54,6 +54,8 @@ export default function App() {
           <a href='https://github.com/WongYC-66/react-kl-bus-timetable' className='text-decoration-line: underline'>soure code</a>
           <span> </span>
           <a href='https://developer.data.gov.my/realtime-api/gtfs-static' className='text-decoration-line: underline'>data source</a>
+          <span> </span>
+          <a href='https://myrapidbus.prasarana.com.my/kiosk' className='text-decoration-line: underline'>RapidKL Live</a>
         </p>
       </footer>
     </div>

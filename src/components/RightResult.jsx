@@ -22,12 +22,10 @@ export default function RightResult(props) {
       {/* Selected Route Header */}
       <RouteHeader selectedRoute={selectedRoute} />
 
-
-
       {/* TripName */}
       {tripNames.map(name =>
         <h2
-          className="text-xl lg:text-4xl font-bold"
+          className="text-xl lg:text-4xl font-bold my-2"
           key={name}>{name}
         </h2>
       )}
