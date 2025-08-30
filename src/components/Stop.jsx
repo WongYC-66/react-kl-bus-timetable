@@ -20,6 +20,8 @@ export default function Stop(props) {
     setShowAll(prev => !prev)
   }
 
+  console.log({ arrival_times })
+
   return (
     <div className="my-5" >
       {/* Stop name */}
@@ -70,6 +72,7 @@ const formatArrivalTime = (arrival_times) => {
   });
 
   return arrival_times
+    .map(time => time.padStart(8, '0'))
     .sort()
     .map(time => ({ time, expired: nowTime >= time }))
     .map(({ time, ...rest }) => ({
