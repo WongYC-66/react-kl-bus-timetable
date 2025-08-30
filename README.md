@@ -11,6 +11,6 @@
 5. access at  http://localhost:5173/react-kl-bus-timetable/
 
 ### todo:
-1. add Map to see Route !!! https://www.openstreetmap.org/way/
+1. add Map to see Route !!! https://www.openstreetmap.org/
 2. tabulate the stop arrival time ? like https://gtfstohtml.com/
 3. add REALTIME DATA  ??? https://www.npmjs.com/package/gtfs-realtime-bindings
