@@ -7,3 +7,8 @@
 3. npm install
 4. npm run dev
 5. access at  http://localhost:5173/react-kl-bus-timetable/
+
+### todo:
+1. add Map to see Route !!!
+2. tabulate the stop arrival time ? like https://gtfstohtml.com/
+3. add REALTIME DATA  ??? https://www.npmjs.com/package/gtfs-realtime-bindings

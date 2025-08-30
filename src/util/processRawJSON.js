@@ -1,9 +1,10 @@
 import { writeFile } from 'node:fs/promises';
+import { pathToFileURL } from 'node:url'
 
-import allRoutes from "../../public/data/routes.json" with { type: "json" };
-import allTrips from "../../public/data/trips.json" with { type: "json" };
-import allStopTimes from "../../public/data/stop_times.json" with { type: "json" };
-import allStops from "../../public/data/stops.json" with { type: "json" };
+import allRoutes from "../../public/data/rapid-bus-mrtfeeder/routes.json" with { type: "json" };
+import allTrips from "../../public/data/rapid-bus-mrtfeeder/trips.json" with { type: "json" };
+import allStopTimes from "../../public/data/rapid-bus-mrtfeeder/stop_times.json" with { type: "json" };
+import allStops from "../../public/data/rapid-bus-mrtfeeder/stops.json" with { type: "json" };
 
 const generateRouteData = async () => {
     const routeIdToHash = {}
@@ -18,7 +19,7 @@ const generateRouteData = async () => {
         routeIdToHash[route_id].trips[trip_id] = trip_headsign
     })
 
-    await writeToDisk('my-routes.json', routeIdToHash)
+    await writeToDisk({ filename: 'my-routes.json', data: routeIdToHash })
 }
 
 const generateTripData = async () => {
@@ -27,7 +28,7 @@ const generateTripData = async () => {
         tripIdToHash[trip_id] ??= {}
         tripIdToHash[trip_id][stop_sequence] = { arrival_time, stop_id }
     })
-    await writeToDisk('my-trips.json', tripIdToHash)
+    await writeToDisk({ filename: 'my-trips.json', data: tripIdToHash })
 }
 
 const generateStopData = async () => {
@@ -35,7 +36,7 @@ const generateStopData = async () => {
     allStops.forEach(({ stop_id, stop_code, stop_name, ...rest }) => {
         stopIdToHash[stop_id] = { stop_code, stop_name }
     })
-    await writeToDisk('my-stops.json', stopIdToHash)
+    await writeToDisk({ filename: 'my-stops.json', data: stopIdToHash })
 }
 
 const generateRouteWithKeywords = async () => {
@@ -70,14 +71,16 @@ const generateRouteWithKeywords = async () => {
         const strArr = routeIdToKeywords[routeId]
         routeIdToKeywords[routeId] = [...new Set(strArr)]   // to unique
     }
-    await writeToDisk('my-routes-keywords.json', routeIdToKeywords)
+    await writeToDisk({ filename: 'my-routes-keywords.json', data: routeIdToKeywords })
 }
 
 
-const writeToDisk = async (filename, data) => {
+export const writeToDisk = async ({ filename, outputFolder, data }) => {
     const stringified = JSON.stringify(data, null, 2)
     // const stringified = JSON.stringify(data)
-    const path = `./src/data/${filename}`
+    const path = outputFolder
+        ? `${outputFolder}/${filename}`
+        : `./src/data/${filename}`
     await writeFile(path, stringified, { encoding: "utf8" })
     console.log(`Writed to ${path}`)
 }
@@ -95,5 +98,6 @@ const main = async () => {
     }
 }
 
-
-main()
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+    main()
+}
