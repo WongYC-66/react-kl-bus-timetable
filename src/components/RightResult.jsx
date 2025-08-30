@@ -1,5 +1,5 @@
 import { useMemo } from "react"
-import { getRouteNameById, getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
+import { getRouteNameById, getRouteProvider, getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
 import Stop from "./Stop"
 
 export default function RightResult(props) {
@@ -7,11 +7,11 @@ export default function RightResult(props) {
 
   if (selectedRoute === null) return <></>
 
-  const routeNameDisplay = useMemo(() => getRouteNameById(selectedRoute), [selectedRoute])
   const tripNames = useMemo(() => getTripNamesByRouteId(selectedRoute), [selectedRoute])
   const allStops = useMemo(() => getStopAndTimeByRouteId(selectedRoute), [selectedRoute])
 
   const stop_sequences = useMemo(() => Object.keys(allStops), [selectedRoute])
+
 
   // console.log(allStops)
   // console.log(stop_sequences)
@@ -19,10 +19,10 @@ export default function RightResult(props) {
   return (
     <div className="result-right-window w-1/2">
 
-      {/* Selected Route Name */}
-      <h2 className="text-xl lg:text-4xl font-bold">
-        {routeNameDisplay}
-      </h2>
+      {/* Selected Route Header */}
+      <RouteHeader selectedRoute={selectedRoute} />
+
+
 
       {/* TripName */}
       {tripNames.map(name =>
@@ -42,5 +42,33 @@ export default function RightResult(props) {
       )}
 
     </div>
+  )
+}
+
+function RouteHeader(props) {
+  const { selectedRoute } = props
+
+  const isMRTFeeder = getRouteProvider(selectedRoute) === 'MRT_Feeder'
+  const isRapidKL = getRouteProvider(selectedRoute) === 'RapidKL'
+  const routeNameDisplay = getRouteNameById(selectedRoute)
+
+  return (
+    <>
+      {isMRTFeeder && <>
+        <span className="text-xl lg:text-4xl font-bold outline-2 outline-offset-3 outline-yellow-400 text-yellow-400">
+          {routeNameDisplay}
+        </span>
+
+        <span className="ms-4 badge badge-xs badge-warning">MRT Feeder</span>
+      </>}
+
+      {isRapidKL && <>
+        <span className="text-xl lg:text-4xl font-bold outline-2 outline-offset-3 outline-indigo-500 text-indigo-500">
+          {routeNameDisplay}
+        </span>
+
+        <span className="ms-4 badge badge-sm badge-primary">RapidKL</span>
+      </>}
+    </>
   )
 }
