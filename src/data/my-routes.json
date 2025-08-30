@@ -1,6 +1,7 @@
 {
   "30000009": {
     "route_long_name": "T808",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010049S10": "MRT SURIAN - SEK 11 KOTA DAMANSARA",
       "250804010049S11": "MRT SURIAN - SEK 11 KOTA DAMANSARA",
@@ -62,6 +63,7 @@
   },
   "30000010": {
     "route_long_name": "T811",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010057S10": "MRT BANDAR UTAMA - MUTIARA TROPICANA",
       "250804010057S11": "MRT BANDAR UTAMA - MUTIARA TROPICANA",
@@ -128,6 +130,7 @@
   },
   "30000011": {
     "route_long_name": "T812",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010061S10": "MRT BANDAR UTAMA - TAMAN TUN DR ISMAIL (NORTH) / KG SG PENCHALA",
       "250804010061S11": "MRT BANDAR UTAMA - TAMAN TUN DR ISMAIL (NORTH) / KG SG PENCHALA",
@@ -196,6 +199,7 @@
   },
   "30000016": {
     "route_long_name": "T815",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010071S10": "MRT PHILEO DAMANSARA - UNIVERSITI MALAYA",
       "250804010071S11": "MRT PHILEO DAMANSARA - UNIVERSITI MALAYA",
@@ -294,6 +298,7 @@
   },
   "30000025": {
     "route_long_name": "T816",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010076S10": "MRT PHILEO DAMANSARA - SS2",
       "250804010076S11": "MRT PHILEO DAMANSARA - SS2",
@@ -376,6 +381,7 @@
   },
   "30000026": {
     "route_long_name": "T817",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010080S2": "MRT PUSAT BANDAR DAMANSARA - MIDVALLEY",
       "250804010080S3": "MRT PUSAT BANDAR DAMANSARA - MIDVALLEY",
@@ -451,6 +457,7 @@
   },
   "30000027": {
     "route_long_name": "T818",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010094S10": "DESA SRI HARTAMAS - MRT SEMANTAN",
       "250804010094S11": "DESA SRI HARTAMAS - MRT SEMANTAN",
@@ -536,6 +543,7 @@
   },
   "30000028": {
     "route_long_name": "T819",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010088S10": "MRT SEMANTAN - STESEN KL SENTRAL via STESEN KTM SEGAMBUT",
       "250804010088S11": "MRT SEMANTAN - STESEN KL SENTRAL via STESEN KTM SEGAMBUT",
@@ -593,6 +601,7 @@
   },
   "30000029": {
     "route_long_name": "T820",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010093S10": "MRT SEMANTAN - MENARA DBKL 2",
       "250804010093S11": "MRT SEMANTAN - MENARA DBKL 2",
@@ -634,6 +643,7 @@
   },
   "30000030": {
     "route_long_name": "T821",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010097S10": "MRT SEMANTAN - KOMPLEKS MAHKAMAH JALAN DUTA",
       "250804010097S11": "MRT SEMANTAN - KOMPLEKS MAHKAMAH JALAN DUTA",
@@ -664,6 +674,7 @@
   },
   "30000034": {
     "route_long_name": "T456",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010240S10": "MRT SUNGAI JERNIH PINTU B - SAUJANA IMPIAN",
       "250804010240S11": "MRT SUNGAI JERNIH PINTU B - SAUJANA IMPIAN",
@@ -717,6 +728,7 @@
   },
   "30000036": {
     "route_long_name": "T415",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010218S10": "MRT BANDAR TUN HUSSEIN ONN PINTU B - MAHKOTA CHERAS",
       "250804010218S11": "MRT BANDAR TUN HUSSEIN ONN PINTU B - MAHKOTA CHERAS",
@@ -783,6 +795,7 @@
   },
   "30000038": {
     "route_long_name": "T409",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010192S10": "MRT TAMAN MUTIARA - TAMAN SUPREME / KETUMBAR HILL",
       "250804010192S11": "MRT TAMAN MUTIARA - TAMAN SUPREME / KETUMBAR HILL",
@@ -867,6 +880,7 @@
   },
   "30000040": {
     "route_long_name": "T410",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010168S10": "MRT TAMAN CONNAUGHT - BANDAR TASIK SELATAN",
       "250804010168S11": "MRT TAMAN CONNAUGHT - BANDAR TASIK SELATAN",
@@ -948,6 +962,7 @@
   },
   "30000041": {
     "route_long_name": "T411",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010201S10": "MRT TAMAN CONNAUGHT - TAMAN CHERAS AWANA",
       "250804010201S11": "MRT TAMAN CONNAUGHT - TAMAN CHERAS AWANA",
@@ -1013,6 +1028,7 @@
   },
   "30000044": {
     "route_long_name": "T413",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010212S10": "MRT TAMAN SUNTEX - TAMAN KEMACAHAYA",
       "250804010212S11": "MRT TAMAN SUNTEX - TAMAN KEMACAHAYA",
@@ -1079,6 +1095,7 @@
   },
   "30000045": {
     "route_long_name": "T414",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010214S10": "MRT SRI RAYA - TAMAN TUN PERAK / TAMAN MEGAH",
       "250804010214S11": "MRT SRI RAYA - TAMAN TUN PERAK / TAMAN MEGAH",
@@ -1145,6 +1162,7 @@
   },
   "30000046": {
     "route_long_name": "T416",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010221S10": "MRT BATU SEBELAS CHERAS - TAMAN CHERAS JAYA",
       "250804010221S11": "MRT BATU SEBELAS CHERAS - TAMAN CHERAS JAYA",
@@ -1211,6 +1229,7 @@
   },
   "30000056": {
     "route_long_name": "T412",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010150S10": "MRT TAMAN CONNAUGHT - ALAM DAMAI",
       "250804010150S11": "MRT TAMAN CONNAUGHT - ALAM DAMAI",
@@ -1296,6 +1315,7 @@
   },
   "30000057": {
     "route_long_name": "T400",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010920S10": "MRT COCHRANE - BANDAR TUN RAZAK",
       "250804010920S11": "MRT COCHRANE - BANDAR TUN RAZAK",
@@ -1363,6 +1383,7 @@
   },
   "30000058": {
     "route_long_name": "T401",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010924S10": "MRT COCHRANE - BANDAR SRI PERMAISURI",
       "250804010924S11": "MRT COCHRANE - BANDAR SRI PERMAISURI",
@@ -1430,6 +1451,7 @@
   },
   "30000060": {
     "route_long_name": "T802",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010025S10": "MRT KWASA SENTRAL - SUBANG BESTARI",
       "250804010025S11": "MRT KWASA SENTRAL - SUBANG BESTARI",
@@ -1509,6 +1531,7 @@
   },
   "30000062": {
     "route_long_name": "T804",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010079S10": "MRT KWASA SENTRAL - SUBANG PERDANA",
       "250804010079S11": "MRT KWASA SENTRAL - SUBANG PERDANA",
@@ -1554,6 +1577,7 @@
   },
   "30000064": {
     "route_long_name": "T408",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010165S10": "MRT TAMAN MUTIARA - TAMAN SEGAR PERDANA",
       "250804010165S11": "MRT TAMAN MUTIARA - TAMAN SEGAR PERDANA",
@@ -1630,6 +1654,7 @@
   },
   "30000067": {
     "route_long_name": "T803",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010273S10": "MRT KWASA SENTRAL - SUBANG SURIA",
       "250804010273S11": "MRT KWASA SENTRAL - SUBANG SURIA",
@@ -1703,6 +1728,7 @@
   },
   "30000068": {
     "route_long_name": "T852",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010112S10": "MRT SEMANTAN - MONT KIARA",
       "250804010112S11": "MRT SEMANTAN - MONT KIARA",
@@ -1821,6 +1847,7 @@
   },
   "30000069": {
     "route_long_name": "T417",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010172S10": "MRT BATU 11 CHERAS - TAMAN KARUNMAS",
       "250804010172S11": "MRT BATU 11 CHERAS - TAMAN KARUNMAS",
@@ -1890,6 +1917,7 @@
   },
   "30000075": {
     "route_long_name": "T352",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010158S10": "MRT COCHRANE - TAMAN SHAMELIN",
       "250804010158S11": "MRT COCHRANE - TAMAN SHAMELIN",
@@ -1972,6 +2000,7 @@
   },
   "30000085": {
     "route_long_name": "T805",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010039S10": "MRT KOTA DAMANSARA - SEKSYEN 4 & 5",
       "250804010039S11": "MRT KOTA DAMANSARA - SEKSYEN 4 & 5",
@@ -2031,6 +2060,7 @@
   },
   "30000091": {
     "route_long_name": "T104",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010019S10": "MRT KAMPUNG SELAMAT - KAMPUNG BARU SG BULOH",
       "250804010019S11": "MRT KAMPUNG SELAMAT - KAMPUNG BARU SG BULOH",
@@ -2083,6 +2113,7 @@
   },
   "30000092": {
     "route_long_name": "T813",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010065S10": "MRT TAMAN TUN DR ISMAIL - SS22",
       "250804010065S11": "MRT TAMAN TUN DR ISMAIL - SS22",
@@ -2178,6 +2209,7 @@
   },
   "30000093": {
     "route_long_name": "T814",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010069S10": "MRT TTDI - TTDI",
       "250804010069S11": "MRT TTDI - TTDI",
@@ -2233,6 +2265,7 @@
   },
   "30000094": {
     "route_long_name": "T453",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010200S2": "MRT BUKIT DUKUNG - BANDAR SG. LONG",
       "250804010200S3": "MRT BUKIT DUKUNG - BANDAR SG. LONG",
@@ -2326,6 +2359,7 @@
   },
   "30000095": {
     "route_long_name": "T454",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010235S10": "MRT BUKIT DUKUNG - KG. SG. SEKAMAT",
       "250804010235S11": "MRT BUKIT DUKUNG - KG. SG. SEKAMAT",
@@ -2383,6 +2417,7 @@
   },
   "30000096": {
     "route_long_name": "T455",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010237S10": "MRT BUKIT DUKUNG - TAMAN SUTERA CHERAS",
       "250804010237S11": "MRT BUKIT DUKUNG - TAMAN SUTERA CHERAS",
@@ -2449,6 +2484,7 @@
   },
   "30000097": {
     "route_long_name": "T305",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010001S10": "MRT TAMAN MIDAH PINTU B - SRI NILAM",
       "250804010001S11": "MRT TAMAN MIDAH PINTU B - SRI NILAM",
@@ -2526,6 +2562,7 @@
   },
   "30000098": {
     "route_long_name": "T402",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010162S10": "MRT TAMAN MIDAH PINTU A - LRT SALAK SELATAN",
       "250804010162S11": "MRT TAMAN MIDAH PINTU A - LRT SALAK SELATAN",
@@ -2599,6 +2636,7 @@
   },
   "30000100": {
     "route_long_name": "T461",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010512S10": "MRT KAJANG PINTU A - TAMAN KAJANG UTAMA",
       "250804010512S11": "MRT KAJANG PINTU A - TAMAN KAJANG UTAMA",
@@ -2665,6 +2703,7 @@
   },
   "30000101": {
     "route_long_name": "T462",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010247S10": "MRT KAJANG PINTU A - SEKSYEN 8 BANGI",
       "250804010247S11": "MRT KAJANG PINTU A - SEKSYEN 8 BANGI",
@@ -2728,6 +2767,7 @@
   },
   "30000102": {
     "route_long_name": "T463",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804011058S10": "MRT KAJANG PINTU A - BANGI SEKSYEN 4",
       "250804011058S11": "MRT KAJANG PINTU A - BANGI SEKSYEN 4",
@@ -2791,6 +2831,7 @@
   },
   "30000105": {
     "route_long_name": "T810",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010055S10": "MRT MUTIARA DAMANSARA - BUKIT LANJAN",
       "250804010055S11": "MRT MUTIARA DAMANSARA - BUKIT LANJAN",
@@ -2889,6 +2930,7 @@
   },
   "30000106": {
     "route_long_name": "T809",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010051S10": "MRT MUTIARA DAMANSARA - DAMANSARA PERDANA",
       "250804010051S11": "MRT MUTIARA DAMANSARA - DAMANSARA PERDANA",
@@ -2971,6 +3013,7 @@
   },
   "30000115": {
     "route_long_name": "T457",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010242S10": "MRT STADIUM KAJANG PINTU A - PRIMA SAUJANA",
       "250804010242S11": "MRT STADIUM KAJANG PINTU A - PRIMA SAUJANA",
@@ -3040,6 +3083,7 @@
   },
   "30000116": {
     "route_long_name": "T458",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010206S10": "MRT STADIUM KAJANG PINTU A - TAMAN INDAH",
       "250804010206S11": "MRT STADIUM KAJANG PINTU A - TAMAN INDAH",
@@ -3109,6 +3153,7 @@
   },
   "30000117": {
     "route_long_name": "T459",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010248S10": "MRT STADIUM KAJANG - TAMAN JASMIN",
       "250804010248S11": "MRT STADIUM KAJANG - TAMAN JASMIN",
@@ -3172,6 +3217,7 @@
   },
   "30000118": {
     "route_long_name": "T460",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010204S10": "MRT STADIUM KAJANG - BANDAR TEKNOLOGI",
       "250804010204S2": "MRT STADIUM KAJANG - BANDAR TEKNOLOGI",
@@ -3248,6 +3294,7 @@
   },
   "30000120": {
     "route_long_name": "T100",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804011020S10": "MRT SUNGAI BULOH - MASJID HOSPITAL SUNGAI BULOH",
       "250804011020S11": "MRT SUNGAI BULOH - MASJID HOSPITAL SUNGAI BULOH",
@@ -3302,6 +3349,7 @@
   },
   "30000121": {
     "route_long_name": "T101",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010004S10": "MRT SUNGAI BULOH - BUKIT RAHMAN PUTRA",
       "250804010004S11": "MRT SUNGAI BULOH - BUKIT RAHMAN PUTRA",
@@ -3369,6 +3417,7 @@
   },
   "30000122": {
     "route_long_name": "T102",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010009S10": "MRT SUNGAI BULOH - AMAN PUTRI",
       "250804010009S11": "MRT SUNGAI BULOH - AMAN PUTRI",
@@ -3446,6 +3495,7 @@
   },
   "30000124": {
     "route_long_name": "T105",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804011067S10": "MRT SUNGAI BULOH - TAMAN IMPIAN INDAH",
       "250804011067S11": "MRT SUNGAI BULOH - TAMAN IMPIAN INDAH",
@@ -3504,6 +3554,7 @@
   },
   "30000125": {
     "route_long_name": "T807",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010044S10": "MRT SURIAN - ARA DAMANSARA",
       "250804010044S11": "MRT SURIAN - ARA DAMANSARA",
@@ -3594,6 +3645,7 @@
   },
   "30000127": {
     "route_long_name": "T407",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010156S10": "MRT TUN RAZAK EXCHANGE - TAMAN MALURI / DESA PANDAN",
       "250804010156S11": "MRT TUN RAZAK EXCHANGE - TAMAN MALURI / DESA PANDAN",
@@ -3680,6 +3732,7 @@
   },
   "30000128": {
     "route_long_name": "T451",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010195S2": "MRT STADIUM KAJANG PINTU A - UKM BANGI",
       "250804010195S3": "MRT STADIUM KAJANG PINTU A - UKM BANGI",
@@ -3751,6 +3804,7 @@
   },
   "30000129": {
     "route_long_name": "T464",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010186S2": "MRT STADIUM KAJANG - TERAS JERNANG",
       "250804010186S3": "MRT STADIUM KAJANG - TERAS JERNANG",
@@ -3822,6 +3876,7 @@
   },
   "30000130": {
     "route_long_name": "T801",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010022S10": "MRT KWASA SENTRAL - SEKSYEN 6. 7. 8. 9 KOTA DAMANSARA",
       "250804010022S11": "MRT KWASA SENTRAL - SEKSYEN 6. 7. 8. 9 KOTA DAMANSARA",
@@ -3894,6 +3949,7 @@
   },
   "30000131": {
     "route_long_name": "T772",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010268S10": "MRT KWASA SENTRAL - BUKIT SUBANG",
       "250804010268S11": "MRT KWASA SENTRAL - BUKIT SUBANG",
@@ -3975,6 +4031,7 @@
   },
   "30000132": {
     "route_long_name": "T106",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010010S10": "MRT SRI DAMANSARA BARAT - BANDAR SRI DAMANSARA",
       "250804010010S11": "MRT SRI DAMANSARA BARAT - BANDAR SRI DAMANSARA",
@@ -4035,6 +4092,7 @@
   },
   "30000133": {
     "route_long_name": "T107",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010014S10": "MRT SRI DAMANSARA SENTRAL - TAMAN WANGSA PERMAI",
       "250804010014S11": "MRT SRI DAMANSARA SENTRAL - TAMAN WANGSA PERMAI",
@@ -4094,6 +4152,7 @@
   },
   "30000134": {
     "route_long_name": "T108",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010016S10": "MRT SRI DAMANSARA SENTRAL - BANDAR MENJALARA",
       "250804010016S11": "MRT SRI DAMANSARA SENTRAL - BANDAR MENJALARA",
@@ -4173,6 +4232,7 @@
   },
   "30000135": {
     "route_long_name": "T109",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010020S10": "MRT SRI DAMANSARA SENTRAL - DESA PARKCITY",
       "250804010020S11": "MRT SRI DAMANSARA SENTRAL - DESA PARKCITY",
@@ -4254,6 +4314,7 @@
   },
   "30000136": {
     "route_long_name": "T110",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010029S10": "MRT SRI DAMANSARA TIMUR - TMN DESA JAYA/DESA AMAN PURI",
       "250804010029S11": "MRT SRI DAMANSARA TIMUR - TMN DESA JAYA/DESA AMAN PURI",
@@ -4313,6 +4374,7 @@
   },
   "30000137": {
     "route_long_name": "T111",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010031S10": "MRT SRI DAMANSARA TIMUR - TAMAN EHSAN/KEPONG ULU",
       "250804010031S11": "MRT SRI DAMANSARA TIMUR - TAMAN EHSAN/KEPONG ULU",
@@ -4369,6 +4431,7 @@
   },
   "30000138": {
     "route_long_name": "T112",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010033S10": "MRT METRO PRIMA - TAMAN KEPONG",
       "250804010033S11": "MRT METRO PRIMA - TAMAN KEPONG",
@@ -4430,6 +4493,7 @@
   },
   "30000139": {
     "route_long_name": "T113",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010037S10": "MRT METRO PRIMA - KEPONG ENTREPRENEURS PARK",
       "250804010037S11": "MRT METRO PRIMA - KEPONG ENTREPRENEURS PARK",
@@ -4492,6 +4556,7 @@
   },
   "30000140": {
     "route_long_name": "T114",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010041S10": "MRT METRO PRIMA - BANDAR BARU SELAYANG",
       "250804010041S11": "MRT METRO PRIMA - BANDAR BARU SELAYANG",
@@ -4567,6 +4632,7 @@
   },
   "30000141": {
     "route_long_name": "T115",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010043S10": "MRT KEPONG BARU - TAMAN SRI SINAR",
       "250804010043S11": "MRT KEPONG BARU - TAMAN SRI SINAR",
@@ -4624,6 +4690,7 @@
   },
   "30000143": {
     "route_long_name": "T117",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010053S10": "MRT JINJANG - TAMAN SRI SEGAMBUT",
       "250804010053S11": "MRT JINJANG - TAMAN SRI SEGAMBUT",
@@ -4688,6 +4755,7 @@
   },
   "30000144": {
     "route_long_name": "T118",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010054S10": "MRT SRI DELIMA - TAMAN KOK DOH",
       "250804010054S11": "MRT SRI DELIMA - TAMAN KOK DOH",
@@ -4748,6 +4816,7 @@
   },
   "30000145": {
     "route_long_name": "T103",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010070S10": "MRT DAMANSARA DAMAI - SUTERA DAMANSARA",
       "250804010070S11": "MRT DAMANSARA DAMAI - SUTERA DAMANSARA",
@@ -4841,6 +4910,7 @@
   },
   "30000146": {
     "route_long_name": "T119",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010002S10": "MRT KENTONMEN - PERINDUSTRIAN TAMAN SEGAMBUT",
       "250804010002S11": "MRT KENTONMEN - PERINDUSTRIAN TAMAN SEGAMBUT",
@@ -4904,6 +4974,7 @@
   },
   "30000147": {
     "route_long_name": "T180",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010034S10": "MRT SENTUL BARAT - BANDAR BARU SENTUL/TAMAN DATO SENU",
       "250804010034S11": "MRT SENTUL BARAT - BANDAR BARU SENTUL/TAMAN DATO SENU",
@@ -4970,6 +5041,7 @@
   },
   "30000148": {
     "route_long_name": "T562",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010050S10": "MRT SERDANG RAYA UTARA - SERDANG PERDANA",
       "250804010050S11": "MRT SERDANG RAYA UTARA - SERDANG PERDANA",
@@ -5035,6 +5107,7 @@
   },
   "30000149": {
     "route_long_name": "T508",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010099S10": "MRT PUTRAJAYA SENTRAL - PRESINT 10",
       "250804010099S11": "MRT PUTRAJAYA SENTRAL - PRESINT 10",
@@ -5100,6 +5173,7 @@
   },
   "30000150": {
     "route_long_name": "T504",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010059S2": "MRT CYBERJAYA UTARA - CYBER 11",
       "250804010059S3": "MRT CYBERJAYA UTARA - CYBER 11",
@@ -5178,6 +5252,7 @@
   },
   "30000151": {
     "route_long_name": "T505",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010091S2": "MRT CYBERJAYA UTARA - TAMAN PINGGIRAN CYBER",
       "250804010091S3": "MRT CYBERJAYA UTARA - TAMAN PINGGIRAN CYBER",
@@ -5256,6 +5331,7 @@
   },
   "30000152": {
     "route_long_name": "T506",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010084S10": "MRT CYBERJAYA CITY CENTRE - CYBER 10",
       "250804010084S2": "MRT CYBERJAYA CITY CENTRE - CYBER 10",
@@ -5323,6 +5399,7 @@
   },
   "30000153": {
     "route_long_name": "T507",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010230S10": "MRT CYBERJAYA CITY CENTRE - CYBERJAYA TRANSPORT TERMINAL",
       "250804010230S11": "MRT CYBERJAYA CITY CENTRE - CYBERJAYA TRANSPORT TERMINAL",
@@ -5380,6 +5457,7 @@
   },
   "30000154": {
     "route_long_name": "T509",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010100S10": "MRT PUTRAJAYA SENTRAL - PRESINT 16/ALAMANDA",
       "250804010100S11": "MRT PUTRAJAYA SENTRAL - PRESINT 16/ALAMANDA",
@@ -5445,6 +5523,7 @@
   },
   "30000155": {
     "route_long_name": "T510",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010103S10": "MRT PUTRAJAYA SENTRAL - AYER 8",
       "250804010103S11": "MRT PUTRAJAYA SENTRAL - AYER 8",
@@ -5510,6 +5589,7 @@
   },
   "30000156": {
     "route_long_name": "T544",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010255S10": "MRT PUTRA PERMAI - TAMAN LESTARI PUTRA",
       "250804010255S11": "MRT PUTRA PERMAI - TAMAN LESTARI PUTRA",
@@ -5575,6 +5655,7 @@
   },
   "30000157": {
     "route_long_name": "T512",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010107S10": "MRT PUTRAJAYA SENTRAL - PRESINT 11",
       "250804010107S11": "MRT PUTRAJAYA SENTRAL - PRESINT 11",
@@ -5640,6 +5721,7 @@
   },
   "30000158": {
     "route_long_name": "T561",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010119S10": "MRT SERDANG RAYA UTARA - THE PARK BUKIT SERDANG",
       "250804010119S11": "MRT SERDANG RAYA UTARA - THE PARK BUKIT SERDANG",
@@ -5705,6 +5787,7 @@
   },
   "30000159": {
     "route_long_name": "T563",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010121S10": "MRT SERDANG RAYA UTARA - BUKIT JALIL & TPM",
       "250804010121S11": "MRT SERDANG RAYA UTARA - BUKIT JALIL & TPM",
@@ -5770,6 +5853,7 @@
   },
   "30000160": {
     "route_long_name": "T564",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010123S10": "MRT SERDANG RAYA SELATAN - KAMPUNG BARU SERI KEMBANGAN",
       "250804010123S11": "MRT SERDANG RAYA SELATAN - KAMPUNG BARU SERI KEMBANGAN",
@@ -5817,6 +5901,7 @@
   },
   "30000161": {
     "route_long_name": "T585",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010134S10": "MRT KUCHAI - TAMAN DESA",
       "250804010134S11": "MRT KUCHAI - TAMAN DESA",
@@ -5888,6 +5973,7 @@
   },
   "30000162": {
     "route_long_name": "T586",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010137S10": "MRT KUCHAI - TAMAN OVERSEA UNION",
       "250804010137S11": "MRT KUCHAI - TAMAN OVERSEA UNION",
@@ -5953,6 +6039,7 @@
   },
   "30000163": {
     "route_long_name": "T587",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010139S10": "MRT KUCHAI - DESA PETALING",
       "250804010139S11": "MRT KUCHAI - DESA PETALING",
@@ -6009,6 +6096,7 @@
   },
   "30000164": {
     "route_long_name": "T588",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010143S10": "MRT KUCHAI - JALAN KLANG LAMA",
       "250804010143S11": "MRT KUCHAI - JALAN KLANG LAMA",
@@ -6074,6 +6162,7 @@
   },
   "30000165": {
     "route_long_name": "T543",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010127S10": "MRT TAMAN EQUINE - PPR PINGGIRAN BUKIT JALIL",
       "250804010127S11": "MRT TAMAN EQUINE - PPR PINGGIRAN BUKIT JALIL",
@@ -6139,6 +6228,7 @@
   },
   "30000166": {
     "route_long_name": "T568",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010261S10": "MRT UPM - DE CENTRUM MALL",
       "250804010261S11": "MRT UPM - DE CENTRUM MALL",
@@ -6201,6 +6291,7 @@
   },
   "30000167": {
     "route_long_name": "T566",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010128S10": "MRT UPM - TAMAN BUKIT SERDANG/UNIVERSITI INDAH",
       "250804010128S11": "MRT UPM - TAMAN BUKIT SERDANG/UNIVERSITI INDAH",
@@ -6266,6 +6357,7 @@
   },
   "30000168": {
     "route_long_name": "T567",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010130S10": "MRT UPM - TAMAN SRI SERDANG/FAKULTI KEJURUTERAAN",
       "250804010130S11": "MRT UPM - TAMAN SRI SERDANG/FAKULTI KEJURUTERAAN",
@@ -6331,6 +6423,7 @@
   },
   "30000169": {
     "route_long_name": "T418",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010060S10": "MRT CHAN SOW LIN - KENANGA MALL",
       "250804010060S11": "MRT CHAN SOW LIN - KENANGA MALL",
@@ -6400,6 +6493,7 @@
   },
   "30000170": {
     "route_long_name": "T419",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010064S10": "MRT CHAN SOW LIN - RAZAK MANSION",
       "250804010064S11": "MRT CHAN SOW LIN - RAZAK MANSION",
@@ -6469,6 +6563,7 @@
   },
   "30000171": {
     "route_long_name": "T589",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010141S10": "MRT TAMAN NAGA EMAS - BANDAR BARU SRI PETALING/SALAK SOUTH GARDEN",
       "250804010141S11": "MRT TAMAN NAGA EMAS - BANDAR BARU SRI PETALING/SALAK SOUTH GARDEN",
@@ -6534,6 +6629,7 @@
   },
   "30000172": {
     "route_long_name": "T559",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010115S10": "MRT SUNGAI BESI - KAMPUNG MALAYSIA TAMBAHAN",
       "250804010115S11": "MRT SUNGAI BESI - KAMPUNG MALAYSIA TAMBAHAN",
@@ -6594,6 +6690,7 @@
   },
   "30000173": {
     "route_long_name": "T560",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010095S10": "MRT SUNGAI BESI - BANDAR TASIK SELATAN",
       "250804010095S11": "MRT SUNGAI BESI - BANDAR TASIK SELATAN",
@@ -6671,6 +6768,7 @@
   },
   "30000174": {
     "route_long_name": "T565",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010125S10": "MRT SERDANG JAYA - THE MINES",
       "250804010125S2": "MRT SERDANG JAYA - THE MINES",
@@ -6737,6 +6835,7 @@
   },
   "30000175": {
     "route_long_name": "T542",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010267S10": "MRT TAMAN EQUINE - TAMAN PINGGIRAN PUTRA",
       "250804010267S11": "MRT TAMAN EQUINE - TAMAN PINGGIRAN PUTRA",
@@ -6797,6 +6896,7 @@
   },
   "30000176": {
     "route_long_name": "T511",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010191S10": "MRT PUTRAJAYA SENTRAL - PRESINT 4",
       "250804010191S11": "MRT PUTRAJAYA SENTRAL - PRESINT 4",
@@ -6874,6 +6974,7 @@
   },
   "30000180": {
     "route_long_name": "T545",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010188S2": "MRT PUTRA PERMAI - LRT PUCHONG PERDANA via TERMINAL PUCHONG UTAMA",
       "250804010188S3": "MRT PUTRA PERMAI - LRT PUCHONG PERDANA via TERMINAL PUCHONG UTAMA",
@@ -6939,6 +7040,7 @@
   },
   "30000181": {
     "route_long_name": "T569",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010151S10": "MRT SERDANG JAYA - MRT BATU 11 CHERAS",
       "250804010151S11": "MRT SERDANG JAYA - MRT BATU 11 CHERAS",
@@ -7038,6 +7140,7 @@
   },
   "30000183": {
     "route_long_name": "T152",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010179S10": "MRT METRO PRIMA - PUSAT BANDAR SELAYANG",
       "250804010179S11": "MRT METRO PRIMA - PUSAT BANDAR SELAYANG",
@@ -7103,6 +7206,7 @@
   },
   "30000184": {
     "route_long_name": "T121",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010217S10": "MRT SRI DELIMA - TAMAN WAHYU",
       "250804010217S11": "MRT SRI DELIMA - TAMAN WAHYU",
@@ -7154,6 +7258,7 @@
   },
   "30000185": {
     "route_long_name": "T154",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010220S10": "MRT SUNGAI BULOH - KUANG",
       "250804010220S2": "MRT SUNGAI BULOH - KUANG",
@@ -7209,6 +7314,7 @@
   },
   "30000186": {
     "route_long_name": "T155",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010006S10": "PINEWOOD COURT - MRT SUNGAI BULOH",
       "250804010006S11": "MRT SUNGAI BULOH - PINEWOOD COURT",
@@ -7320,6 +7426,7 @@
   },
   "30000187": {
     "route_long_name": "T465",
+    "provider": "MRT_Feeder",
     "trips": {
       "250804010096S10": "MRT STADIUM KAJANG - JADE HILLS",
       "250804010096S11": "MRT STADIUM KAJANG - JADE HILLS",
@@ -7357,6 +7464,3291 @@
       "250804020172S7": "MRT STADIUM KAJANG - JADE HILLS",
       "250804020172S8": "MRT STADIUM KAJANG - JADE HILLS",
       "250804020172S9": "MRT STADIUM KAJANG - JADE HILLS"
+    }
+  },
+  "U3000": {
+    "route_long_name": "Hab Pandan Indah ~ Lebuh Ampang",
+    "route_short_name": "300",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U3000_U300002_9": "",
+      "weekend_U3000_U300002_8": "",
+      "weekend_U3000_U300002_7": "",
+      "weekend_U3000_U300002_6": "",
+      "weekend_U3000_U300002_5": "",
+      "weekend_U3000_U300002_4": "",
+      "weekend_U3000_U300002_3": "",
+      "weekend_U3000_U300002_2": "",
+      "weekend_U3000_U300002_1": "",
+      "weekend_U3000_U300002_0": "",
+      "weekday_U3000_U300002_7": "",
+      "weekday_U3000_U300002_6": "",
+      "weekday_U3000_U300002_5": "",
+      "weekday_U3000_U300002_4": "",
+      "weekday_U3000_U300002_3": "",
+      "weekday_U3000_U300002_2": "",
+      "weekday_U3000_U300002_1": "",
+      "weekday_U3000_U300002_0": ""
+    }
+  },
+  "U3030": {
+    "route_long_name": "Taman Mulia Jaya ~ Lebuh Ampang",
+    "route_short_name": "303",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U3030_U303002_5": "",
+      "weekend_U3030_U303002_4": "",
+      "weekend_U3030_U303002_3": "",
+      "weekend_U3030_U303002_2": "",
+      "weekend_U3030_U303002_1": "",
+      "weekend_U3030_U303002_0": "",
+      "weekday_U3030_U303002_10": "",
+      "weekday_U3030_U303002_9": "",
+      "weekday_U3030_U303002_8": "",
+      "weekday_U3030_U303002_7": "",
+      "weekday_U3030_U303002_6": "",
+      "weekday_U3030_U303002_5": "",
+      "weekday_U3030_U303002_4": "",
+      "weekday_U3030_U303002_3": "",
+      "weekday_U3030_U303002_2": "",
+      "weekday_U3030_U303002_1": "",
+      "weekday_U3030_U303002_0": ""
+    }
+  },
+  "U4000": {
+    "route_long_name": "Damai Perdana ~ Hab Lebuh Pudu via Bukit Bintang",
+    "route_short_name": "400",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U4000_U400002_7": "",
+      "weekend_U4000_U400002_6": "",
+      "weekend_U4000_U400002_5": "",
+      "weekend_U4000_U400002_4": "",
+      "weekend_U4000_U400002_3": "",
+      "weekend_U4000_U400002_2": "",
+      "weekend_U4000_U400002_1": "",
+      "weekend_U4000_U400002_0": "",
+      "weekday_U4000_U400002_16": "",
+      "weekday_U4000_U400002_15": "",
+      "weekday_U4000_U400002_14": "",
+      "weekday_U4000_U400002_13": "",
+      "weekday_U4000_U400002_12": "",
+      "weekday_U4000_U400002_11": "",
+      "weekday_U4000_U400002_10": "",
+      "weekday_U4000_U400002_9": "",
+      "weekday_U4000_U400002_8": "",
+      "weekday_U4000_U400002_7": "",
+      "weekday_U4000_U400002_6": "",
+      "weekday_U4000_U400002_5": "",
+      "weekday_U4000_U400002_4": "",
+      "weekday_U4000_U400002_3": "",
+      "weekday_U4000_U400002_2": "",
+      "weekday_U4000_U400002_1": "",
+      "weekday_U4000_U400002_0": ""
+    }
+  },
+  "U4200": {
+    "route_long_name": "Hab Pandan Indah ~ Menara Maybank via Bukit Bintang",
+    "route_short_name": "420",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U4200_U420002_5": "",
+      "weekend_U4200_U420002_4": "",
+      "weekend_U4200_U420002_3": "",
+      "weekend_U4200_U420002_2": "",
+      "weekend_U4200_U420002_1": "",
+      "weekend_U4200_U420002_0": "",
+      "weekday_U4200_U420002_8": "",
+      "weekday_U4200_U420002_7": "",
+      "weekday_U4200_U420002_6": "",
+      "weekday_U4200_U420002_5": "",
+      "weekday_U4200_U420002_4": "",
+      "weekday_U4200_U420002_3": "",
+      "weekday_U4200_U420002_2": "",
+      "weekday_U4200_U420002_1": "",
+      "weekday_U4200_U420002_0": ""
+    }
+  },
+  "U4210": {
+    "route_long_name": "Hentian Taman Dagang ~ Menara Maybank via Bukit Bintang",
+    "route_short_name": "421",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U4210_U421002_12": "",
+      "weekend_U4210_U421002_11": "",
+      "weekend_U4210_U421002_10": "",
+      "weekend_U4210_U421002_9": "",
+      "weekend_U4210_U421002_8": "",
+      "weekend_U4210_U421002_7": "",
+      "weekend_U4210_U421002_6": "",
+      "weekend_U4210_U421002_5": "",
+      "weekend_U4210_U421002_4": "",
+      "weekend_U4210_U421002_3": "",
+      "weekend_U4210_U421002_2": "",
+      "weekend_U4210_U421002_1": "",
+      "weekend_U4210_U421002_0": "",
+      "weekday_U4210_U421002_8": "",
+      "weekday_U4210_U421002_7": "",
+      "weekday_U4210_U421002_6": "",
+      "weekday_U4210_U421002_5": "",
+      "weekday_U4210_U421002_4": "",
+      "weekday_U4210_U421002_3": "",
+      "weekday_U4210_U421002_2": "",
+      "weekday_U4210_U421002_1": "",
+      "weekday_U4210_U421002_0": ""
+    }
+  },
+  "U4500": {
+    "route_long_name": "Hentian Kajang ~ Hab Lebuh Pudu",
+    "route_short_name": "450",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U4500_U450001_14": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_14": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_13": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_13": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_12": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_12": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_11": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_11": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_10": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_10": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_9": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_9": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_8": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_8": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_7": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_7": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_6": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_6": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_5": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_5": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_4": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_4": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_3": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_3": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_2": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_2": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_1": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_1": "HAB LEBUH PUDU",
+      "weekend_U4500_U450001_0": "HENTIAN KAJANG",
+      "weekend_U4500_U450002_0": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_12": "",
+      "weekday_U4500_U450001_11": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_11": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_10": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_10": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_9": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_9": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_8": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_8": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_7": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_7": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_6": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_6": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_5": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_5": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_4": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_4": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_3": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_3": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_2": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_2": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_1": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_1": "HAB LEBUH PUDU",
+      "weekday_U4500_U450001_0": "HENTIAN KAJANG",
+      "weekday_U4500_U450002_0": "HAB LEBUH PUDU"
+    }
+  },
+  "U5800": {
+    "route_long_name": "Desa Petaling ~ Hab Lebuh Pudu via Stesen LRT Salak Selatan",
+    "route_short_name": "580",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U5800_U580002_11": "",
+      "weekend_U5800_U580002_10": "",
+      "weekend_U5800_U580002_9": "",
+      "weekend_U5800_U580002_8": "",
+      "weekend_U5800_U580002_7": "",
+      "weekend_U5800_U580002_6": "",
+      "weekend_U5800_U580002_5": "",
+      "weekend_U5800_U580002_4": "",
+      "weekend_U5800_U580002_3": "",
+      "weekend_U5800_U580002_2": "",
+      "weekend_U5800_U580002_1": "",
+      "weekend_U5800_U580002_0": "",
+      "weekday_U5800_U580002_6": "",
+      "weekday_U5800_U580002_5": "",
+      "weekday_U5800_U580002_4": "",
+      "weekday_U5800_U580002_3": "",
+      "weekday_U5800_U580002_2": "",
+      "weekday_U5800_U580002_1": "",
+      "weekday_U5800_U580002_0": ""
+    }
+  },
+  "U5810": {
+    "route_long_name": "Desa Tasik ~ Stesen LRT Bandar Tasik Selatan",
+    "route_short_name": "581",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U5810_U581002_4": "",
+      "weekend_U5810_U581002_3": "",
+      "weekend_U5810_U581002_2": "",
+      "weekend_U5810_U581002_1": "",
+      "weekend_U5810_U581002_0": "",
+      "weekday_U5810_U581002_4": "",
+      "weekday_U5810_U581002_3": "",
+      "weekday_U5810_U581002_2": "",
+      "weekday_U5810_U581002_1": "",
+      "weekday_U5810_U581002_0": ""
+    }
+  },
+  "U5900": {
+    "route_long_name": "Bandar Sungai Long ~ Hab Pasar Seni",
+    "route_short_name": "590",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U5900_U590002_12": "",
+      "weekend_U5900_U590002_11": "",
+      "weekend_U5900_U590002_10": "",
+      "weekend_U5900_U590002_9": "",
+      "weekend_U5900_U590002_8": "",
+      "weekend_U5900_U590002_7": "",
+      "weekend_U5900_U590002_6": "",
+      "weekend_U5900_U590002_5": "",
+      "weekend_U5900_U590002_4": "",
+      "weekend_U5900_U590002_3": "",
+      "weekend_U5900_U590002_2": "",
+      "weekend_U5900_U590002_1": "",
+      "weekend_U5900_U590002_0": "",
+      "weekday_U5900_U590002_11": "",
+      "weekday_U5900_U590002_10": "",
+      "weekday_U5900_U590002_9": "",
+      "weekday_U5900_U590002_8": "",
+      "weekday_U5900_U590002_7": "",
+      "weekday_U5900_U590002_6": "",
+      "weekday_U5900_U590002_5": "",
+      "weekday_U5900_U590002_4": "",
+      "weekday_U5900_U590002_3": "",
+      "weekday_U5900_U590002_2": "",
+      "weekday_U5900_U590002_1": "",
+      "weekday_U5900_U590002_0": ""
+    }
+  },
+  "U7510": {
+    "route_long_name": "Taman Sri Muda ~ Hab Pasar Seni",
+    "route_short_name": "751",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7510_U751001_8": "",
+      "weekend_U7510_U751001_7": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_7": "HAB PASAR SENI",
+      "weekend_U7510_U751001_6": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_6": "HAB PASAR SENI",
+      "weekend_U7510_U751001_5": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_5": "HAB PASAR SENI",
+      "weekend_U7510_U751001_4": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_4": "HAB PASAR SENI",
+      "weekend_U7510_U751001_3": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_3": "HAB PASAR SENI",
+      "weekend_U7510_U751001_2": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_2": "HAB PASAR SENI",
+      "weekend_U7510_U751001_1": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_1": "HAB PASAR SENI",
+      "weekend_U7510_U751001_0": "TAMAN SRI MUDA",
+      "weekend_U7510_U751002_0": "HAB PASAR SENI",
+      "weekday_U7510_U751001_12": "",
+      "weekday_U7510_U751001_11": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_11": "HAB PASAR SENI",
+      "weekday_U7510_U751001_10": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_10": "HAB PASAR SENI",
+      "weekday_U7510_U751001_9": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_9": "HAB PASAR SENI",
+      "weekday_U7510_U751001_8": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_8": "HAB PASAR SENI",
+      "weekday_U7510_U751001_7": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_7": "HAB PASAR SENI",
+      "weekday_U7510_U751001_6": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_6": "HAB PASAR SENI",
+      "weekday_U7510_U751001_5": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_5": "HAB PASAR SENI",
+      "weekday_U7510_U751001_4": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_4": "HAB PASAR SENI",
+      "weekday_U7510_U751001_3": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_3": "HAB PASAR SENI",
+      "weekday_U7510_U751001_2": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_2": "HAB PASAR SENI",
+      "weekday_U7510_U751001_1": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_1": "HAB PASAR SENI",
+      "weekday_U7510_U751001_0": "TAMAN SRI MUDA",
+      "weekday_U7510_U751002_0": "HAB PASAR SENI"
+    }
+  },
+  "U7520": {
+    "route_long_name": "Stesen LRT Putra Height ~ Hentian Bandar Shah Alam",
+    "route_short_name": "752",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U7520_U752001_14": "",
+      "weekday_U7520_U752002_13": "",
+      "weekday_U7520_U752002_12": "",
+      "weekday_U7520_U752001_11": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_11": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_10": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_10": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_9": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_9": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_8": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_8": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_7": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_7": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_6": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_6": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_5": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_5": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_4": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_4": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_3": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_3": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_2": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_2": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_1": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_1": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7520_U752001_0": "STESEN LRT PUTRA HEIGHT",
+      "weekday_U7520_U752002_0": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7520_U752001_7": "",
+      "weekend_U7520_U752002_6": "",
+      "weekend_U7520_U752001_5": "STESEN LRT PUTRA HEIGHT",
+      "weekend_U7520_U752002_5": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7520_U752001_4": "STESEN LRT PUTRA HEIGHT",
+      "weekend_U7520_U752002_4": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7520_U752001_3": "STESEN LRT PUTRA HEIGHT",
+      "weekend_U7520_U752002_3": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7520_U752001_2": "STESEN LRT PUTRA HEIGHT",
+      "weekend_U7520_U752002_2": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7520_U752001_1": "STESEN LRT PUTRA HEIGHT",
+      "weekend_U7520_U752002_1": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7520_U752001_0": "STESEN LRT PUTRA HEIGHT",
+      "weekend_U7520_U752002_0": "HENTIAN BANDAR SHAH ALAM"
+    }
+  },
+  "U7700": {
+    "route_long_name": "Subang Mewah USJ 1 ~ Hab Pasar Seni",
+    "route_short_name": "770",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7700_U770001_11": "",
+      "weekend_U7700_U770001_10": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_10": "HAB PASAR SENI",
+      "weekend_U7700_U770001_9": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_9": "HAB PASAR SENI",
+      "weekend_U7700_U770001_8": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_8": "HAB PASAR SENI",
+      "weekend_U7700_U770001_7": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_7": "HAB PASAR SENI",
+      "weekend_U7700_U770001_6": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_6": "HAB PASAR SENI",
+      "weekend_U7700_U770001_5": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_5": "HAB PASAR SENI",
+      "weekend_U7700_U770001_4": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_4": "HAB PASAR SENI",
+      "weekend_U7700_U770001_3": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_3": "HAB PASAR SENI",
+      "weekend_U7700_U770001_2": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_2": "HAB PASAR SENI",
+      "weekend_U7700_U770001_1": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_1": "HAB PASAR SENI",
+      "weekend_U7700_U770001_0": "SUBANG MEWAH USJ 1",
+      "weekend_U7700_U770002_0": "HAB PASAR SENI",
+      "weekday_U7700_U770001_6": "",
+      "weekday_U7700_U770001_5": "SUBANG MEWAH USJ 1",
+      "weekday_U7700_U770002_5": "HAB PASAR SENI",
+      "weekday_U7700_U770001_4": "SUBANG MEWAH USJ 1",
+      "weekday_U7700_U770002_4": "HAB PASAR SENI",
+      "weekday_U7700_U770001_3": "SUBANG MEWAH USJ 1",
+      "weekday_U7700_U770002_3": "HAB PASAR SENI",
+      "weekday_U7700_U770001_2": "SUBANG MEWAH USJ 1",
+      "weekday_U7700_U770002_2": "HAB PASAR SENI",
+      "weekday_U7700_U770001_1": "SUBANG MEWAH USJ 1",
+      "weekday_U7700_U770002_1": "HAB PASAR SENI",
+      "weekday_U7700_U770001_0": "SUBANG MEWAH USJ 1",
+      "weekday_U7700_U770002_0": "HAB PASAR SENI"
+    }
+  },
+  "T3500": {
+    "route_long_name": "Stesen LRT Cempaka ~ Taman Mawar",
+    "route_short_name": "T350",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T3500_T350002_3": "",
+      "weekday_T3500_T350002_2": "",
+      "weekday_T3500_T350002_1": "",
+      "weekday_T3500_T350002_0": "",
+      "weekend_T3500_T350002_3": "",
+      "weekend_T3500_T350002_2": "",
+      "weekend_T3500_T350002_1": "",
+      "weekend_T3500_T350002_0": ""
+    }
+  },
+  "T3510": {
+    "route_long_name": "Stesen LRT Cempaka ~ Taman Bukit Permai",
+    "route_short_name": "T351",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T3510_T351002_1": "",
+      "weekend_T3510_T351002_0": "",
+      "weekday_T3510_T351002_1": "",
+      "weekday_T3510_T351002_0": ""
+    }
+  },
+  "T4500": {
+    "route_long_name": "Beranang ~ MRT Stadium Kajang",
+    "route_short_name": "T450",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T4500_T450002_2": "",
+      "weekday_T4500_T450002_1": "",
+      "weekday_T4500_T450002_0": "",
+      "weekend_T4500_T450002_3": "",
+      "weekend_T4500_T450002_2": "",
+      "weekend_T4500_T450002_1": "",
+      "weekend_T4500_T450002_0": ""
+    }
+  },
+  "S0030": {
+    "route_long_name": "Hentian Kajang ~ Bandar Kajang via Seksyen 7 Bangi",
+    "route_short_name": "KJ01",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S0030_S003002_8": "",
+      "weekday_S0030_S003002_7": "",
+      "weekday_S0030_S003002_6": "",
+      "weekday_S0030_S003002_5": "",
+      "weekday_S0030_S003002_4": "",
+      "weekday_S0030_S003002_3": "",
+      "weekday_S0030_S003002_2": "",
+      "weekday_S0030_S003002_1": "",
+      "weekday_S0030_S003002_0": "",
+      "weekend_S0030_S003002_8": "",
+      "weekend_S0030_S003002_7": "",
+      "weekend_S0030_S003002_6": "",
+      "weekend_S0030_S003002_5": "",
+      "weekend_S0030_S003002_4": "",
+      "weekend_S0030_S003002_3": "",
+      "weekend_S0030_S003002_2": "",
+      "weekend_S0030_S003002_1": "",
+      "weekend_S0030_S003002_0": ""
+    }
+  },
+  "T3030": {
+    "route_long_name": "Ampang Point ~ Stesen LRT Pandan Indah",
+    "route_short_name": "T303",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T3030_T303002_1": "",
+      "weekend_T3030_T303002_0": "",
+      "weekday_T3030_T303002_1": "",
+      "weekday_T3030_T303002_0": ""
+    }
+  },
+  "U5410": {
+    "route_long_name": "Putra Permai ~ Stesen LRT BK 5",
+    "route_short_name": "541",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U5410_U541002_3": "",
+      "weekend_U5410_U541002_2": "",
+      "weekend_U5410_U541002_1": "",
+      "weekend_U5410_U541002_0": "",
+      "weekday_U5410_U541002_3": "",
+      "weekday_U5410_U541002_2": "",
+      "weekday_U5410_U541002_1": "",
+      "weekday_U5410_U541002_0": ""
+    }
+  },
+  "T6010": {
+    "route_long_name": "Puchong Utama ~ Puchong Prima",
+    "route_short_name": "T601",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T6010_T601001_4": "PUCHONG UTAMA",
+      "weekend_T6010_T601002_4": "PUCHONG PRIMA",
+      "weekend_T6010_T601001_3": "PUCHONG UTAMA",
+      "weekend_T6010_T601002_3": "PUCHONG PRIMA",
+      "weekend_T6010_T601001_2": "PUCHONG UTAMA",
+      "weekend_T6010_T601002_2": "PUCHONG PRIMA",
+      "weekend_T6010_T601001_1": "PUCHONG UTAMA",
+      "weekend_T6010_T601002_1": "PUCHONG PRIMA",
+      "weekend_T6010_T601001_0": "PUCHONG UTAMA",
+      "weekend_T6010_T601002_0": "PUCHONG PRIMA",
+      "weekday_T6010_T601001_4": "PUCHONG UTAMA",
+      "weekday_T6010_T601002_4": "PUCHONG PRIMA",
+      "weekday_T6010_T601001_3": "PUCHONG UTAMA",
+      "weekday_T6010_T601002_3": "PUCHONG PRIMA",
+      "weekday_T6010_T601001_2": "PUCHONG UTAMA",
+      "weekday_T6010_T601002_2": "PUCHONG PRIMA",
+      "weekday_T6010_T601001_1": "PUCHONG UTAMA",
+      "weekday_T6010_T601002_1": "PUCHONG PRIMA",
+      "weekday_T6010_T601001_0": "PUCHONG UTAMA",
+      "weekday_T6010_T601002_0": "PUCHONG PRIMA"
+    }
+  },
+  "T6040": {
+    "route_long_name": "Stesen LRT Perindustrian Puchong ~ Taman Kinrara",
+    "route_short_name": "T604",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T6040_T604002_4": "",
+      "weekend_T6040_T604001_3": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekend_T6040_T604002_3": "TAMAN KINRARA",
+      "weekend_T6040_T604001_2": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekend_T6040_T604002_2": "TAMAN KINRARA",
+      "weekend_T6040_T604001_1": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekend_T6040_T604002_1": "TAMAN KINRARA",
+      "weekend_T6040_T604001_0": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekend_T6040_T604002_0": "TAMAN KINRARA",
+      "weekday_T6040_T604002_4": "",
+      "weekday_T6040_T604001_3": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekday_T6040_T604002_3": "TAMAN KINRARA",
+      "weekday_T6040_T604001_2": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekday_T6040_T604002_2": "TAMAN KINRARA",
+      "weekday_T6040_T604001_1": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekday_T6040_T604002_1": "TAMAN KINRARA",
+      "weekday_T6040_T604001_0": "STESEN LRT PERINDUSTRIAN PUCHONG",
+      "weekday_T6040_T604002_0": "TAMAN KINRARA"
+    }
+  },
+  "T6050": {
+    "route_long_name": "Stesen LRT Bandar Puteri ~ Bandar Puteri",
+    "route_short_name": "T605",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T6050_T605002_1": "",
+      "weekend_T6050_T605002_0": "",
+      "weekday_T6050_T605002_1": "",
+      "weekday_T6050_T605002_0": ""
+    }
+  },
+  "S0060": {
+    "route_long_name": "Hentian Banting ~ Mitsui Outlet , KLIA 2",
+    "route_short_name": "BTG1",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S0060_S006002_3": "",
+      "weekend_S0060_S006002_2": "",
+      "weekend_S0060_S006002_1": "",
+      "weekend_S0060_S006002_0": "",
+      "weekday_S0060_S006002_3": "",
+      "weekday_S0060_S006002_2": "",
+      "weekday_S0060_S006002_1": "",
+      "weekday_S0060_S006002_0": ""
+    }
+  },
+  "T6000": {
+    "route_long_name": "Stesen LRT IOI Puchong ~ Taman Wawasan",
+    "route_short_name": "T600",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T6000_T600002_1": "",
+      "weekday_T6000_T600002_0": "",
+      "weekend_T6000_T600002_1": "",
+      "weekend_T6000_T600002_0": ""
+    }
+  },
+  "T6030": {
+    "route_long_name": "Stesen LRT Puchong Prima ~ Taman Mas Sepang",
+    "route_short_name": "T603",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T6030_T603002_1": "",
+      "weekend_T6030_T603002_0": "",
+      "weekday_T6030_T603002_1": "",
+      "weekday_T6030_T603002_0": ""
+    }
+  },
+  "T7740": {
+    "route_long_name": "Stesen LRT Glenmarie ~ MSU, Stadium Shah Alam",
+    "route_short_name": "T774",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7740_T774002_2": "",
+      "weekend_T7740_T774002_1": "",
+      "weekend_T7740_T774002_0": "",
+      "weekday_T7740_T774002_2": "",
+      "weekday_T7740_T774002_1": "",
+      "weekday_T7740_T774002_0": ""
+    }
+  },
+  "T7760": {
+    "route_long_name": "Stesen LRT USJ 7 ~ Subang Mewah",
+    "route_short_name": "T776",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7760_T776002_5": "",
+      "weekend_T7760_T776002_4": "",
+      "weekend_T7760_T776002_3": "",
+      "weekend_T7760_T776002_2": "",
+      "weekend_T7760_T776002_1": "",
+      "weekend_T7760_T776002_0": "",
+      "weekday_T7760_T776002_5": "",
+      "weekday_T7760_T776002_4": "",
+      "weekday_T7760_T776002_3": "",
+      "weekday_T7760_T776002_2": "",
+      "weekday_T7760_T776002_1": "",
+      "weekday_T7760_T776002_0": ""
+    }
+  },
+  "S4020": {
+    "route_long_name": "Hentian Bandar Seksyen 14 ~ Stesen KTM Batu 3",
+    "route_short_name": "SA02",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S4020_S402002_2": "",
+      "weekend_S4020_S402002_1": "",
+      "weekend_S4020_S402002_0": "",
+      "weekday_S4020_S402002_2": "",
+      "weekday_S4020_S402002_1": "",
+      "weekday_S4020_S402002_0": ""
+    }
+  },
+  "S4030": {
+    "route_long_name": "KTM Sekyen 19 ~ Terminal 17 ~ Seksyen 24 ~ Seksyen 20",
+    "route_short_name": "SA03",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S4030_S403002_9": "",
+      "weekend_S4030_S403002_8": "",
+      "weekend_S4030_S403002_7": "",
+      "weekend_S4030_S403002_6": "",
+      "weekend_S4030_S403002_5": "",
+      "weekend_S4030_S403002_4": "",
+      "weekend_S4030_S403002_3": "",
+      "weekend_S4030_S403002_2": "",
+      "weekend_S4030_S403002_1": "",
+      "weekend_S4030_S403002_0": "",
+      "weekday_S4030_S403002_9": "",
+      "weekday_S4030_S403002_8": "",
+      "weekday_S4030_S403002_7": "",
+      "weekday_S4030_S403002_6": "",
+      "weekday_S4030_S403002_5": "",
+      "weekday_S4030_S403002_4": "",
+      "weekday_S4030_S403002_3": "",
+      "weekday_S4030_S403002_2": "",
+      "weekday_S4030_S403002_1": "",
+      "weekday_S4030_S403002_0": ""
+    }
+  },
+  "S4040": {
+    "route_long_name": "Terminal Seksyen 17 ~ Hospital Shah Alam",
+    "route_short_name": "SA04",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S4040_S404002_2": "",
+      "weekend_S4040_S404002_1": "",
+      "weekend_S4040_S404002_0": "",
+      "weekday_S4040_S404002_2": "",
+      "weekday_S4040_S404002_1": "",
+      "weekday_S4040_S404002_0": ""
+    }
+  },
+  "U6510": {
+    "route_long_name": "Stesen LRT Muhibbah ~Pearl Point",
+    "route_short_name": "651",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U6510_U651002_2": "",
+      "weekend_U6510_U651002_1": "",
+      "weekend_U6510_U651002_0": "",
+      "weekday_U6510_U651002_2": "",
+      "weekday_U6510_U651002_1": "",
+      "weekday_U6510_U651002_0": ""
+    }
+  },
+  "U6520": {
+    "route_long_name": "Stesen LRT Awan Besar ~Batu 3 Jalan Klang Lama",
+    "route_short_name": "652",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U6520_U652002_4": "",
+      "weekend_U6520_U652002_3": "",
+      "weekend_U6520_U652002_2": "",
+      "weekend_U6520_U652002_1": "",
+      "weekend_U6520_U652002_0": "",
+      "weekday_U6520_U652002_4": "",
+      "weekday_U6520_U652002_3": "",
+      "weekday_U6520_U652002_2": "",
+      "weekday_U6520_U652002_1": "",
+      "weekday_U6520_U652002_0": ""
+    }
+  },
+  "T5800": {
+    "route_long_name": "Stesen LRT Awan Besar ~ TPM via Stesen LRT Bukit Jalil",
+    "route_short_name": "T580",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T5800_T580002_2": "",
+      "weekend_T5800_T580002_1": "",
+      "weekend_T5800_T580002_0": "",
+      "weekday_T5800_T580002_2": "",
+      "weekday_T5800_T580002_1": "",
+      "weekday_T5800_T580002_0": ""
+    }
+  },
+  "T5810": {
+    "route_long_name": "Stesen LRT Alam Sutera ~ PPR Pinggiran Bukit Jalil",
+    "route_short_name": "T581",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T5810_T581002_0": "",
+      "weekday_T5810_T581002_0": ""
+    }
+  },
+  "U6000": {
+    "route_long_name": "Puchong Utama ~ Hab Pasar Seni",
+    "route_short_name": "600",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U6000_U600001_24": "",
+      "weekday_U6000_U600001_23": "",
+      "weekday_U6000_U600001_22": "",
+      "weekday_U6000_U600001_21": "",
+      "weekday_U6000_U600001_20": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_20": "HAB PASAR SENI",
+      "weekday_U6000_U600001_19": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_19": "HAB PASAR SENI",
+      "weekday_U6000_U600001_18": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_18": "HAB PASAR SENI",
+      "weekday_U6000_U600001_17": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_17": "HAB PASAR SENI",
+      "weekday_U6000_U600001_16": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_16": "HAB PASAR SENI",
+      "weekday_U6000_U600001_15": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_15": "HAB PASAR SENI",
+      "weekday_U6000_U600001_14": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_14": "HAB PASAR SENI",
+      "weekday_U6000_U600001_13": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_13": "HAB PASAR SENI",
+      "weekday_U6000_U600001_12": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_12": "HAB PASAR SENI",
+      "weekday_U6000_U600001_11": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_11": "HAB PASAR SENI",
+      "weekday_U6000_U600001_10": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_10": "HAB PASAR SENI",
+      "weekday_U6000_U600001_9": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_9": "HAB PASAR SENI",
+      "weekday_U6000_U600001_8": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_8": "HAB PASAR SENI",
+      "weekday_U6000_U600001_7": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_7": "HAB PASAR SENI",
+      "weekday_U6000_U600001_6": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_6": "HAB PASAR SENI",
+      "weekday_U6000_U600001_5": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_5": "HAB PASAR SENI",
+      "weekday_U6000_U600001_4": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_4": "HAB PASAR SENI",
+      "weekday_U6000_U600001_3": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_3": "HAB PASAR SENI",
+      "weekday_U6000_U600001_2": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_2": "HAB PASAR SENI",
+      "weekday_U6000_U600001_1": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_1": "HAB PASAR SENI",
+      "weekday_U6000_U600001_0": "PUCHONG UTAMA",
+      "weekday_U6000_U600002_0": "HAB PASAR SENI",
+      "weekend_U6000_U600001_19": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_19": "HAB PASAR SENI",
+      "weekend_U6000_U600001_18": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_18": "HAB PASAR SENI",
+      "weekend_U6000_U600001_17": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_17": "HAB PASAR SENI",
+      "weekend_U6000_U600001_16": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_16": "HAB PASAR SENI",
+      "weekend_U6000_U600001_15": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_15": "HAB PASAR SENI",
+      "weekend_U6000_U600001_14": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_14": "HAB PASAR SENI",
+      "weekend_U6000_U600001_13": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_13": "HAB PASAR SENI",
+      "weekend_U6000_U600001_12": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_12": "HAB PASAR SENI",
+      "weekend_U6000_U600001_11": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_11": "HAB PASAR SENI",
+      "weekend_U6000_U600001_10": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_10": "HAB PASAR SENI",
+      "weekend_U6000_U600001_9": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_9": "HAB PASAR SENI",
+      "weekend_U6000_U600001_8": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_8": "HAB PASAR SENI",
+      "weekend_U6000_U600001_7": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_7": "HAB PASAR SENI",
+      "weekend_U6000_U600001_6": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_6": "HAB PASAR SENI",
+      "weekend_U6000_U600001_5": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_5": "HAB PASAR SENI",
+      "weekend_U6000_U600001_4": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_4": "HAB PASAR SENI",
+      "weekend_U6000_U600001_3": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_3": "HAB PASAR SENI",
+      "weekend_U6000_U600001_2": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_2": "HAB PASAR SENI",
+      "weekend_U6000_U600001_1": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_1": "HAB PASAR SENI",
+      "weekend_U6000_U600001_0": "PUCHONG UTAMA",
+      "weekend_U6000_U600002_0": "HAB PASAR SENI"
+    }
+  },
+  "U6020": {
+    "route_long_name": "Puchong Prima ~ IOI Puchong",
+    "route_short_name": "602",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U6020_U602002_1": "",
+      "weekday_U6020_U602002_0": "",
+      "weekend_U6020_U602002_1": "",
+      "weekend_U6020_U602002_0": ""
+    }
+  },
+  "U6400": {
+    "route_long_name": "Hab Bas Sri Manja ~ Hab Pasar Seni",
+    "route_short_name": "640",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U6400_U640001_9": "HAB SRI MANJA",
+      "weekday_U6400_U640002_9": "HAB PASAR SENI",
+      "weekday_U6400_U640001_8": "HAB SRI MANJA",
+      "weekday_U6400_U640002_8": "HAB PASAR SENI",
+      "weekday_U6400_U640001_7": "HAB SRI MANJA",
+      "weekday_U6400_U640002_7": "HAB PASAR SENI",
+      "weekday_U6400_U640001_6": "HAB SRI MANJA",
+      "weekday_U6400_U640002_6": "HAB PASAR SENI",
+      "weekday_U6400_U640001_5": "HAB SRI MANJA",
+      "weekday_U6400_U640002_5": "HAB PASAR SENI",
+      "weekday_U6400_U640001_4": "HAB SRI MANJA",
+      "weekday_U6400_U640002_4": "HAB PASAR SENI",
+      "weekday_U6400_U640001_3": "HAB SRI MANJA",
+      "weekday_U6400_U640002_3": "HAB PASAR SENI",
+      "weekday_U6400_U640001_2": "HAB SRI MANJA",
+      "weekday_U6400_U640002_2": "HAB PASAR SENI",
+      "weekday_U6400_U640001_1": "HAB SRI MANJA",
+      "weekday_U6400_U640002_1": "HAB PASAR SENI",
+      "weekday_U6400_U640001_0": "HAB SRI MANJA",
+      "weekday_U6400_U640002_0": "HAB PASAR SENI",
+      "weekend_U6400_U640001_13": "HAB SRI MANJA",
+      "weekend_U6400_U640002_13": "HAB PASAR SENI",
+      "weekend_U6400_U640001_12": "HAB SRI MANJA",
+      "weekend_U6400_U640002_12": "HAB PASAR SENI",
+      "weekend_U6400_U640001_11": "HAB SRI MANJA",
+      "weekend_U6400_U640002_11": "HAB PASAR SENI",
+      "weekend_U6400_U640001_10": "HAB SRI MANJA",
+      "weekend_U6400_U640002_10": "HAB PASAR SENI",
+      "weekend_U6400_U640001_9": "HAB SRI MANJA",
+      "weekend_U6400_U640002_9": "HAB PASAR SENI",
+      "weekend_U6400_U640001_8": "HAB SRI MANJA",
+      "weekend_U6400_U640002_8": "HAB PASAR SENI",
+      "weekend_U6400_U640001_7": "HAB SRI MANJA",
+      "weekend_U6400_U640002_7": "HAB PASAR SENI",
+      "weekend_U6400_U640001_6": "HAB SRI MANJA",
+      "weekend_U6400_U640002_6": "HAB PASAR SENI",
+      "weekend_U6400_U640001_5": "HAB SRI MANJA",
+      "weekend_U6400_U640002_5": "HAB PASAR SENI",
+      "weekend_U6400_U640001_4": "HAB SRI MANJA",
+      "weekend_U6400_U640002_4": "HAB PASAR SENI",
+      "weekend_U6400_U640001_3": "HAB SRI MANJA",
+      "weekend_U6400_U640002_3": "HAB PASAR SENI",
+      "weekend_U6400_U640001_2": "HAB SRI MANJA",
+      "weekend_U6400_U640002_2": "HAB PASAR SENI",
+      "weekend_U6400_U640001_1": "HAB SRI MANJA",
+      "weekend_U6400_U640002_1": "HAB PASAR SENI",
+      "weekend_U6400_U640001_0": "HAB SRI MANJA",
+      "weekend_U6400_U640002_0": "HAB PASAR SENI"
+    }
+  },
+  "U6500": {
+    "route_long_name": "Taman Desa ~ Hab Pasar Seni",
+    "route_short_name": "650",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U6500_U650002_5": "",
+      "weekend_U6500_U650002_4": "",
+      "weekend_U6500_U650002_3": "",
+      "weekend_U6500_U650002_2": "",
+      "weekend_U6500_U650002_1": "",
+      "weekend_U6500_U650002_0": "",
+      "weekday_U6500_U650002_9": "",
+      "weekday_U6500_U650002_8": "",
+      "weekday_U6500_U650002_7": "",
+      "weekday_U6500_U650002_6": "",
+      "weekday_U6500_U650002_5": "",
+      "weekday_U6500_U650002_4": "",
+      "weekday_U6500_U650002_3": "",
+      "weekday_U6500_U650002_2": "",
+      "weekday_U6500_U650002_1": "",
+      "weekday_U6500_U650002_0": ""
+    }
+  },
+  "T6400": {
+    "route_long_name": "Stesen LRT Taman Jaya ~ Taman Sri Sentosa",
+    "route_short_name": "T640",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T6400_T640002_5": "",
+      "weekend_T6400_T640002_4": "",
+      "weekend_T6400_T640002_3": "",
+      "weekend_T6400_T640002_2": "",
+      "weekend_T6400_T640002_1": "",
+      "weekend_T6400_T640002_0": "",
+      "weekday_T6400_T640002_5": "",
+      "weekday_T6400_T640002_4": "",
+      "weekday_T6400_T640002_3": "",
+      "weekday_T6400_T640002_2": "",
+      "weekday_T6400_T640002_1": "",
+      "weekday_T6400_T640002_0": ""
+    }
+  },
+  "U7830": {
+    "route_long_name": "Stesen LRT Kelana Jaya ~ Subang Parade",
+    "route_short_name": "783",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U7830_U783002_3": "",
+      "weekday_U7830_U783002_2": "",
+      "weekday_U7830_U783002_1": "",
+      "weekday_U7830_U783002_0": "",
+      "weekend_U7830_U783002_3": "",
+      "weekend_U7830_U783002_2": "",
+      "weekend_U7830_U783002_1": "",
+      "weekend_U7830_U783002_0": ""
+    }
+  },
+  "T7820": {
+    "route_long_name": "Stesen LRT Lembah Subang ~ Ara Damansara",
+    "route_short_name": "T782",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T7820_T782002_1": "",
+      "weekday_T7820_T782002_0": "",
+      "weekend_T7820_T782002_1": "",
+      "weekend_T7820_T782002_0": ""
+    }
+  },
+  "T7800": {
+    "route_long_name": "Stesen LRT Kelana Jaya ~ Taman Mayang",
+    "route_short_name": "T780",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T7800_T780002_1": "",
+      "weekday_T7800_T780002_0": "",
+      "weekend_T7800_T780002_1": "",
+      "weekend_T7800_T780002_0": ""
+    }
+  },
+  "T7810": {
+    "route_long_name": "Stesen LRT Kelana Jaya ~ Kelana Centre Point",
+    "route_short_name": "T781",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T7810_T781002_1": "",
+      "weekday_T7810_T781002_0": "",
+      "weekend_T7810_T781002_1": "",
+      "weekend_T7810_T781002_0": ""
+    }
+  },
+  "T7900": {
+    "route_long_name": "Stesen LRT Paramount ~ Mid Valley",
+    "route_short_name": "T790",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T7900_T790001_5": "STESEN LRT PARAMOUNT",
+      "weekday_T7900_T790002_5": "MID VALLEY",
+      "weekday_T7900_T790001_4": "STESEN LRT PARAMOUNT",
+      "weekday_T7900_T790002_4": "MID VALLEY",
+      "weekday_T7900_T790001_3": "STESEN LRT PARAMOUNT",
+      "weekday_T7900_T790002_3": "MID VALLEY",
+      "weekday_T7900_T790001_2": "STESEN LRT PARAMOUNT",
+      "weekday_T7900_T790002_2": "MID VALLEY",
+      "weekday_T7900_T790001_1": "STESEN LRT PARAMOUNT",
+      "weekday_T7900_T790002_1": "MID VALLEY",
+      "weekday_T7900_T790001_0": "STESEN LRT PARAMOUNT",
+      "weekday_T7900_T790002_0": "MID VALLEY",
+      "weekend_T7900_T790001_5": "STESEN LRT PARAMOUNT",
+      "weekend_T7900_T790002_5": "MID VALLEY",
+      "weekend_T7900_T790001_4": "STESEN LRT PARAMOUNT",
+      "weekend_T7900_T790002_4": "MID VALLEY",
+      "weekend_T7900_T790001_3": "STESEN LRT PARAMOUNT",
+      "weekend_T7900_T790002_3": "MID VALLEY",
+      "weekend_T7900_T790001_2": "STESEN LRT PARAMOUNT",
+      "weekend_T7900_T790002_2": "MID VALLEY",
+      "weekend_T7900_T790001_1": "STESEN LRT PARAMOUNT",
+      "weekend_T7900_T790002_1": "MID VALLEY",
+      "weekend_T7900_T790001_0": "STESEN LRT PARAMOUNT",
+      "weekend_T7900_T790002_0": "MID VALLEY"
+    }
+  },
+  "T7860": {
+    "route_long_name": "Stesen LRT Asia Jaya ~ Stesen MRT Phileo Damansara",
+    "route_short_name": "T786",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7860_T786002_4": "",
+      "weekend_T7860_T786002_3": "",
+      "weekend_T7860_T786002_2": "",
+      "weekend_T7860_T786002_1": "",
+      "weekend_T7860_T786002_0": "",
+      "weekday_T7860_T786002_4": "",
+      "weekday_T7860_T786002_3": "",
+      "weekday_T7860_T786002_2": "",
+      "weekday_T7860_T786002_1": "",
+      "weekday_T7860_T786002_0": ""
+    }
+  },
+  "T7870": {
+    "route_long_name": "Stesen LRT Asia Jaya ~ Seksyen 14 & 18",
+    "route_short_name": "T787",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7870_T787002_0": "",
+      "weekday_T7870_T787002_0": ""
+    }
+  },
+  "T7880": {
+    "route_long_name": "Stesen LRT Universiti ~ Mid Valley",
+    "route_short_name": "T788",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T7880_T788001_8": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_8": "MID VALLEY",
+      "weekday_T7880_T788001_7": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_7": "MID VALLEY",
+      "weekday_T7880_T788001_6": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_6": "MID VALLEY",
+      "weekday_T7880_T788001_5": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_5": "MID VALLEY",
+      "weekday_T7880_T788001_4": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_4": "MID VALLEY",
+      "weekday_T7880_T788001_3": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_3": "MID VALLEY",
+      "weekday_T7880_T788001_2": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_2": "MID VALLEY",
+      "weekday_T7880_T788001_1": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_1": "MID VALLEY",
+      "weekday_T7880_T788001_0": "STESEN LRT UNIVERSITI",
+      "weekday_T7880_T788002_0": "MID VALLEY",
+      "weekend_T7880_T788001_8": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_8": "MID VALLEY",
+      "weekend_T7880_T788001_7": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_7": "MID VALLEY",
+      "weekend_T7880_T788001_6": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_6": "MID VALLEY",
+      "weekend_T7880_T788001_5": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_5": "MID VALLEY",
+      "weekend_T7880_T788001_4": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_4": "MID VALLEY",
+      "weekend_T7880_T788001_3": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_3": "MID VALLEY",
+      "weekend_T7880_T788001_2": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_2": "MID VALLEY",
+      "weekend_T7880_T788001_1": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_1": "MID VALLEY",
+      "weekend_T7880_T788001_0": "STESEN LRT UNIVERSITI",
+      "weekend_T7880_T788002_0": "MID VALLEY"
+    }
+  },
+  "T7890": {
+    "route_long_name": "Stesen LRT Universiti ~ Universiti Malaya via Pantai Hillpark",
+    "route_short_name": "T789",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7890_T789002_0": "",
+      "weekday_T7890_T789002_2": "",
+      "weekday_T7890_T789002_1": "",
+      "weekday_T7890_T789002_0": ""
+    }
+  },
+  "T7910": {
+    "route_long_name": "Stesen LRT Kerinchi ~ Pantai Hill Park",
+    "route_short_name": "T791",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7910_T791002_0": "",
+      "weekday_T7910_T791002_0": ""
+    }
+  },
+  "P0010": {
+    "route_long_name": "Terminal Taman Medan ~ Stesen LRT Taman Jaya",
+    "route_short_name": "PJ01",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_P0010_P001001_18": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_18": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_17": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_17": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_16": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_16": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_15": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_15": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_14": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_14": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_13": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_13": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_12": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_12": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_11": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_11": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_10": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_10": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_9": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_9": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_8": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_8": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_7": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_7": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_6": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_6": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_5": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_5": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_4": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_4": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_3": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_3": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_2": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_2": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_1": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_1": "STESEN LRT TAMAN JAYA",
+      "weekday_P0010_P001001_0": "TERMINAL TAMAN MEDAN",
+      "weekday_P0010_P001002_0": "STESEN LRT TAMAN JAYA",
+      "weekend_P0010_P001001_4": "TERMINAL TAMAN MEDAN",
+      "weekend_P0010_P001002_4": "STESEN LRT TAMAN JAYA",
+      "weekend_P0010_P001001_3": "TERMINAL TAMAN MEDAN",
+      "weekend_P0010_P001002_3": "STESEN LRT TAMAN JAYA",
+      "weekend_P0010_P001001_2": "TERMINAL TAMAN MEDAN",
+      "weekend_P0010_P001002_2": "STESEN LRT TAMAN JAYA",
+      "weekend_P0010_P001001_1": "TERMINAL TAMAN MEDAN",
+      "weekend_P0010_P001002_1": "STESEN LRT TAMAN JAYA",
+      "weekend_P0010_P001001_0": "TERMINAL TAMAN MEDAN",
+      "weekend_P0010_P001002_0": "STESEN LRT TAMAN JAYA"
+    }
+  },
+  "P0020": {
+    "route_long_name": "Stesen LRT Taman Jaya ~ PPUM via SS2 PJ",
+    "route_short_name": "PJ02",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P0020_P002002_2": "",
+      "weekend_P0020_P002002_1": "",
+      "weekend_P0020_P002002_0": "",
+      "weekday_P0020_P002002_2": "",
+      "weekday_P0020_P002002_1": "",
+      "weekday_P0020_P002002_0": ""
+    }
+  },
+  "P0030": {
+    "route_long_name": "Stesen LRT Taman Bahagia ~ SS6 Kelana Park View",
+    "route_short_name": "PJ03",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P0030_P003002_3": "",
+      "weekend_P0030_P003002_2": "",
+      "weekend_P0030_P003002_1": "",
+      "weekend_P0030_P003002_0": "",
+      "weekday_P0030_P003002_2": "",
+      "weekday_P0030_P003002_1": "",
+      "weekday_P0030_P003002_0": ""
+    }
+  },
+  "P0040": {
+    "route_long_name": "Stesen LRT Taman Bahagia ~ Kampung Tunku via SS3",
+    "route_short_name": "PJ04",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P0040_P004002_1": "",
+      "weekend_P0040_P004002_0": "",
+      "weekday_P0040_P004002_1": "",
+      "weekday_P0040_P004002_0": ""
+    }
+  },
+  "S5010": {
+    "route_long_name": "LRT Lembah Subang ~ Menara Prasarana",
+    "route_short_name": "MENARA PRASARANA",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S5010_S501002_4": "",
+      "weekday_S5010_S501002_3": "",
+      "weekday_S5010_S501002_2": "",
+      "weekday_S5010_S501002_1": "",
+      "weekday_S5010_S501002_0": ""
+    }
+  },
+  "T8500": {
+    "route_long_name": "Stesen LRT Bangsar ~ Stesen MRT Semantan",
+    "route_short_name": "T850",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T8500_T850002_6": "",
+      "weekday_T8500_T850002_5": "",
+      "weekday_T8500_T850002_4": "",
+      "weekday_T8500_T850002_3": "",
+      "weekday_T8500_T850002_2": "",
+      "weekday_T8500_T850002_1": "",
+      "weekday_T8500_T850002_0": "",
+      "weekend_T8500_T850002_6": "",
+      "weekend_T8500_T850002_5": "",
+      "weekend_T8500_T850002_4": "",
+      "weekend_T8500_T850002_3": "",
+      "weekend_T8500_T850002_2": "",
+      "weekend_T8500_T850002_1": "",
+      "weekend_T8500_T850002_0": ""
+    }
+  },
+  "S4050": {
+    "route_long_name": "Stesen Bas Seksyen 13 ~ Bukit Jelutong",
+    "route_short_name": "SA05",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S4050_S405002_6": "",
+      "weekend_S4050_S405002_5": "",
+      "weekend_S4050_S405002_4": "",
+      "weekend_S4050_S405002_3": "",
+      "weekend_S4050_S405002_2": "",
+      "weekend_S4050_S405002_1": "",
+      "weekend_S4050_S405002_0": "",
+      "weekday_S4050_S405002_6": "",
+      "weekday_S4050_S405002_5": "",
+      "weekday_S4050_S405002_4": "",
+      "weekday_S4050_S405002_3": "",
+      "weekday_S4050_S405002_2": "",
+      "weekday_S4050_S405002_1": "",
+      "weekday_S4050_S405002_0": ""
+    }
+  },
+  "S1030": {
+    "route_long_name": "Sri Nilam ~ Taman Cahaya",
+    "route_short_name": "AJ2A",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S1030_S103002_0": "",
+      "weekend_S1030_S103002_0": ""
+    }
+  },
+  "S1040": {
+    "route_long_name": "Sri Nilam ~ AEON Big Ampang",
+    "route_short_name": "AJ2B",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S1040_S104002_1": "",
+      "weekend_S1040_S104002_0": "",
+      "weekday_S1040_S104002_1": "",
+      "weekday_S1040_S104002_0": ""
+    }
+  },
+  "S1050": {
+    "route_long_name": "Stesen LRT Cempaka ~ Bukit Teratai",
+    "route_short_name": "AJ03",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S1050_S105001_8": "",
+      "weekend_S1050_S105002_7": "",
+      "weekend_S1050_S105001_6": "STESEN LRT CEMPAKA",
+      "weekend_S1050_S105002_6": "BUKIT TERATAI",
+      "weekend_S1050_S105001_5": "STESEN LRT CEMPAKA",
+      "weekend_S1050_S105002_5": "BUKIT TERATAI",
+      "weekend_S1050_S105002_4": "",
+      "weekend_S1050_S105001_3": "STESEN LRT CEMPAKA",
+      "weekend_S1050_S105002_3": "BUKIT TERATAI",
+      "weekend_S1050_S105001_2": "STESEN LRT CEMPAKA",
+      "weekend_S1050_S105002_2": "BUKIT TERATAI",
+      "weekend_S1050_S105001_1": "STESEN LRT CEMPAKA",
+      "weekend_S1050_S105002_1": "BUKIT TERATAI",
+      "weekend_S1050_S105001_0": "STESEN LRT CEMPAKA",
+      "weekend_S1050_S105002_0": "BUKIT TERATAI",
+      "weekday_S1050_S105001_8": "",
+      "weekday_S1050_S105002_7": "",
+      "weekday_S1050_S105001_6": "STESEN LRT CEMPAKA",
+      "weekday_S1050_S105002_6": "BUKIT TERATAI",
+      "weekday_S1050_S105001_5": "STESEN LRT CEMPAKA",
+      "weekday_S1050_S105002_5": "BUKIT TERATAI",
+      "weekday_S1050_S105002_4": "",
+      "weekday_S1050_S105001_3": "STESEN LRT CEMPAKA",
+      "weekday_S1050_S105002_3": "BUKIT TERATAI",
+      "weekday_S1050_S105001_2": "STESEN LRT CEMPAKA",
+      "weekday_S1050_S105002_2": "BUKIT TERATAI",
+      "weekday_S1050_S105001_1": "STESEN LRT CEMPAKA",
+      "weekday_S1050_S105002_1": "BUKIT TERATAI",
+      "weekday_S1050_S105001_0": "STESEN LRT CEMPAKA",
+      "weekday_S1050_S105002_0": "BUKIT TERATAI"
+    }
+  },
+  "S2060": {
+    "route_long_name": "Hentian Banting ~ Bandar Baru Banting",
+    "route_short_name": "BTG2",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S2060_S206001_7": "",
+      "weekend_S2060_S206002_6": "",
+      "weekend_S2060_S206001_5": "HENTIAN BANTING",
+      "weekend_S2060_S206002_5": "BANDAR BARU BANTING",
+      "weekend_S2060_S206001_4": "Hentian Banting",
+      "weekend_S2060_S206002_4": "Bandar Baru Banting",
+      "weekend_S2060_S206001_3": "Hentian Banting",
+      "weekend_S2060_S206002_3": "Bandar Baru Banting",
+      "weekend_S2060_S206001_2": "Hentian Banting",
+      "weekend_S2060_S206002_2": "Bandar Baru Banting",
+      "weekend_S2060_S206001_1": "Hentian Banting",
+      "weekend_S2060_S206002_1": "Bandar Baru Banting",
+      "weekend_S2060_S206001_0": "Hentian Banting",
+      "weekend_S2060_S206002_0": "Bandar Baru Banting",
+      "weekday_S2060_S206001_7": "",
+      "weekday_S2060_S206002_6": "",
+      "weekday_S2060_S206001_5": "HENTIAN BANTING",
+      "weekday_S2060_S206002_5": "BANDAR BARU BANTING",
+      "weekday_S2060_S206001_4": "Hentian Banting",
+      "weekday_S2060_S206002_4": "Bandar Baru Banting",
+      "weekday_S2060_S206001_3": "Hentian Banting",
+      "weekday_S2060_S206002_3": "Bandar Baru Banting",
+      "weekday_S2060_S206001_2": "Hentian Banting",
+      "weekday_S2060_S206002_2": "Bandar Baru Banting",
+      "weekday_S2060_S206001_1": "Hentian Banting",
+      "weekday_S2060_S206002_1": "Bandar Baru Banting",
+      "weekday_S2060_S206001_0": "Hentian Banting",
+      "weekday_S2060_S206002_0": "Bandar Baru Banting"
+    }
+  },
+  "S1060": {
+    "route_long_name": "Stesen KTM Bangi ~ Bandar Bukit Mahkota",
+    "route_short_name": "KJ02",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S1060_S106002_2": "",
+      "weekday_S1060_S106002_1": "",
+      "weekday_S1060_S106002_0": "",
+      "weekend_S1060_S106002_2": "",
+      "weekend_S1060_S106002_1": "",
+      "weekend_S1060_S106002_0": ""
+    }
+  },
+  "S1070": {
+    "route_long_name": "Stesen MRT BTHO ~ Taman Tun Perak",
+    "route_short_name": "KJ03",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S1070_S107002_4": "",
+      "weekend_S1070_S107002_3": "",
+      "weekend_S1070_S107002_2": "",
+      "weekend_S1070_S107002_1": "",
+      "weekend_S1070_S107002_0": "",
+      "weekday_S1070_S107002_4": "",
+      "weekday_S1070_S107002_3": "",
+      "weekday_S1070_S107002_2": "",
+      "weekday_S1070_S107002_1": "",
+      "weekday_S1070_S107002_0": ""
+    }
+  },
+  "U7720": {
+    "route_long_name": "Subang Suria Mah Sing ~ Hab Pasar Seni",
+    "route_short_name": "772",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7720_U772001_10": "",
+      "weekend_U7720_U772001_9": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_9": "HAB PASAR SENI",
+      "weekend_U7720_U772001_8": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_8": "HAB PASAR SENI",
+      "weekend_U7720_U772001_7": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_7": "HAB PASAR SENI",
+      "weekend_U7720_U772001_6": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_6": "HAB PASAR SENI",
+      "weekend_U7720_U772001_5": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_5": "HAB PASAR SENI",
+      "weekend_U7720_U772001_4": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_4": "HAB PASAR SENI",
+      "weekend_U7720_U772001_3": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_3": "HAB PASAR SENI",
+      "weekend_U7720_U772001_2": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_2": "HAB PASAR SENI",
+      "weekend_U7720_U772001_1": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_1": "HAB PASAR SENI",
+      "weekend_U7720_U772001_0": "SUBANG SURIA MAH SING",
+      "weekend_U7720_U772002_0": "HAB PASAR SENI",
+      "weekday_U7720_U772001_16": "",
+      "weekday_U7720_U772001_15": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_15": "HAB PASAR SENI",
+      "weekday_U7720_U772001_14": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_14": "HAB PASAR SENI",
+      "weekday_U7720_U772001_13": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_13": "HAB PASAR SENI",
+      "weekday_U7720_U772001_12": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_12": "HAB PASAR SENI",
+      "weekday_U7720_U772001_11": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_11": "HAB PASAR SENI",
+      "weekday_U7720_U772001_10": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_10": "HAB PASAR SENI",
+      "weekday_U7720_U772001_9": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_9": "HAB PASAR SENI",
+      "weekday_U7720_U772001_8": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_8": "HAB PASAR SENI",
+      "weekday_U7720_U772001_7": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_7": "HAB PASAR SENI",
+      "weekday_U7720_U772001_6": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_6": "HAB PASAR SENI",
+      "weekday_U7720_U772001_5": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_5": "HAB PASAR SENI",
+      "weekday_U7720_U772001_4": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_4": "HAB PASAR SENI",
+      "weekday_U7720_U772001_3": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_3": "HAB PASAR SENI",
+      "weekday_U7720_U772001_2": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_2": "HAB PASAR SENI",
+      "weekday_U7720_U772001_1": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_1": "HAB PASAR SENI",
+      "weekday_U7720_U772001_0": "SUBANG SURIA MAH SING",
+      "weekday_U7720_U772002_0": "HAB PASAR SENI"
+    }
+  },
+  "U7800": {
+    "route_long_name": "Kota Damansara ~ Hab Pasar Seni",
+    "route_short_name": "780",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7800_U780001_9": "",
+      "weekend_U7800_U780001_8": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_8": "HAB PASAR SENI",
+      "weekend_U7800_U780001_7": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_7": "HAB PASAR SENI",
+      "weekend_U7800_U780001_6": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_6": "HAB PASAR SENI",
+      "weekend_U7800_U780001_5": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_5": "HAB PASAR SENI",
+      "weekend_U7800_U780001_4": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_4": "HAB PASAR SENI",
+      "weekend_U7800_U780001_3": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_3": "HAB PASAR SENI",
+      "weekend_U7800_U780001_2": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_2": "HAB PASAR SENI",
+      "weekend_U7800_U780001_1": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_1": "HAB PASAR SENI",
+      "weekend_U7800_U780001_0": "KOTA DAMANSARA",
+      "weekend_U7800_U780002_0": "HAB PASAR SENI",
+      "weekday_U7800_U780001_6": "",
+      "weekday_U7800_U780001_5": "KOTA DAMANSARA",
+      "weekday_U7800_U780002_5": "HAB PASAR SENI",
+      "weekday_U7800_U780001_4": "KOTA DAMANSARA",
+      "weekday_U7800_U780002_4": "HAB PASAR SENI",
+      "weekday_U7800_U780001_3": "KOTA DAMANSARA",
+      "weekday_U7800_U780002_3": "HAB PASAR SENI",
+      "weekday_U7800_U780001_2": "KOTA DAMANSARA",
+      "weekday_U7800_U780002_2": "HAB PASAR SENI",
+      "weekday_U7800_U780001_1": "KOTA DAMANSARA",
+      "weekday_U7800_U780002_1": "HAB PASAR SENI",
+      "weekday_U7800_U780001_0": "KOTA DAMANSARA",
+      "weekday_U7800_U780002_0": "HAB PASAR SENI"
+    }
+  },
+  "U8010": {
+    "route_long_name": "Bandar Utama ~ Metro Prima",
+    "route_short_name": "801",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U8010_U801001_9": "",
+      "weekday_U8010_U801001_8": "BANDAR UTAMA",
+      "weekday_U8010_U801002_8": "METRO PRIMA",
+      "weekday_U8010_U801001_7": "BANDAR UTAMA",
+      "weekday_U8010_U801002_7": "METRO PRIMA",
+      "weekday_U8010_U801001_6": "BANDAR UTAMA",
+      "weekday_U8010_U801002_6": "METRO PRIMA",
+      "weekday_U8010_U801001_5": "BANDAR UTAMA",
+      "weekday_U8010_U801002_5": "METRO PRIMA",
+      "weekday_U8010_U801001_4": "BANDAR UTAMA",
+      "weekday_U8010_U801002_4": "METRO PRIMA",
+      "weekday_U8010_U801001_3": "BANDAR UTAMA",
+      "weekday_U8010_U801002_3": "METRO PRIMA",
+      "weekday_U8010_U801001_2": "BANDAR UTAMA",
+      "weekday_U8010_U801002_2": "METRO PRIMA",
+      "weekday_U8010_U801001_1": "BANDAR UTAMA",
+      "weekday_U8010_U801002_1": "METRO PRIMA",
+      "weekday_U8010_U801001_0": "BANDAR UTAMA",
+      "weekday_U8010_U801002_0": "METRO PRIMA",
+      "weekend_U8010_U801001_14": "",
+      "weekend_U8010_U801002_13": "",
+      "weekend_U8010_U801001_12": "BANDAR UTAMA",
+      "weekend_U8010_U801002_12": "METRO PRIMA",
+      "weekend_U8010_U801001_11": "BANDAR UTAMA",
+      "weekend_U8010_U801002_11": "METRO PRIMA",
+      "weekend_U8010_U801001_10": "BANDAR UTAMA",
+      "weekend_U8010_U801002_10": "METRO PRIMA",
+      "weekend_U8010_U801001_9": "BANDAR UTAMA",
+      "weekend_U8010_U801002_9": "METRO PRIMA",
+      "weekend_U8010_U801001_8": "BANDAR UTAMA",
+      "weekend_U8010_U801002_8": "METRO PRIMA",
+      "weekend_U8010_U801001_7": "BANDAR UTAMA",
+      "weekend_U8010_U801002_7": "METRO PRIMA",
+      "weekend_U8010_U801001_6": "BANDAR UTAMA",
+      "weekend_U8010_U801002_6": "METRO PRIMA",
+      "weekend_U8010_U801001_5": "BANDAR UTAMA",
+      "weekend_U8010_U801002_5": "METRO PRIMA",
+      "weekend_U8010_U801001_4": "BANDAR UTAMA",
+      "weekend_U8010_U801002_4": "METRO PRIMA",
+      "weekend_U8010_U801001_3": "BANDAR UTAMA",
+      "weekend_U8010_U801002_3": "METRO PRIMA",
+      "weekend_U8010_U801001_2": "BANDAR UTAMA",
+      "weekend_U8010_U801002_2": "METRO PRIMA",
+      "weekend_U8010_U801001_1": "BANDAR UTAMA",
+      "weekend_U8010_U801002_1": "METRO PRIMA",
+      "weekend_U8010_U801001_0": "Bandar Utama",
+      "weekend_U8010_U801002_0": "Metro Prima"
+    }
+  },
+  "U8020": {
+    "route_long_name": "Stesen LRT Kelana Jaya ~ Kota Damansara",
+    "route_short_name": "802",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U8020_U802002_15": "",
+      "weekend_U8020_U802002_14": "",
+      "weekend_U8020_U802002_13": "",
+      "weekend_U8020_U802002_12": "",
+      "weekend_U8020_U802002_11": "",
+      "weekend_U8020_U802002_10": "",
+      "weekend_U8020_U802002_9": "",
+      "weekend_U8020_U802002_8": "",
+      "weekend_U8020_U802002_7": "",
+      "weekend_U8020_U802002_6": "",
+      "weekend_U8020_U802002_5": "",
+      "weekend_U8020_U802002_4": "",
+      "weekend_U8020_U802002_3": "",
+      "weekend_U8020_U802002_2": "",
+      "weekend_U8020_U802002_1": "",
+      "weekend_U8020_U802002_0": "",
+      "weekday_U8020_U802002_15": "",
+      "weekday_U8020_U802002_14": "",
+      "weekday_U8020_U802002_13": "",
+      "weekday_U8020_U802002_12": "",
+      "weekday_U8020_U802002_11": "",
+      "weekday_U8020_U802002_10": "",
+      "weekday_U8020_U802002_9": "",
+      "weekday_U8020_U802002_8": "",
+      "weekday_U8020_U802002_7": "",
+      "weekday_U8020_U802002_6": "",
+      "weekday_U8020_U802002_5": "",
+      "weekday_U8020_U802002_4": "",
+      "weekday_U8020_U802002_3": "",
+      "weekday_U8020_U802002_2": "",
+      "weekday_U8020_U802002_1": "",
+      "weekday_U8020_U802002_0": ""
+    }
+  },
+  "U2000": {
+    "route_long_name": "UIA Gombak ~ SOGO KL",
+    "route_short_name": "200",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U2000_U200002_10": "",
+      "weekend_U2000_U200002_9": "",
+      "weekend_U2000_U200002_8": "",
+      "weekend_U2000_U200002_7": "",
+      "weekend_U2000_U200002_6": "",
+      "weekend_U2000_U200002_5": "",
+      "weekend_U2000_U200002_4": "",
+      "weekend_U2000_U200002_3": "",
+      "weekend_U2000_U200002_2": "",
+      "weekend_U2000_U200002_1": "",
+      "weekend_U2000_U200002_0": "",
+      "weekday_U2000_U200002_4": "",
+      "weekday_U2000_U200002_3": "",
+      "weekday_U2000_U200002_2": "",
+      "weekday_U2000_U200002_1": "",
+      "weekday_U2000_U200002_0": ""
+    }
+  },
+  "U2200": {
+    "route_long_name": "Taman Melawati ~ Lebuh Ampang",
+    "route_short_name": "220",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U2200_U220001_9": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_9": "LEBUH AMPANG",
+      "weekday_U2200_U220001_8": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_8": "LEBUH AMPANG",
+      "weekday_U2200_U220001_7": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_7": "LEBUH AMPANG",
+      "weekday_U2200_U220001_6": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_6": "LEBUH AMPANG",
+      "weekday_U2200_U220001_5": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_5": "LEBUH AMPANG",
+      "weekday_U2200_U220001_4": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_4": "LEBUH AMPANG",
+      "weekday_U2200_U220001_3": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_3": "LEBUH AMPANG",
+      "weekday_U2200_U220001_2": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_2": "LEBUH AMPANG",
+      "weekday_U2200_U220001_1": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_1": "LEBUH AMPANG",
+      "weekday_U2200_U220001_0": "TAMAN MELAWATI",
+      "weekday_U2200_U220002_0": "LEBUH AMPANG",
+      "weekend_U2200_U220001_10": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_10": "LEBUH AMPANG",
+      "weekend_U2200_U220001_9": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_9": "LEBUH AMPANG",
+      "weekend_U2200_U220001_8": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_8": "LEBUH AMPANG",
+      "weekend_U2200_U220001_7": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_7": "LEBUH AMPANG",
+      "weekend_U2200_U220001_6": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_6": "LEBUH AMPANG",
+      "weekend_U2200_U220001_5": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_5": "LEBUH AMPANG",
+      "weekend_U2200_U220001_4": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_4": "LEBUH AMPANG",
+      "weekend_U2200_U220001_3": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_3": "LEBUH AMPANG",
+      "weekend_U2200_U220001_2": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_2": "LEBUH AMPANG",
+      "weekend_U2200_U220001_1": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_1": "LEBUH AMPANG",
+      "weekend_U2200_U220001_0": "TAMAN MELAWATI",
+      "weekend_U2200_U220002_0": "LEBUH AMPANG"
+    }
+  },
+  "U2220": {
+    "route_long_name": "Taman Melawati ~ Stesen LRT Wangsa Maju",
+    "route_short_name": "222",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U2220_U222002_0": "",
+      "weekday_U2220_U222002_2": "",
+      "weekday_U2220_U222002_1": "",
+      "weekday_U2220_U222002_0": ""
+    }
+  },
+  "U2500": {
+    "route_long_name": "Stesen LRT Wangsa Maju ~ Lebuh Ampang",
+    "route_short_name": "250",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U2500_U250001_26": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_26": "LEBUH AMPANG",
+      "weekday_U2500_U250001_25": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_25": "LEBUH AMPANG",
+      "weekday_U2500_U250001_24": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_24": "LEBUH AMPANG",
+      "weekday_U2500_U250001_23": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_23": "LEBUH AMPANG",
+      "weekday_U2500_U250001_22": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_22": "LEBUH AMPANG",
+      "weekday_U2500_U250002_21": "",
+      "weekday_U2500_U250001_20": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_20": "LEBUH AMPANG",
+      "weekday_U2500_U250002_19": "",
+      "weekday_U2500_U250001_18": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_18": "LEBUH AMPANG",
+      "weekday_U2500_U250002_17": "",
+      "weekday_U2500_U250001_16": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_16": "LEBUH AMPANG",
+      "weekday_U2500_U250002_15": "",
+      "weekday_U2500_U250001_14": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_14": "LEBUH AMPANG",
+      "weekday_U2500_U250002_13": "",
+      "weekday_U2500_U250001_12": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_12": "LEBUH AMPANG",
+      "weekday_U2500_U250002_11": "",
+      "weekday_U2500_U250001_10": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_10": "LEBUH AMPANG",
+      "weekday_U2500_U250001_9": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_9": "LEBUH AMPANG",
+      "weekday_U2500_U250001_8": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_8": "LEBUH AMPANG",
+      "weekday_U2500_U250001_7": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_7": "LEBUH AMPANG",
+      "weekday_U2500_U250001_6": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_6": "LEBUH AMPANG",
+      "weekday_U2500_U250001_5": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_5": "LEBUH AMPANG",
+      "weekday_U2500_U250001_4": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_4": "LEBUH AMPANG",
+      "weekday_U2500_U250001_3": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_3": "LEBUH AMPANG",
+      "weekday_U2500_U250001_2": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_2": "LEBUH AMPANG",
+      "weekday_U2500_U250001_1": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_1": "LEBUH AMPANG",
+      "weekday_U2500_U250001_0": "STESEN LRT WANGSA MAJU",
+      "weekday_U2500_U250002_0": "LEBUH AMPANG",
+      "weekend_U2500_U250001_12": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_12": "LEBUH AMPANG",
+      "weekend_U2500_U250001_11": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_11": "LEBUH AMPANG",
+      "weekend_U2500_U250001_10": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_10": "LEBUH AMPANG",
+      "weekend_U2500_U250001_9": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_9": "LEBUH AMPANG",
+      "weekend_U2500_U250001_8": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_8": "LEBUH AMPANG",
+      "weekend_U2500_U250001_7": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_7": "LEBUH AMPANG",
+      "weekend_U2500_U250001_6": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_6": "LEBUH AMPANG",
+      "weekend_U2500_U250001_5": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_5": "LEBUH AMPANG",
+      "weekend_U2500_U250001_4": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_4": "LEBUH AMPANG",
+      "weekend_U2500_U250001_3": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_3": "LEBUH AMPANG",
+      "weekend_U2500_U250001_2": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_2": "LEBUH AMPANG",
+      "weekend_U2500_U250001_1": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_1": "LEBUH AMPANG",
+      "weekend_U2500_U250001_0": "STESEN LRT WANGSA MAJU",
+      "weekend_U2500_U250002_0": "LEBUH AMPANG"
+    }
+  },
+  "U2510": {
+    "route_long_name": "AU3 Jentayu ~ Chow Kit",
+    "route_short_name": "251",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U2510_U251002_2": "",
+      "weekend_U2510_U251002_1": "",
+      "weekend_U2510_U251002_0": "",
+      "weekday_U2510_U251002_7": "",
+      "weekday_U2510_U251002_6": "",
+      "weekday_U2510_U251002_5": "",
+      "weekday_U2510_U251002_4": "",
+      "weekday_U2510_U251002_3": "",
+      "weekday_U2510_U251002_2": "",
+      "weekday_U2510_U251002_1": "",
+      "weekday_U2510_U251002_0": ""
+    }
+  },
+  "T2000": {
+    "route_long_name": "Stesen LRT Gombak ~ UIA Gombak",
+    "route_short_name": "T200",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2000_T200002_0": "",
+      "weekday_T2000_T200002_0": ""
+    }
+  },
+  "T2010": {
+    "route_long_name": "Stesen LRT Gombak ~ Hab Wira Damai",
+    "route_short_name": "T201",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2010_T201001_8": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_8": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_7": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_7": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_6": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_6": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_5": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_5": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_4": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_4": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_3": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_3": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_2": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_2": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_1": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_1": "HAB WIRA DAMAI",
+      "weekend_T2010_T201001_0": "STESEN LRT GOMBAK",
+      "weekend_T2010_T201002_0": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_7": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_7": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_6": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_6": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_5": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_5": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_4": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_4": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_3": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_3": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_2": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_2": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_1": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_1": "HAB WIRA DAMAI",
+      "weekday_T2010_T201001_0": "STESEN LRT GOMBAK",
+      "weekday_T2010_T201002_0": "HAB WIRA DAMAI"
+    }
+  },
+  "T2020": {
+    "route_long_name": "Stesen LRT Taman Melati ~ Taman Melewar",
+    "route_short_name": "T202",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2020_T202002_2": "",
+      "weekend_T2020_T202002_1": "",
+      "weekend_T2020_T202002_0": "",
+      "weekday_T2020_T202002_2": "",
+      "weekday_T2020_T202002_1": "",
+      "weekday_T2020_T202002_0": ""
+    }
+  },
+  "T2220": {
+    "route_long_name": "Stesen LRT Sri Rampai ~ UKAY Perdana",
+    "route_short_name": "T222",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T2220_T222002_4": "",
+      "weekday_T2220_T222002_3": "",
+      "weekday_T2220_T222002_2": "",
+      "weekday_T2220_T222002_1": "",
+      "weekday_T2220_T222002_0": "",
+      "weekend_T2220_T222002_2": "",
+      "weekend_T2220_T222002_1": "",
+      "weekend_T2220_T222002_0": ""
+    }
+  },
+  "T2500": {
+    "route_long_name": "Stesen LRT Wangsa Maju ~ Setapak Sentral",
+    "route_short_name": "T250",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2500_T250002_2": "",
+      "weekend_T2500_T250002_1": "",
+      "weekend_T2500_T250002_0": "",
+      "weekday_T2500_T250002_4": "",
+      "weekday_T2500_T250002_3": "",
+      "weekday_T2500_T250002_2": "",
+      "weekday_T2500_T250002_1": "",
+      "weekday_T2500_T250002_0": ""
+    }
+  },
+  "T2510": {
+    "route_long_name": "Stesen LRT Sri Rampai ~ Seksyen 10 Wangsa Maju",
+    "route_short_name": "T251",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2510_T251002_3": "",
+      "weekend_T2510_T251002_2": "",
+      "weekend_T2510_T251002_1": "",
+      "weekend_T2510_T251002_0": "",
+      "weekday_T2510_T251002_3": "",
+      "weekday_T2510_T251002_2": "",
+      "weekday_T2510_T251002_1": "",
+      "weekday_T2510_T251002_0": ""
+    }
+  },
+  "T2230": {
+    "route_long_name": "Stesen LRT Setiawangsa ~ AU3, Jentayu, Keramat",
+    "route_short_name": "T223",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2230_T223002_6": "",
+      "weekend_T2230_T223002_5": "",
+      "weekend_T2230_T223002_4": "",
+      "weekend_T2230_T223002_3": "",
+      "weekend_T2230_T223002_2": "",
+      "weekend_T2230_T223002_1": "",
+      "weekend_T2230_T223002_0": "",
+      "weekday_T2230_T223002_6": "",
+      "weekday_T2230_T223002_5": "",
+      "weekday_T2230_T223002_4": "",
+      "weekday_T2230_T223002_3": "",
+      "weekday_T2230_T223002_2": "",
+      "weekday_T2230_T223002_1": "",
+      "weekday_T2230_T223002_0": ""
+    }
+  },
+  "T2240": {
+    "route_long_name": "Stesen LRT Dato Keramat ~ Desa Pandan",
+    "route_short_name": "T224",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T2240_T224002_1": "",
+      "weekend_T2240_T224002_0": "",
+      "weekday_T2240_T224002_1": "",
+      "weekday_T2240_T224002_0": ""
+    }
+  },
+  "U1700": {
+    "route_long_name": "Hab Wira Damai ~ Stesen MRT Titiwangsa",
+    "route_short_name": "170",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U1700_U170002_4": "",
+      "weekend_U1700_U170002_3": "",
+      "weekend_U1700_U170002_2": "",
+      "weekend_U1700_U170002_1": "",
+      "weekend_U1700_U170002_0": "",
+      "weekday_U1700_U170002_7": "",
+      "weekday_U1700_U170002_6": "",
+      "weekday_U1700_U170002_5": "",
+      "weekday_U1700_U170002_4": "",
+      "weekday_U1700_U170002_3": "",
+      "weekday_U1700_U170002_2": "",
+      "weekday_U1700_U170002_1": "",
+      "weekday_U1700_U170002_0": ""
+    }
+  },
+  "U1710": {
+    "route_long_name": "Hab Wira Damai ~ Lebuh Ampang via Sentul",
+    "route_short_name": "171",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U1710_U171001_9": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_9": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_8": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_8": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_7": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_7": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_6": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_6": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_5": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_5": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_4": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_4": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_3": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_3": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_2": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_2": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_1": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_1": "LEBUH AMPANG VIA SENTUL",
+      "weekend_U1710_U171001_0": "HAB WIRA DAMAI",
+      "weekend_U1710_U171002_0": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_7": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_7": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_6": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_6": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_5": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_5": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_4": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_4": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_3": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_3": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_2": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_2": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_1": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_1": "LEBUH AMPANG VIA SENTUL",
+      "weekday_U1710_U171001_0": "HAB WIRA DAMAI",
+      "weekday_U1710_U171002_0": "LEBUH AMPANG VIA SENTUL"
+    }
+  },
+  "U1730": {
+    "route_long_name": "Taman Jasa Utama ~ Lebuh Ampang",
+    "route_short_name": "173",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U1730_U173001_7": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_7": "LEBUH AMPANG",
+      "weekend_U1730_U173001_6": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_6": "LEBUH AMPANG",
+      "weekend_U1730_U173001_5": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_5": "LEBUH AMPANG",
+      "weekend_U1730_U173001_4": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_4": "LEBUH AMPANG",
+      "weekend_U1730_U173001_3": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_3": "LEBUH AMPANG",
+      "weekend_U1730_U173001_2": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_2": "LEBUH AMPANG",
+      "weekend_U1730_U173001_1": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_1": "LEBUH AMPANG",
+      "weekend_U1730_U173001_0": "TAMAN JASA UTAMA",
+      "weekend_U1730_U173002_0": "LEBUH AMPANG",
+      "weekday_U1730_U173001_10": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_10": "LEBUH AMPANG",
+      "weekday_U1730_U173001_9": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_9": "LEBUH AMPANG",
+      "weekday_U1730_U173001_8": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_8": "LEBUH AMPANG",
+      "weekday_U1730_U173001_7": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_7": "LEBUH AMPANG",
+      "weekday_U1730_U173001_6": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_6": "LEBUH AMPANG",
+      "weekday_U1730_U173001_5": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_5": "LEBUH AMPANG",
+      "weekday_U1730_U173001_4": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_4": "LEBUH AMPANG",
+      "weekday_U1730_U173001_3": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_3": "LEBUH AMPANG",
+      "weekday_U1730_U173001_2": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_2": "LEBUH AMPANG",
+      "weekday_U1730_U173001_1": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_1": "LEBUH AMPANG",
+      "weekday_U1730_U173001_0": "TAMAN JASA UTAMA",
+      "weekday_U1730_U173002_0": "LEBUH AMPANG"
+    }
+  },
+  "U1800": {
+    "route_long_name": "Taman Dato' Senu ~ Hab Pasar Seni",
+    "route_short_name": "180",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U1800_U180001_2": "TAMAN DATO' SENU",
+      "weekend_U1800_U180002_2": "HAB PASAR SENI",
+      "weekend_U1800_U180001_1": "TAMAN DATO' SENU",
+      "weekend_U1800_U180002_1": "HAB PASAR SENI",
+      "weekend_U1800_U180001_0": "TAMAN DATO' SENU",
+      "weekend_U1800_U180002_0": "HAB PASAR SENI",
+      "weekday_U1800_U180001_8": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_8": "HAB PASAR SENI",
+      "weekday_U1800_U180001_7": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_7": "HAB PASAR SENI",
+      "weekday_U1800_U180001_6": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_6": "HAB PASAR SENI",
+      "weekday_U1800_U180001_5": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_5": "HAB PASAR SENI",
+      "weekday_U1800_U180001_4": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_4": "HAB PASAR SENI",
+      "weekday_U1800_U180001_3": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_3": "HAB PASAR SENI",
+      "weekday_U1800_U180001_2": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_2": "HAB PASAR SENI",
+      "weekday_U1800_U180001_1": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_1": "HAB PASAR SENI",
+      "weekday_U1800_U180001_0": "TAMAN DATO' SENU",
+      "weekday_U1800_U180002_0": "HAB PASAR SENI"
+    }
+  },
+  "U1900": {
+    "route_long_name": "Desa Sri Hartamas ~ Lin Ho Jln Lekiu",
+    "route_short_name": "190",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U1900_U190001_11": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_11": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_10": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_10": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_9": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_9": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_8": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_8": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_7": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_7": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_6": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_6": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_5": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_5": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_4": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_4": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_3": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_3": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_2": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_2": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_1": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_1": "LIN HO JALAN LEKIU",
+      "weekend_U1900_U190001_0": "DESA SRI HARTAMAS",
+      "weekend_U1900_U190002_0": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_11": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_11": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_10": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_10": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_9": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_9": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_8": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_8": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_7": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_7": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_6": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_6": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_5": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_5": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_4": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_4": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_3": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_3": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_2": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_2": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_1": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_1": "LIN HO JALAN LEKIU",
+      "weekday_U1900_U190001_0": "DESA SRI HARTAMAS",
+      "weekday_U1900_U190002_0": "LIN HO JALAN LEKIU"
+    }
+  },
+  "U1910": {
+    "route_long_name": "Taman Sri Segambut~ Monorel Chow Kit",
+    "route_short_name": "191",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U1910_U191002_0": "",
+      "weekday_U1910_U191002_1": "",
+      "weekday_U1910_U191002_0": ""
+    }
+  },
+  "U2020": {
+    "route_long_name": "Hub Wira Damai ~ Lebuh Ampang via Gombak",
+    "route_short_name": "202",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U2020_U202001_14": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_14": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_13": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_13": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_12": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_12": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_11": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_11": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_10": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_10": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_9": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_9": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_8": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_8": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_7": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_7": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_6": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_6": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_5": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_5": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_4": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_4": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_3": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_3": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_2": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_2": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_1": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_1": "LEBUH AMPANG VIA GOMBAK",
+      "weekday_U2020_U202001_0": "HAB WIRA DAMAI",
+      "weekday_U2020_U202002_0": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_7": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_7": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_6": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_6": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_5": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_5": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_4": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_4": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_3": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_3": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_2": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_2": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_1": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_1": "LEBUH AMPANG VIA GOMBAK",
+      "weekend_U2020_U202001_0": "HAB WIRA DAMAI",
+      "weekend_U2020_U202002_0": "LEBUH AMPANG VIA GOMBAK"
+    }
+  },
+  "U3020": {
+    "route_long_name": "Titiwangsa ~ KLCC",
+    "route_short_name": "302",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U3020_U302002_0": "",
+      "weekday_U3020_U302002_0": ""
+    }
+  },
+  "U8210": {
+    "route_long_name": "Pantai Hill Park ~ Hab Pasar Seni",
+    "route_short_name": "821",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U8210_U821002_6": "",
+      "weekend_U8210_U821002_5": "",
+      "weekend_U8210_U821002_4": "",
+      "weekend_U8210_U821002_3": "",
+      "weekend_U8210_U821002_2": "",
+      "weekend_U8210_U821002_1": "",
+      "weekend_U8210_U821002_0": "",
+      "weekday_U8210_U821002_7": "",
+      "weekday_U8210_U821002_6": "",
+      "weekday_U8210_U821002_5": "",
+      "weekday_U8210_U821002_4": "",
+      "weekday_U8210_U821002_3": "",
+      "weekday_U8210_U821002_2": "",
+      "weekday_U8210_U821002_1": "",
+      "weekday_U8210_U821002_0": ""
+    }
+  },
+  "U8220": {
+    "route_long_name": "Stesen LRT Bangsar ~ Bangsar Shopping Centre",
+    "route_short_name": "822",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U8220_U822002_1": "",
+      "weekend_U8220_U822002_0": "",
+      "weekday_U8220_U822002_1": "",
+      "weekday_U8220_U822002_0": ""
+    }
+  },
+  "U8510": {
+    "route_long_name": "Hab Pasar Seni ~ Kompleks Mahkamah Jalan Duta",
+    "route_short_name": "851",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U8510_U851002_5": "",
+      "weekday_U8510_U851002_4": "",
+      "weekday_U8510_U851002_3": "",
+      "weekday_U8510_U851002_2": "",
+      "weekday_U8510_U851002_1": "",
+      "weekday_U8510_U851002_0": ""
+    }
+  },
+  "P0050": {
+    "route_long_name": "Bandar Utama ~ Stesen LRT Taman Bahagia",
+    "route_short_name": "PJ05",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P0050_P005002_3": "",
+      "weekend_P0050_P005002_2": "",
+      "weekend_P0050_P005002_1": "",
+      "weekend_P0050_P005002_0": "",
+      "weekday_P0050_P005002_2": "",
+      "weekday_P0050_P005002_1": "",
+      "weekday_P0050_P005002_0": ""
+    }
+  },
+  "P0060": {
+    "route_long_name": "Bandar Utama ~ Damansara Damai",
+    "route_short_name": "PJ06",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P0060_P006002_3": "",
+      "weekend_P0060_P006002_2": "",
+      "weekend_P0060_P006002_1": "",
+      "weekend_P0060_P006002_0": "",
+      "weekday_P0060_P006002_3": "",
+      "weekday_P0060_P006002_2": "",
+      "weekday_P0060_P006002_1": "",
+      "weekday_P0060_P006002_0": ""
+    }
+  },
+  "S0070": {
+    "route_long_name": "Selayang Mutiara ~ Stesen LRT Gombak",
+    "route_short_name": "MPS1",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S0070_S007002_7": "",
+      "weekend_S0070_S007002_6": "",
+      "weekend_S0070_S007002_5": "",
+      "weekend_S0070_S007002_4": "",
+      "weekend_S0070_S007002_3": "",
+      "weekend_S0070_S007002_2": "",
+      "weekend_S0070_S007002_1": "",
+      "weekend_S0070_S007002_0": "",
+      "weekday_S0070_S007002_7": "",
+      "weekday_S0070_S007002_6": "",
+      "weekday_S0070_S007002_5": "",
+      "weekday_S0070_S007002_4": "",
+      "weekday_S0070_S007002_3": "",
+      "weekday_S0070_S007002_2": "",
+      "weekday_S0070_S007002_1": "",
+      "weekday_S0070_S007002_0": ""
+    }
+  },
+  "S0100": {
+    "route_long_name": "Stesen MRT Semantan  ~ Damanlela Open CarPark",
+    "route_short_name": "PBD1",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S0100_S010002_0": "",
+      "weekday_S0100_S010002_0": ""
+    }
+  },
+  "S1140": {
+    "route_long_name": "Pandan Perdana ~ Hospital Ampang",
+    "route_short_name": "AJ04",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S1140_S114002_3": "",
+      "weekend_S1140_S114002_2": "",
+      "weekend_S1140_S114002_1": "",
+      "weekend_S1140_S114002_0": "",
+      "weekday_S1140_S114002_3": "",
+      "weekday_S1140_S114002_2": "",
+      "weekday_S1140_S114002_1": "",
+      "weekday_S1140_S114002_0": ""
+    }
+  },
+  "S4060": {
+    "route_long_name": "Terminal Seksyen 19 ~ Kota Kemuning",
+    "route_short_name": "SA06",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S4060_S406002_2": "",
+      "weekday_S4060_S406002_1": "",
+      "weekday_S4060_S406002_0": "",
+      "weekend_S4060_S406002_2": "",
+      "weekend_S4060_S406002_1": "",
+      "weekend_S4060_S406002_0": ""
+    }
+  },
+  "S1170": {
+    "route_long_name": "Hentian Kajang ~ Bandar Baru Bangi",
+    "route_short_name": "KJ04",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S1170_S117002_4": "",
+      "weekday_S1170_S117002_3": "",
+      "weekday_S1170_S117002_2": "",
+      "weekday_S1170_S117002_1": "",
+      "weekday_S1170_S117002_0": "",
+      "weekend_S1170_S117002_4": "",
+      "weekend_S1170_S117002_3": "",
+      "weekend_S1170_S117002_2": "",
+      "weekend_S1170_S117002_1": "",
+      "weekend_S1170_S117002_0": ""
+    }
+  },
+  "S4070": {
+    "route_long_name": "Stesen KTM Batu 3 ~ Seksyen 20 via HICOM",
+    "route_short_name": "SA07",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S4070_S407002_3": "",
+      "weekend_S4070_S407002_2": "",
+      "weekend_S4070_S407002_1": "",
+      "weekend_S4070_S407002_0": "",
+      "weekday_S4070_S407002_3": "",
+      "weekday_S4070_S407002_2": "",
+      "weekday_S4070_S407002_1": "",
+      "weekday_S4070_S407002_0": ""
+    }
+  },
+  "S4080": {
+    "route_long_name": "Stesen LRT Alam Megah ~ Kota Kemuning",
+    "route_short_name": "SA08",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S4080_S408002_12": "",
+      "weekday_S4080_S408002_11": "",
+      "weekday_S4080_S408002_10": "",
+      "weekday_S4080_S408002_9": "",
+      "weekday_S4080_S408002_8": "",
+      "weekday_S4080_S408002_7": "",
+      "weekday_S4080_S408002_6": "",
+      "weekday_S4080_S408002_5": "",
+      "weekday_S4080_S408002_4": "",
+      "weekday_S4080_S408002_3": "",
+      "weekday_S4080_S408002_2": "",
+      "weekday_S4080_S408002_1": "",
+      "weekday_S4080_S408002_0": "",
+      "weekend_S4080_S408002_6": "",
+      "weekend_S4080_S408002_5": "",
+      "weekend_S4080_S408002_4": "",
+      "weekend_S4080_S408002_3": "",
+      "weekend_S4080_S408002_2": "",
+      "weekend_S4080_S408002_1": "",
+      "weekend_S4080_S408002_0": ""
+    }
+  },
+  "S6020": {
+    "route_long_name": "Pasar Seni ~ Batu Caves (Thaipusam)",
+    "route_short_name": "BC2",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S6020_S602002_0": ""
+    }
+  },
+  "S6050": {
+    "route_long_name": "LRT Gombak ~ Batu Caves (Thaipusam)",
+    "route_short_name": "BC3",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S6050_S605002_0": ""
+    }
+  },
+  "S0040": {
+    "route_long_name": "Ukay Perdana ~ Taman Melawati via Sg. Sering",
+    "route_short_name": "AJ01",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S0040_S004002_8": "",
+      "weekend_S0040_S004001_7": "UKAY PERDANA",
+      "weekend_S0040_S004002_7": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_6": "UKAY PERDANA",
+      "weekend_S0040_S004002_6": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_5": "UKAY PERDANA",
+      "weekend_S0040_S004002_5": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_4": "UKAY PERDANA",
+      "weekend_S0040_S004002_4": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_3": "UKAY PERDANA",
+      "weekend_S0040_S004002_3": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_2": "UKAY PERDANA",
+      "weekend_S0040_S004002_2": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_1": "UKAY PERDANA",
+      "weekend_S0040_S004002_1": "TAMAN MELAWATI VIA SG. SERING",
+      "weekend_S0040_S004001_0": "UKAY PERDANA",
+      "weekend_S0040_S004002_0": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004002_8": "",
+      "weekday_S0040_S004001_7": "UKAY PERDANA",
+      "weekday_S0040_S004002_7": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_6": "UKAY PERDANA",
+      "weekday_S0040_S004002_6": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_5": "UKAY PERDANA",
+      "weekday_S0040_S004002_5": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_4": "UKAY PERDANA",
+      "weekday_S0040_S004002_4": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_3": "UKAY PERDANA",
+      "weekday_S0040_S004002_3": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_2": "UKAY PERDANA",
+      "weekday_S0040_S004002_2": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_1": "UKAY PERDANA",
+      "weekday_S0040_S004002_1": "TAMAN MELAWATI VIA SG. SERING",
+      "weekday_S0040_S004001_0": "UKAY PERDANA",
+      "weekday_S0040_S004002_0": "TAMAN MELAWATI VIA SG. SERING"
+    }
+  },
+  "S3020": {
+    "route_long_name": "Taman Sri Andalas ~ Bandar Klang",
+    "route_short_name": "KLG3A",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S3020_S302002_10": "",
+      "weekend_S3020_S302002_9": "",
+      "weekend_S3020_S302002_8": "",
+      "weekend_S3020_S302002_7": "",
+      "weekend_S3020_S302002_6": "",
+      "weekend_S3020_S302002_5": "",
+      "weekend_S3020_S302002_4": "",
+      "weekend_S3020_S302002_3": "",
+      "weekend_S3020_S302002_2": "",
+      "weekend_S3020_S302002_1": "",
+      "weekend_S3020_S302002_0": "",
+      "weekday_S3020_S302002_10": "",
+      "weekday_S3020_S302002_9": "",
+      "weekday_S3020_S302002_8": "",
+      "weekday_S3020_S302002_7": "",
+      "weekday_S3020_S302002_6": "",
+      "weekday_S3020_S302002_5": "",
+      "weekday_S3020_S302002_4": "",
+      "weekday_S3020_S302002_3": "",
+      "weekday_S3020_S302002_2": "",
+      "weekday_S3020_S302002_1": "",
+      "weekday_S3020_S302002_0": ""
+    }
+  },
+  "S3030": {
+    "route_long_name": "Bandar Putera ~ Bandar Klang via Jalan Raja Nong",
+    "route_short_name": "KLG3B",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S3030_S303002_1": "",
+      "weekend_S3030_S303002_0": "",
+      "weekday_S3030_S303002_1": "",
+      "weekday_S3030_S303002_0": ""
+    }
+  },
+  "S1190": {
+    "route_long_name": "Lotus Rawang ~ Rawang Perdana",
+    "route_short_name": "MPS2A",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S1190_S119002_16": "",
+      "weekday_S1190_S119002_15": "",
+      "weekday_S1190_S119002_14": "",
+      "weekday_S1190_S119002_13": "",
+      "weekday_S1190_S119002_12": "",
+      "weekday_S1190_S119002_11": "",
+      "weekday_S1190_S119002_10": "",
+      "weekday_S1190_S119002_9": "",
+      "weekday_S1190_S119002_8": "",
+      "weekday_S1190_S119002_7": "",
+      "weekday_S1190_S119002_6": "",
+      "weekday_S1190_S119002_5": "",
+      "weekday_S1190_S119002_4": "",
+      "weekday_S1190_S119002_3": "",
+      "weekday_S1190_S119002_2": "",
+      "weekday_S1190_S119002_1": "",
+      "weekday_S1190_S119002_0": "",
+      "weekend_S1190_S119002_14": "",
+      "weekend_S1190_S119002_13": "",
+      "weekend_S1190_S119002_12": "",
+      "weekend_S1190_S119002_11": "",
+      "weekend_S1190_S119002_10": "",
+      "weekend_S1190_S119002_9": "",
+      "weekend_S1190_S119002_8": "",
+      "weekend_S1190_S119002_7": "",
+      "weekend_S1190_S119002_6": "",
+      "weekend_S1190_S119002_5": "",
+      "weekend_S1190_S119002_4": "",
+      "weekend_S1190_S119002_3": "",
+      "weekend_S1190_S119002_2": "",
+      "weekend_S1190_S119002_1": "",
+      "weekend_S1190_S119002_0": ""
+    }
+  },
+  "S6060": {
+    "route_long_name": "Stesen LRT Awan Besar ~ Pavilion Bukit Jalil",
+    "route_short_name": "PAVILION BUKIT JALIL (PAVBJ)",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S6060_S606002_6": "",
+      "weekday_S6060_S606002_5": "",
+      "weekday_S6060_S606002_4": "",
+      "weekday_S6060_S606002_3": "",
+      "weekday_S6060_S606002_2": "",
+      "weekday_S6060_S606002_1": "",
+      "weekday_S6060_S606002_0": "",
+      "weekend_S6060_S606002_6": "",
+      "weekend_S6060_S606002_5": "",
+      "weekend_S6060_S606002_4": "",
+      "weekend_S6060_S606002_3": "",
+      "weekend_S6060_S606002_2": "",
+      "weekend_S6060_S606002_1": "",
+      "weekend_S6060_S606002_0": ""
+    }
+  },
+  "S1390": {
+    "route_long_name": "Batu Arang ~ Stesen MRT Sungai Buloh",
+    "route_short_name": "MPS3",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S1390_S139002_6": "",
+      "weekend_S1390_S139002_5": "",
+      "weekend_S1390_S139001_4": "BATU ARANG",
+      "weekend_S1390_S139002_4": "MRT SG. BULOH",
+      "weekend_S1390_S139001_3": "BATU ARANG",
+      "weekend_S1390_S139002_3": "MRT SG. BULOH",
+      "weekend_S1390_S139001_2": "BATU ARANG",
+      "weekend_S1390_S139002_2": "MRT SG. BULOH",
+      "weekend_S1390_S139001_1": "BATU ARANG",
+      "weekend_S1390_S139002_1": "MRT SG. BULOH",
+      "weekend_S1390_S139001_0": "BATU ARANG",
+      "weekend_S1390_S139002_0": "MRT SG. BULOH",
+      "weekday_S1390_S139002_8": "",
+      "weekday_S1390_S139002_7": "",
+      "weekday_S1390_S139001_6": "BATU ARANG",
+      "weekday_S1390_S139002_6": "STESEN MRT SG. BULOH",
+      "weekday_S1390_S139001_5": "BATU ARANG",
+      "weekday_S1390_S139002_5": "MRT SG. BULOH",
+      "weekday_S1390_S139001_4": "BATU ARANG",
+      "weekday_S1390_S139002_4": "MRT SG. BULOH",
+      "weekday_S1390_S139001_3": "BATU ARANG",
+      "weekday_S1390_S139002_3": "MRT SG. BULOH",
+      "weekday_S1390_S139001_2": "BATU ARANG",
+      "weekday_S1390_S139002_2": "MRT SG. BULOH",
+      "weekday_S1390_S139001_1": "BATU ARANG",
+      "weekday_S1390_S139002_1": "MRT SG. BULOH",
+      "weekday_S1390_S139001_0": "BATU ARANG",
+      "weekday_S1390_S139002_0": "MRT SG. BULOH"
+    }
+  },
+  "S1490": {
+    "route_long_name": "Wangsa Permai ~ Bandar Baru Selayang",
+    "route_short_name": "MPS4",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S1490_S149002_11": "",
+      "weekend_S1490_S149002_10": "",
+      "weekend_S1490_S149002_9": "",
+      "weekend_S1490_S149002_8": "",
+      "weekend_S1490_S149002_7": "",
+      "weekend_S1490_S149002_6": "",
+      "weekend_S1490_S149002_5": "",
+      "weekend_S1490_S149002_4": "",
+      "weekend_S1490_S149002_3": "",
+      "weekend_S1490_S149002_2": "",
+      "weekend_S1490_S149002_1": "",
+      "weekend_S1490_S149002_0": "",
+      "weekday_S1490_S149002_11": "",
+      "weekday_S1490_S149002_10": "",
+      "weekday_S1490_S149002_9": "",
+      "weekday_S1490_S149002_8": "",
+      "weekday_S1490_S149002_7": "",
+      "weekday_S1490_S149002_6": "",
+      "weekday_S1490_S149002_5": "",
+      "weekday_S1490_S149002_4": "",
+      "weekday_S1490_S149002_3": "",
+      "weekday_S1490_S149002_2": "",
+      "weekday_S1490_S149002_1": "",
+      "weekday_S1490_S149002_0": ""
+    }
+  },
+  "R0200": {
+    "route_long_name": "Stesen LRT Ampang ~ KLCC via AKLEH",
+    "route_short_name": "DS01(AM)",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_R0200_R020002_2": "",
+      "weekday_R0200_R020002_1": "",
+      "weekday_R0200_R020002_0": ""
+    }
+  },
+  "R0210": {
+    "route_long_name": "KLCC via AKLEH ~ Stesen LRT Ampang",
+    "route_short_name": "DS01(PM)",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_R0210_R021002_0": ""
+    }
+  },
+  "S3040": {
+    "route_long_name": "Bandar Putera ~ Bandar Klang via Jalan Kebun",
+    "route_short_name": "KLG3C",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S3040_S304002_1": "",
+      "weekday_S3040_S304002_0": "",
+      "weekend_S3040_S304002_1": "",
+      "weekend_S3040_S304002_0": ""
+    }
+  },
+  "P1010": {
+    "route_long_name": "Kompleks F ~ Presint 5",
+    "route_short_name": "P101",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P1010_P101002_0": "",
+      "weekday_P1010_P101002_3": "",
+      "weekday_P1010_P101002_2": "",
+      "weekday_P1010_P101002_1": "",
+      "weekday_P1010_P101002_0": ""
+    }
+  },
+  "P1020": {
+    "route_long_name": "Presint 11 ~ Kompleks E",
+    "route_short_name": "P102",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P1020_P102002_0": "",
+      "weekday_P1020_P102002_5": "",
+      "weekday_P1020_P102002_4": "",
+      "weekday_P1020_P102002_3": "",
+      "weekday_P1020_P102002_2": "",
+      "weekday_P1020_P102002_1": "",
+      "weekday_P1020_P102002_0": ""
+    }
+  },
+  "P1030": {
+    "route_long_name": "Presint 14 via Alamanda ~ Kompleks E",
+    "route_short_name": "P103",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_P1030_P103002_3": "",
+      "weekday_P1030_P103002_2": "",
+      "weekday_P1030_P103002_1": "",
+      "weekday_P1030_P103002_0": "",
+      "weekend_P1030_P103002_0": ""
+    }
+  },
+  "P1040": {
+    "route_long_name": "Dataran Gemilang ~ PICC via Presint 5",
+    "route_short_name": "P104",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_P1040_P104002_4": "",
+      "weekday_P1040_P104002_3": "",
+      "weekday_P1040_P104002_2": "",
+      "weekday_P1040_P104002_1": "",
+      "weekday_P1040_P104002_0": ""
+    }
+  },
+  "P1050": {
+    "route_long_name": "Dataran Gemilang ~ Kompleks ABCDE",
+    "route_short_name": "P105",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_P1050_P105002_5": "",
+      "weekday_P1050_P105002_4": "",
+      "weekday_P1050_P105002_3": "",
+      "weekday_P1050_P105002_2": "",
+      "weekday_P1050_P105002_1": "",
+      "weekday_P1050_P105002_0": ""
+    }
+  },
+  "P1060": {
+    "route_long_name": "Presint 4 ~ Kompleks E",
+    "route_short_name": "P106",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P1060_P106002_0": "",
+      "weekday_P1060_P106002_6": "",
+      "weekday_P1060_P106002_5": "",
+      "weekday_P1060_P106002_4": "",
+      "weekday_P1060_P106002_3": "",
+      "weekday_P1060_P106002_2": "",
+      "weekday_P1060_P106002_1": "",
+      "weekday_P1060_P106002_0": ""
+    }
+  },
+  "P1080": {
+    "route_long_name": "Terminal Putrajaya Sentral ~ Kompleks ABCDE",
+    "route_short_name": "P108",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_P1080_P108002_0": "",
+      "weekday_P1080_P108002_4": "",
+      "weekday_P1080_P108002_3": "",
+      "weekday_P1080_P108002_2": "",
+      "weekday_P1080_P108002_1": "",
+      "weekday_P1080_P108002_0": ""
+    }
+  },
+  "U1510": {
+    "route_long_name": "Bandar Baru Selayang ~ Hab Lebuh Pudu",
+    "route_short_name": "151",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U1510_U151001_6": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_6": "HAB LEBUH PUDU",
+      "weekday_U1510_U151001_5": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_5": "HAB LEBUH PUDU",
+      "weekday_U1510_U151001_4": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_4": "HAB LEBUH PUDU",
+      "weekday_U1510_U151001_3": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_3": "HAB LEBUH PUDU",
+      "weekday_U1510_U151001_2": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_2": "HAB LEBUH PUDU",
+      "weekday_U1510_U151001_1": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_1": "HAB LEBUH PUDU",
+      "weekday_U1510_U151001_0": "BANDAR BARU SELAYANG",
+      "weekday_U1510_U151002_0": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_8": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_8": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_7": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_7": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_6": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_6": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_5": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_5": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_4": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_4": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_3": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_3": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_2": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_2": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_1": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_1": "HAB LEBUH PUDU",
+      "weekend_U1510_U151001_0": "BANDAR BARU SELAYANG",
+      "weekend_U1510_U151002_0": "HAB LEBUH PUDU"
+    }
+  },
+  "T8510": {
+    "route_long_name": "KL Sentral ~ Parlimen",
+    "route_short_name": "T851",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T8510_T851002_5": "",
+      "weekday_T8510_T851002_4": "",
+      "weekday_T8510_T851002_3": "",
+      "weekday_T8510_T851002_2": "",
+      "weekday_T8510_T851002_1": "",
+      "weekday_T8510_T851002_0": ""
+    }
+  },
+  "U4510": {
+    "route_long_name": "Stesen MRT Kajang ~ Stesen MRT Putrajaya Sentral",
+    "route_short_name": "451",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U4510_U451001_0": "MRT KAJANG",
+      "weekday_U4510_U451002_0": "MRT PUTRAJAYA SENTRAL"
+    }
+  },
+  "S6090": {
+    "route_long_name": "MRT Kg Batu ~ Batu Caves (Thaipusam)",
+    "route_short_name": "BC4",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S6090_S609002_0": ""
+    }
+  },
+  "T3008": {
+    "route_long_name": "Bukit Indah ~ Ampang Point via Jalan Rasmi",
+    "route_short_name": "T300",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T3008_T300802_3": "",
+      "weekday_T3008_T300802_2": "",
+      "weekday_T3008_T300802_1": "",
+      "weekday_T3008_T300802_0": "",
+      "weekend_T3008_T300802_3": "",
+      "weekend_T3008_T300802_2": "",
+      "weekend_T3008_T300802_1": "",
+      "weekend_T3008_T300802_0": ""
+    }
+  },
+  "U4028": {
+    "route_long_name": "Terminal Maluri ~ Titiwangsa",
+    "route_short_name": "402",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U4028_U402802_1": "",
+      "weekend_U4028_U402802_0": "",
+      "weekday_U4028_U402802_1": "",
+      "weekday_U4028_U402802_0": ""
+    }
+  },
+  "T3018": {
+    "route_long_name": "Taman Mulia Jaya ~ Ampang Point via Jalan Merdeka",
+    "route_short_name": "T301",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T3018_T301801_7": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_7": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_6": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_6": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_5": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_5": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_4": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_4": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_3": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_3": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_2": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_2": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_1": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_1": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekend_T3018_T301801_0": "TAMAN MULIA JAYA",
+      "weekend_T3018_T301802_0": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_7": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_7": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_6": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_6": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_5": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_5": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_4": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_4": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_3": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_3": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_2": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_2": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_1": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_1": "AMPANG POINT VIA JALAN MERDEKA",
+      "weekday_T3018_T301801_0": "TAMAN MULIA JAYA",
+      "weekday_T3018_T301802_0": "AMPANG POINT VIA JALAN MERDEKA"
+    }
+  },
+  "T3028": {
+    "route_long_name": "Hutan Lipur Ampang ~ Ampang Point",
+    "route_short_name": "T302",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T3028_T302801_6": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_6": "AMPANG POINT",
+      "weekday_T3028_T302801_5": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_5": "AMPANG POINT",
+      "weekday_T3028_T302801_4": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_4": "AMPANG POINT",
+      "weekday_T3028_T302801_3": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_3": "AMPANG POINT",
+      "weekday_T3028_T302801_2": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_2": "AMPANG POINT",
+      "weekday_T3028_T302801_1": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_1": "AMPANG POINT",
+      "weekday_T3028_T302801_0": "HUTAN LIPUR AMPANG",
+      "weekday_T3028_T302802_0": "AMPANG POINT",
+      "weekend_T3028_T302801_6": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_6": "AMPANG POINT",
+      "weekend_T3028_T302801_5": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_5": "AMPANG POINT",
+      "weekend_T3028_T302801_4": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_4": "AMPANG POINT",
+      "weekend_T3028_T302801_3": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_3": "AMPANG POINT",
+      "weekend_T3028_T302801_2": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_2": "AMPANG POINT",
+      "weekend_T3028_T302801_1": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_1": "AMPANG POINT",
+      "weekend_T3028_T302801_0": "HUTAN LIPUR AMPANG",
+      "weekend_T3028_T302802_0": "AMPANG POINT"
+    }
+  },
+  "T3048": {
+    "route_long_name": "Bukit Indah ~ Ampang Point via Jalan Ampang",
+    "route_short_name": "T304",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T3048_T304802_3": "",
+      "weekend_T3048_T304802_2": "",
+      "weekend_T3048_T304802_1": "",
+      "weekend_T3048_T304802_0": "",
+      "weekday_T3048_T304802_6": "",
+      "weekday_T3048_T304802_5": "",
+      "weekday_T3048_T304802_4": "",
+      "weekday_T3048_T304802_3": "",
+      "weekday_T3048_T304802_2": "",
+      "weekday_T3048_T304802_1": "",
+      "weekday_T3048_T304802_0": ""
+    }
+  },
+  "U7548": {
+    "route_long_name": "Sekysen 13 Shah Alam ~ UITM Puncak Perdana",
+    "route_short_name": "754",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7548_U754802_1": "",
+      "weekend_U7548_U754802_0": "",
+      "weekday_U7548_U754802_1": "",
+      "weekday_U7548_U754802_0": ""
+    }
+  },
+  "U7538": {
+    "route_long_name": "Hentian Bandar Shah Alam ~ UiTM Puncak Alam",
+    "route_short_name": "753",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7538_U753801_5": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7538_U753802_5": "UITM PUNCAK ALAM",
+      "weekend_U7538_U753801_4": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7538_U753802_4": "UITM PUNCAK ALAM",
+      "weekend_U7538_U753801_3": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7538_U753802_3": "UITM PUNCAK ALAM",
+      "weekend_U7538_U753801_2": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7538_U753802_2": "UITM PUNCAK ALAM",
+      "weekend_U7538_U753801_1": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7538_U753802_1": "UITM PUNCAK ALAM",
+      "weekend_U7538_U753801_0": "HENTIAN BANDAR SHAH ALAM",
+      "weekend_U7538_U753802_0": "UITM PUNCAK ALAM",
+      "weekday_U7538_U753801_5": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7538_U753802_5": "UITM PUNCAK ALAM",
+      "weekday_U7538_U753801_4": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7538_U753802_4": "UITM PUNCAK ALAM",
+      "weekday_U7538_U753801_3": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7538_U753802_3": "UITM PUNCAK ALAM",
+      "weekday_U7538_U753801_2": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7538_U753802_2": "UITM PUNCAK ALAM",
+      "weekday_U7538_U753801_1": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7538_U753802_1": "UITM PUNCAK ALAM",
+      "weekday_U7538_U753801_0": "HENTIAN BANDAR SHAH ALAM",
+      "weekday_U7538_U753802_0": "UITM PUNCAK ALAM"
+    }
+  },
+  "S4100": {
+    "route_long_name": "Bukit Subang~Kg Melayu Subang ~Pekan Subang~Bukit Jelutung",
+    "route_short_name": "SA10",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_S4100_S410002_4": "",
+      "weekend_S4100_S410002_3": "",
+      "weekend_S4100_S410002_2": "",
+      "weekend_S4100_S410002_1": "",
+      "weekend_S4100_S410002_0": "",
+      "weekday_S4100_S410002_4": "",
+      "weekday_S4100_S410002_3": "",
+      "weekday_S4100_S410002_2": "",
+      "weekday_S4100_S410002_1": "",
+      "weekday_S4100_S410002_0": ""
+    }
+  },
+  "U7828": {
+    "route_long_name": "Hentian PJ Old Town ~ Hab Pasar Seni",
+    "route_short_name": "782",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U7828_U782801_2": "HENTIAN PJ OLD TOWN",
+      "weekday_U7828_U782802_2": "HAB PASAR SENI",
+      "weekday_U7828_U782801_1": "HENTIAN PJ OLD TOWN",
+      "weekday_U7828_U782802_1": "HAB PASAR SENI",
+      "weekday_U7828_U782801_0": "HENTIAN PJ OLD TOWN",
+      "weekday_U7828_U782802_0": "HAB PASAR SENI",
+      "weekend_U7828_U782801_2": "HENTIAN PJ OLD TOWN",
+      "weekend_U7828_U782802_2": "HAB PASAR SENI",
+      "weekend_U7828_U782801_1": "HENTIAN PJ OLD TOWN",
+      "weekend_U7828_U782802_1": "HAB PASAR SENI",
+      "weekend_U7828_U782801_0": "HENTIAN PJ OLD TOWN",
+      "weekend_U7828_U782802_0": "HAB PASAR SENI"
+    }
+  },
+  "T7548": {
+    "route_long_name": "Hentian Bandar Shah Alam ~ Terminal Seksyen 17",
+    "route_short_name": "T754",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7548_T754802_2": "",
+      "weekend_T7548_T754802_1": "",
+      "weekend_T7548_T754802_0": "",
+      "weekday_T7548_T754802_2": "",
+      "weekday_T7548_T754802_1": "",
+      "weekday_T7548_T754802_0": ""
+    }
+  },
+  "U7088": {
+    "route_long_name": "Klang ~ Sunway Pyramid via Hentian Bandar",
+    "route_short_name": "708",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7088_U708801_5": "",
+      "weekend_U7088_U708801_4": "KLANG",
+      "weekend_U7088_U708802_4": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekend_U7088_U708801_3": "KLANG",
+      "weekend_U7088_U708802_3": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekend_U7088_U708801_2": "KLANG",
+      "weekend_U7088_U708802_2": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekend_U7088_U708801_1": "KLANG",
+      "weekend_U7088_U708802_1": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekend_U7088_U708801_0": "KLANG",
+      "weekend_U7088_U708802_0": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekday_U7088_U708801_5": "",
+      "weekday_U7088_U708801_4": "KLANG",
+      "weekday_U7088_U708802_4": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekday_U7088_U708801_3": "KLANG",
+      "weekday_U7088_U708802_3": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekday_U7088_U708801_2": "KLANG",
+      "weekday_U7088_U708802_2": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekday_U7088_U708801_1": "KLANG",
+      "weekday_U7088_U708802_1": "SUNWAY PYRAMID VIA HENTIAN BANDAR",
+      "weekday_U7088_U708801_0": "KLANG",
+      "weekday_U7088_U708802_0": "SUNWAY PYRAMID VIA HENTIAN BANDAR"
+    }
+  },
+  "T7568": {
+    "route_long_name": "Kemuning Business Park ~ Hentian Bandar via Taman Muda",
+    "route_short_name": "T756",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7568_T756801_4": "",
+      "weekend_T7568_T756802_3": "",
+      "weekend_T7568_T756801_2": "KEMUNING BUSINESS PARK",
+      "weekend_T7568_T756802_2": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekend_T7568_T756801_1": "KEMUNING BUSINESS PARK",
+      "weekend_T7568_T756802_1": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekend_T7568_T756801_0": "KEMUNING BUSINESS PARK",
+      "weekend_T7568_T756802_0": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekday_T7568_T756801_7": "",
+      "weekday_T7568_T756802_6": "",
+      "weekday_T7568_T756801_5": "KEMUNING BUSINESS PARK",
+      "weekday_T7568_T756802_5": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekday_T7568_T756801_4": "KEMUNING BUSINESS PARK",
+      "weekday_T7568_T756802_4": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekday_T7568_T756801_3": "KEMUNING BUSINESS PARK",
+      "weekday_T7568_T756802_3": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekday_T7568_T756801_2": "KEMUNING BUSINESS PARK",
+      "weekday_T7568_T756802_2": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekday_T7568_T756801_1": "KEMUNING BUSINESS PARK",
+      "weekday_T7568_T756802_1": "HENTIAN BANDAR VIA TAMAN SRI MUDA",
+      "weekday_T7568_T756801_0": "KEMUNING BUSINESS PARK",
+      "weekday_T7568_T756802_0": "HENTIAN BANDAR VIA TAMAN SRI MUDA"
+    }
+  },
+  "U7718": {
+    "route_long_name": "Subang Mewah USJ 1 ~ Desa Mentari via Persiaran Tujuan",
+    "route_short_name": "771",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7718_U771802_3": "",
+      "weekend_U7718_U771802_2": "",
+      "weekend_U7718_U771802_1": "",
+      "weekend_U7718_U771802_0": "",
+      "weekday_U7718_U771802_3": "",
+      "weekday_U7718_U771802_2": "",
+      "weekday_U7718_U771802_1": "",
+      "weekday_U7718_U771802_0": ""
+    }
+  },
+  "T7538": {
+    "route_long_name": "Hentian Bandar Shah Alam ~ Sekysen 11, 9, 8, 6, 5",
+    "route_short_name": "T753",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T7538_T753802_3": "",
+      "weekend_T7538_T753802_2": "",
+      "weekend_T7538_T753802_1": "",
+      "weekend_T7538_T753802_0": "",
+      "weekday_T7538_T753802_3": "",
+      "weekday_T7538_T753802_2": "",
+      "weekday_T7538_T753802_1": "",
+      "weekday_T7538_T753802_0": ""
+    }
+  },
+  "T7158": {
+    "route_long_name": "UiTM Puncak Alam ~ Bandar Puncak Alam",
+    "route_short_name": "T715",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T7158_T715801_1": "UITM PUNCAK ALAM",
+      "weekday_T7158_T715802_1": "BANDAR PUNCAK ALAM",
+      "weekday_T7158_T715801_0": "UITM PUNCAK ALAM",
+      "weekday_T7158_T715802_0": "BANDAR PUNCAK ALAM",
+      "weekend_T7158_T715801_1": "UITM PUNCAK ALAM",
+      "weekend_T7158_T715802_1": "BANDAR PUNCAK ALAM",
+      "weekend_T7158_T715801_0": "UITM PUNCAK ALAM",
+      "weekend_T7158_T715802_0": "BANDAR PUNCAK ALAM"
+    }
+  },
+  "U7508": {
+    "route_long_name": "Hab Sekysen 2 ~ Hab Pasar Seni",
+    "route_short_name": "750",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U7508_U750801_8": "",
+      "weekend_U7508_U750801_7": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_7": "HAB PASAR SENI",
+      "weekend_U7508_U750801_6": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_6": "HAB PASAR SENI",
+      "weekend_U7508_U750801_5": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_5": "HAB PASAR SENI",
+      "weekend_U7508_U750801_4": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_4": "HAB PASAR SENI",
+      "weekend_U7508_U750801_3": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_3": "HAB PASAR SENI",
+      "weekend_U7508_U750801_2": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_2": "HAB PASAR SENI",
+      "weekend_U7508_U750801_1": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_1": "HAB PASAR SENI",
+      "weekend_U7508_U750801_0": "HAB SEKSYEN 2",
+      "weekend_U7508_U750802_0": "HAB PASAR SENI",
+      "weekday_U7508_U750801_8": "",
+      "weekday_U7508_U750801_7": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_7": "HAB PASAR SENI",
+      "weekday_U7508_U750801_6": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_6": "HAB PASAR SENI",
+      "weekday_U7508_U750801_5": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_5": "HAB PASAR SENI",
+      "weekday_U7508_U750801_4": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_4": "HAB PASAR SENI",
+      "weekday_U7508_U750801_3": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_3": "HAB PASAR SENI",
+      "weekday_U7508_U750801_2": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_2": "HAB PASAR SENI",
+      "weekday_U7508_U750801_1": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_1": "HAB PASAR SENI",
+      "weekday_U7508_U750801_0": "HAB SEKSYEN 2",
+      "weekday_U7508_U750802_0": "HAB PASAR SENI"
+    }
+  },
+  "T4068": {
+    "route_long_name": "Cheras Batu 10 ~ Pangsun",
+    "route_short_name": "T406",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T4068_T406802_8": "",
+      "weekend_T4068_T406802_7": "",
+      "weekend_T4068_T406802_6": "",
+      "weekend_T4068_T406802_5": "",
+      "weekend_T4068_T406802_4": "",
+      "weekend_T4068_T406802_3": "",
+      "weekend_T4068_T406802_2": "",
+      "weekend_T4068_T406802_1": "",
+      "weekend_T4068_T406802_0": "",
+      "weekday_T4068_T406802_3": "",
+      "weekday_T4068_T406802_2": "",
+      "weekday_T4068_T406802_1": "",
+      "weekday_T4068_T406802_0": ""
+    }
+  },
+  "U5068": {
+    "route_long_name": "Putrajaya Sentral ~ Bandar Utama",
+    "route_short_name": "506",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U5068_U506801_6": "",
+      "weekday_U5068_U506801_5": "PUTRAJAYA SENTRAL",
+      "weekday_U5068_U506802_5": "BANDAR UTAMA",
+      "weekday_U5068_U506801_4": "PUTRAJAYA SENTRAL",
+      "weekday_U5068_U506802_4": "BANDAR UTAMA",
+      "weekday_U5068_U506801_3": "PUTRAJAYA SENTRAL",
+      "weekday_U5068_U506802_3": "BANDAR UTAMA",
+      "weekday_U5068_U506801_2": "PUTRAJAYA SENTRAL",
+      "weekday_U5068_U506802_2": "BANDAR UTAMA",
+      "weekday_U5068_U506801_1": "PUTRAJAYA SENTRAL",
+      "weekday_U5068_U506802_1": "BANDAR UTAMA",
+      "weekday_U5068_U506801_0": "PUTRAJAYA SENTRAL",
+      "weekday_U5068_U506802_0": "BANDAR UTAMA",
+      "weekend_U5068_U506801_6": "",
+      "weekend_U5068_U506801_5": "PUTRAJAYA SENTRAL",
+      "weekend_U5068_U506802_5": "BANDAR UTAMA",
+      "weekend_U5068_U506802_4": "",
+      "weekend_U5068_U506801_3": "PUTRAJAYA SENTRAL",
+      "weekend_U5068_U506802_3": "BANDAR UTAMA",
+      "weekend_U5068_U506801_2": "PUTRAJAYA SENTRAL",
+      "weekend_U5068_U506802_2": "BANDAR UTAMA",
+      "weekend_U5068_U506801_1": "PUTRAJAYA SENTRAL",
+      "weekend_U5068_U506802_1": "BANDAR UTAMA",
+      "weekend_U5068_U506801_0": "PUTRAJAYA SENTRAL",
+      "weekend_U5068_U506802_0": "BANDAR UTAMA"
+    }
+  },
+  "U5408": {
+    "route_long_name": "Putra Permai ~ Stesen KTM Serdang",
+    "route_short_name": "540",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U5408_U540802_2": "",
+      "weekend_U5408_U540802_1": "",
+      "weekend_U5408_U540802_0": "",
+      "weekday_U5408_U540802_5": "",
+      "weekday_U5408_U540802_4": "",
+      "weekday_U5408_U540802_3": "",
+      "weekday_U5408_U540802_2": "",
+      "weekday_U5408_U540802_1": "",
+      "weekday_U5408_U540802_0": ""
+    }
+  },
+  "T5718": {
+    "route_long_name": "Stesen KTM Serdang ~ Taman Sri Pulai",
+    "route_short_name": "T571",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T5718_T571802_4": "",
+      "weekday_T5718_T571802_3": "",
+      "weekday_T5718_T571802_2": "",
+      "weekday_T5718_T571802_1": "",
+      "weekday_T5718_T571802_0": "",
+      "weekend_T5718_T571802_3": "",
+      "weekend_T5718_T571802_2": "",
+      "weekend_T5718_T571802_1": "",
+      "weekend_T5718_T571802_0": ""
+    }
+  },
+  "U6418": {
+    "route_long_name": "Stesen LRT Subang Jaya ~ Pearl Point",
+    "route_short_name": "641",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U6418_U641802_1": "",
+      "weekend_U6418_U641802_0": "",
+      "weekday_U6418_U641802_1": "",
+      "weekday_U6418_U641802_0": ""
+    }
+  },
+  "T6028": {
+    "route_long_name": "Puchong Utama ~ Taman Saujana Puchong",
+    "route_short_name": "T602",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_T6028_T602802_3": "",
+      "weekend_T6028_T602802_2": "",
+      "weekend_T6028_T602802_1": "",
+      "weekend_T6028_T602802_0": "",
+      "weekday_T6028_T602802_3": "",
+      "weekday_T6028_T602802_2": "",
+      "weekday_T6028_T602802_1": "",
+      "weekday_T6028_T602802_0": ""
+    }
+  },
+  "S0120": {
+    "route_long_name": "LRT Taman Jaya ~ Hong Leong Bank PJCT",
+    "route_short_name": "HLB2",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_S0120_S012002_2": "",
+      "weekday_S0120_S012002_1": "",
+      "weekday_S0120_S012002_0": ""
+    }
+  },
+  "U2538": {
+    "route_long_name": "Stesen LRT Wangsa Maju ~ Ampang Point",
+    "route_short_name": "253",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_U2538_U253802_4": "",
+      "weekday_U2538_U253802_3": "",
+      "weekday_U2538_U253802_2": "",
+      "weekday_U2538_U253802_1": "",
+      "weekday_U2538_U253802_0": "",
+      "weekend_U2538_U253802_2": "",
+      "weekend_U2538_U253802_1": "",
+      "weekend_U2538_U253802_0": ""
+    }
+  },
+  "U2548": {
+    "route_long_name": "Ayer Panas ~ Titiwangsa via Chowkit",
+    "route_short_name": "254",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U2548_U254802_2": "",
+      "weekend_U2548_U254802_1": "",
+      "weekend_U2548_U254802_0": "",
+      "weekday_U2548_U254802_3": "",
+      "weekday_U2548_U254802_2": "",
+      "weekday_U2548_U254802_1": "",
+      "weekday_U2548_U254802_0": ""
+    }
+  },
+  "T1208": {
+    "route_long_name": "Kompleks Sungai Mas ~ Taman Mastiara",
+    "route_short_name": "T120",
+    "provider": "RapidKL",
+    "trips": {
+      "weekday_T1208_T120802_0": "",
+      "weekend_T1208_T120802_0": ""
+    }
+  },
+  "U2018": {
+    "route_long_name": "Batu 12 Gombak – Stesen MRT Titiwangsa",
+    "route_short_name": "201",
+    "provider": "RapidKL",
+    "trips": {
+      "weekend_U2018_U201802_2": "",
+      "weekend_U2018_U201802_1": "",
+      "weekend_U2018_U201802_0": "",
+      "weekday_U2018_U201802_1": "",
+      "weekday_U2018_U201802_0": ""
     }
   }
 }
