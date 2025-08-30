@@ -26,7 +26,7 @@ function MRTFeederRoute(props) {
       onClick={() => handleClick()}
     >
       <span className="">{name}</span>
-      <span className="badge badge-xs badge-warning">MRT Feeder</span>
+      <span className="badge badge-xs badge-warning">MRT</span>
     </button>
   )
 }
