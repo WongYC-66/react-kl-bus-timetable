@@ -30,8 +30,11 @@ export default function Stop(props) {
       </h2>
 
       {/* Grid of Arrival times */}
-      <div className="grid gap-1 grid-cols-[repeat(auto-fill,minmax(75px,1fr))]
-       lg:grid-cols-[repeat(auto-fill,minmax(150px,1fr))] lg:ps-12">
+      <div
+        className="grid gap-1 grid-cols-[repeat(auto-fill,minmax(75px,1fr))]
+       lg:grid-cols-[repeat(auto-fill,minmax(150px,1fr))] lg:ps-12"
+        onClick={handleStopClick}
+      >
         {showSchedule && uniqueArrivalTimes.map(({ expired, display }) => {
 
           let toShow = showAll || !expired
