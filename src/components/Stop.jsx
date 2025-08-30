@@ -6,7 +6,7 @@ export default function Stop(props) {
   const { arrival_times, stop_code, stop_name, stop_id } = detail
 
   const [showAll, setShowAll] = useState(false)
-  const [showSchedule, setShowSchedule] = useState(false)
+  const [showSchedule, setShowSchedule] = useState(stopSeq == 1) // turn on the 1st stop to let user aware of timetable
 
   const formattedArrivalTimes = useMemo(() => formatArrivalTime(arrival_times), [stop_name])
 
