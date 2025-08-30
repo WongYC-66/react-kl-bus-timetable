@@ -20,13 +20,13 @@ export default function Stop(props) {
     setShowAll(prev => !prev)
   }
 
-  console.log({ arrival_times })
+  // console.log({ arrival_times })
 
   return (
     <div className="my-5" >
       {/* Stop name */}
       <h2 className={`${showSchedule ? 'font-bold text-xl' : 'text-lg'} `} onClick={handleStopClick}>
-        {stopSeq} - {stop_name} - {stop_code}
+        {stopSeq} - {stop_name} {stop_code && `- ${stop_code}`}
       </h2>
 
       {/* Grid of Arrival times */}

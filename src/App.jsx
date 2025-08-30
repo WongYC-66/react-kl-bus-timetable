@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { getRelevantRoutes, getRouteWithNames } from './util/util'
+import { getRelevantRoutes } from './util/util'
 import LeftResult from './components/LeftResult'
 import RightResult from './components/RightResult'
 import './style.css'
@@ -11,9 +11,7 @@ export default function App() {
 
   const routes = getRelevantRoutes(searchTerm)
 
-  const routesWithNames = getRouteWithNames(routes)
-
-  // console.log({ routes, routesWithNames })
+  // console.log({ routes })
 
   return (
     <div id='container' className='p-4 lg:p-16'>
@@ -35,11 +33,10 @@ export default function App() {
 
         <div className='result flex mt-5'>
           <LeftResult
-            routesWithNames={routesWithNames}
+            routes={routes}
             setSelectedRoute={setSelectedRoute}
           />
           <RightResult
-            routesWithNames={routesWithNames}
             selectedRoute={selectedRoute}
           />
         </div>
@@ -54,7 +51,7 @@ export default function App() {
         <p>Disclaimer: Not Live data. Only serves as reference. </p>
 
         <p className='text-blue-300'>
-          <a href='https://github.com/WongYC-66/react-kl-bus-timetable' className='text-decoration-line: underline'>soure code</a> 
+          <a href='https://github.com/WongYC-66/react-kl-bus-timetable' className='text-decoration-line: underline'>soure code</a>
           <span> </span>
           <a href='https://developer.data.gov.my/realtime-api/gtfs-static' className='text-decoration-line: underline'>data source</a>
         </p>

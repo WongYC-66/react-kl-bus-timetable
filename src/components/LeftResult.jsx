@@ -1,9 +1,11 @@
+import { getRouteWithNames } from "../util/util"
 import Route from "./Route"
 
 export default function LeftResult(props) {
-  const { routesWithNames, setSelectedRoute } = props
+  const { routes, setSelectedRoute } = props
+  const routesWithNames = getRouteWithNames(routes)
 
-   return (
+  return (
     <div className="result-left-window w-1/3">
       {routesWithNames.map(({ routeId, name }) =>
         <Route

@@ -19,7 +19,16 @@ export const getRelevantRoutes = (searchTerm) => {
 }
 
 export const getRouteNameById = (routeId) => {
-    return allRoutes?.[routeId]?.route_long_name
+    const routeInfo = allRoutes[routeId]
+    if (!routeInfo) return null
+
+    switch (routeInfo.provider) {
+        case 'MRT_Feeder':
+            return routeInfo.route_long_name
+        case 'RapidKL':
+        default:
+            return routeInfo.route_short_name
+    }
 }
 
 export const getRouteWithNames = (routes) => {
@@ -33,9 +42,15 @@ export const getRouteWithNames = (routes) => {
 
 export const getTripNamesByRouteId = (selectedRoute) => {
     const uniqueNames = new Set()
-    const trips = allRoutes[selectedRoute].trips
-    for (let tripId in trips) {
-        uniqueNames.add(trips[tripId])
+    const routeInfo = allRoutes[selectedRoute]
+
+    if (routeInfo.provider === "MRT_Feeder") {
+        const trips = routeInfo.trips
+        for (let tripId in trips) {
+            uniqueNames.add(trips[tripId])
+        }
+    } else if (routeInfo.provider === 'RapidKL') {
+        uniqueNames.add(routeInfo.route_long_name)
     }
     return [...uniqueNames]
 }
@@ -70,4 +85,8 @@ export const getStopAndTimeByRouteId = (selectedRoute) => {
     // console.log(res)
 
     return res
+}
+
+export const getRouteProvider = (routeId) => {
+    return allRoutes?.[routeId]?.provider
 }

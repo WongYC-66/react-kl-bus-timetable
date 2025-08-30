@@ -1,5 +1,5 @@
 import { useMemo } from "react"
-import { getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
+import { getRouteNameById, getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
 import Stop from "./Stop"
 
 export default function RightResult(props) {
@@ -7,6 +7,7 @@ export default function RightResult(props) {
 
   if (selectedRoute === null) return <></>
 
+  const routeNameDisplay = useMemo(() => getRouteNameById(selectedRoute), [selectedRoute])
   const tripNames = useMemo(() => getTripNamesByRouteId(selectedRoute), [selectedRoute])
   const allStops = useMemo(() => getStopAndTimeByRouteId(selectedRoute), [selectedRoute])
 
@@ -17,6 +18,11 @@ export default function RightResult(props) {
 
   return (
     <div className="result-right-window w-1/2">
+
+      {/* Selected Route Name */}
+      <h2 className="text-xl lg:text-4xl font-bold">
+        {routeNameDisplay}
+      </h2>
 
       {/* TripName */}
       {tripNames.map(name =>

@@ -5551,6 +5551,7 @@
   ],
   "U3000": [
     "Hab Pandan Indah ~ Lebuh Ampang",
+    "300",
     "AJ468 HUB PANDAN INDAH",
     "JLN PANDAN INDAH",
     "AJ179 APARTMENT MERPATI",
@@ -5656,6 +5657,7 @@
   ],
   "U3030": [
     "Taman Mulia Jaya ~ Lebuh Ampang",
+    "303",
     "AJ76 HENTIAN TAMAN MULIA JAYA",
     "PERS SAUJANA",
     "AJ77 FLAT TAMAN MULIA JAYA",
@@ -5739,6 +5741,7 @@
   ],
   "U4000": [
     "Damai Perdana ~ Hab Lebuh Pudu via Bukit Bintang",
+    "400",
     "KL423 PRIMA ALAM DAMAI",
     "JLN DESA CHERAS",
     "KJ402 PETRONAS DAMAI PERDANA (OPP)",
@@ -5842,6 +5845,7 @@
   ],
   "U4200": [
     "Hab Pandan Indah ~ Menara Maybank via Bukit Bintang",
+    "420",
     "AJ468 HUB PANDAN INDAH",
     "JLN PANDAN INDAH",
     "AJ179 APARTMENT MERPATI",
@@ -5933,6 +5937,7 @@
   ],
   "U4210": [
     "Hentian Taman Dagang ~ Menara Maybank via Bukit Bintang",
+    "421",
     "AJ191 HENTIAN TAMAN DAGANG",
     "JLN DAGANG 1",
     "AJ436 FLAT TAMAN DAGANG (TIMUR)",
@@ -6011,6 +6016,7 @@
   ],
   "U4500": [
     "Hentian Kajang ~ Hab Lebuh Pudu",
+    "450",
     "HENTIAN KAJANG",
     "(M) KL101 HUB LEBUH PUDU",
     "JLN SILANG",
@@ -6131,6 +6137,7 @@
   ],
   "U5800": [
     "Desa Petaling ~ Hab Lebuh Pudu via Stesen LRT Salak Selatan",
+    "580",
     "KL764 TERMINAL DESA PETALING",
     "JLN 3/125",
     "KL766 PANGARIA",
@@ -6208,6 +6215,7 @@
   ],
   "U5810": [
     "Desa Tasik ~ Stesen LRT Bandar Tasik Selatan",
+    "581",
     "(M) KL152 LRT BANDAR TASIK SELATAN",
     "JLN STESEN",
     "KL1785 APARTMENT DESA TUN RAZAK (OPP)",
@@ -6234,6 +6242,7 @@
   ],
   "U5900": [
     "Bandar Sungai Long ~ Hab Pasar Seni",
+    "590",
     "KJ477 UTAR",
     "BDR SG LONG",
     "KJ560 SHELL SG LONG (OPP)",
@@ -6356,6 +6365,7 @@
   ],
   "U7510": [
     "Taman Sri Muda ~ Hab Pasar Seni",
+    "751",
     "(M) PASAR SENI (PLATFORM B3 - B4)",
     "JSM",
     "KL2144 TM BRICKFIELDS",
@@ -6465,6 +6475,7 @@
   ],
   "U7520": [
     "Stesen LRT Putra Height ~ Hentian Bandar Shah Alam",
+    "752",
     "SA786 HENTIAN BANDAR SEKSYEN 14",
     "JLN 14/1",
     "SA19 MARDHIYYAH HOTEL & SUITES",
@@ -6545,6 +6556,7 @@
   ],
   "U7700": [
     "Subang Mewah USJ 1 ~ Hab Pasar Seni",
+    "770",
     "(M) KL2213 PASAR SENI (PLATFORM B5)",
     "JSM",
     "KL2144 TM BRICKFIELDS",
@@ -6650,6 +6662,7 @@
   ],
   "T3500": [
     "Stesen LRT Cempaka ~ Taman Mawar",
+    "T350",
     "AJ219 LRT CEMPAKA",
     "JLN PANDAN INDAH 6/10",
     "AJ220 APARTMENT KEDIDI",
@@ -6699,6 +6712,7 @@
   ],
   "T3510": [
     "Stesen LRT Cempaka ~ Taman Bukit Permai",
+    "T351",
     "AJ219 LRT CEMPAKA",
     "JLN PANDAN INDAH 6/10",
     "AJ226 PANGSAPURI DAHLIA",
@@ -6760,6 +6774,7 @@
   ],
   "T4500": [
     "Beranang ~ MRT Stadium Kajang",
+    "T450",
     "HENTIAN PEKAN BERANANG",
     "JLN SEMENYIH",
     "KJ600 KOMPLEKS PENGHULU MUKIM BERANANG",
@@ -6842,6 +6857,7 @@
   ],
   "S0030": [
     "Hentian Kajang ~ Bandar Kajang via Seksyen 7 Bangi",
+    "KJ01",
     "KJ461 HENTIAN KAJANG",
     "JLN REKO",
     "KJ462 PLAZA PERABOT",
@@ -6898,6 +6914,7 @@
   ],
   "T3030": [
     "Ampang Point ~ Stesen LRT Pandan Indah",
+    "T303",
     "AJ108 AMPANG POINT (OPP)",
     "JLN AMPANG",
     "AJ183 PPR HILIRAN AMPANG",
@@ -6932,6 +6949,7 @@
   ],
   "U5410": [
     "Putra Permai ~ Stesen LRT BK 5",
+    "541",
     "SJ213 HENTIAN PUTRA PERMAI",
     "JLN PUTRA PERMAI 1",
     "PANGSAPURI SRI INDAH",
@@ -6962,6 +6980,7 @@
   ],
   "T6010": [
     "Puchong Utama ~ Puchong Prima",
+    "T601",
     "PUCHONG UTAMA",
     "SJ275 PANGSAPURI MELUR",
     "PERS PUCHONG PERMAI",
@@ -7022,6 +7041,7 @@
   ],
   "T6040": [
     "Stesen LRT Perindustrian Puchong ~ Taman Kinrara",
+    "T604",
     "SJ749 LRT PERINDUSTRIAN PUCHONG",
     "JLN TPP 1/7",
     "SJ750 POS LAJU PUCHONG",
@@ -7099,6 +7119,7 @@
   ],
   "T6050": [
     "Stesen LRT Bandar Puteri ~ Bandar Puteri",
+    "T605",
     "SJ683 LRT BANDAR PUTERI",
     "JLN PUCHONG",
     "SJ479 PERINDUSTRIAN BUKIT PUCHONG",
@@ -7123,6 +7144,7 @@
   ],
   "S0060": [
     "Hentian Banting ~ Mitsui Outlet , KLIA 2",
+    "BTG1",
     "HENTIAN BANTING",
     "JLN BUNGA PEKAN 9",
     "LG115 PEJABAT PERTANIAN",
@@ -7178,6 +7200,7 @@
   ],
   "T6000": [
     "Stesen LRT IOI Puchong ~ Taman Wawasan",
+    "T600",
     "(M) SJ680 LRT IOI PUCHONG",
     "LDP",
     "SJ447 SKYPOD RESIDENCE",
@@ -7207,6 +7230,7 @@
   ],
   "T6030": [
     "Stesen LRT Puchong Prima ~ Taman Mas Sepang",
+    "T603",
     "PJ272 LRT PUCHONG PRIMA",
     "PERS PUCHONG PERMAI",
     "SJ273 SMK PUCHONG PERMAI",
@@ -7240,6 +7264,7 @@
   ],
   "T7740": [
     "Stesen LRT Glenmarie ~ MSU, Stadium Shah Alam",
+    "T774",
     "SA1069 LRT GLENMARIE",
     "PERS KERJAYA",
     "SA964 EON GLENMARIE (OPP)",
@@ -7272,6 +7297,7 @@
   ],
   "T7760": [
     "Stesen LRT USJ 7 ~ Subang Mewah",
+    "T776",
     "SJ693 LRT USJ 7",
     "PERS KEWAJIPAN",
     "SJ687 DEPOH METROBUS",
@@ -7317,6 +7343,7 @@
   ],
   "S4020": [
     "Hentian Bandar Seksyen 14 ~ Stesen KTM Batu 3",
+    "SA02",
     "SA786 HENTIAN BANDAR SEKSYEN 14",
     "JLN 14/1",
     "SA855 WISMA MBSA (OPP)",
@@ -7374,6 +7401,7 @@
   ],
   "S4030": [
     "KTM Sekyen 19 ~ Terminal 17 ~ Seksyen 24 ~ Seksyen 20",
+    "SA03",
     "SA442 HENTIAN SEKSYEN 19",
     "JLN NYIUR 18/41",
     "SA431 MASJID NAHDHAH AL-ISLAM (OPP)",
@@ -7436,6 +7464,7 @@
   ],
   "S4040": [
     "Terminal Seksyen 17 ~ Hospital Shah Alam",
+    "SA04",
     "TERMINAL SEKSYEN 17",
     "PERS JUBLI PERAK",
     "SA560 UITM SEKSYEN 17",
@@ -7507,6 +7536,7 @@
   ],
   "U6510": [
     "Stesen LRT Muhibbah ~Pearl Point",
+    "651",
     "KL1360 LRT MUHIBBAH",
     "JLN 4/155",
     "KL1355 KOMERSIAL TAMAN BUKIT OUG",
@@ -7551,6 +7581,7 @@
   ],
   "U6520": [
     "Stesen LRT Awan Besar ~Batu 3 Jalan Klang Lama",
+    "652",
     "KL2324 LRT AWAN BESAR",
     "JLN JALIL PERKASA",
     "KL424 ARKED ESPLANADE",
@@ -7620,6 +7651,7 @@
   ],
   "T5800": [
     "Stesen LRT Awan Besar ~ TPM via Stesen LRT Bukit Jalil",
+    "T580",
     "KL2324 LRT AWAN BESAR",
     "JLN JALIL PERKASA",
     "KL1291 KM1 BUKIT JALIL",
@@ -7675,6 +7707,7 @@
   ],
   "T5810": [
     "Stesen LRT Alam Sutera ~ PPR Pinggiran Bukit Jalil",
+    "T581",
     "KL2014 APARTMENT SERI CERIA",
     "JLN IMPIAN INDAH",
     "KL2015 PPR PINGGIRAN BUKIT JALIL",
@@ -7707,6 +7740,7 @@
   ],
   "U6000": [
     "Puchong Utama ~ Hab Pasar Seni",
+    "600",
     "KL1933 PASAR SENI (PLATFORM E1 - E3)",
     "JSM",
     "KL1092 PUBLIC BANK",
@@ -7804,6 +7838,7 @@
   ],
   "U6020": [
     "Puchong Prima ~ IOI Puchong",
+    "602",
     "SJ282 LRT PUCHONG PRIMA",
     "PERS PUCHONG PERMAI",
     "SJ670 PUCHONG PRIMA SEKSYEN 2",
@@ -7852,6 +7887,7 @@
   ],
   "U6400": [
     "Hab Bas Sri Manja ~ Hab Pasar Seni",
+    "640",
     "HAB SRI MANJA",
     "(M) KL2213 PASAR SENI (PLATFORM C1 - C3)",
     "JSM",
@@ -7939,6 +7975,7 @@
   ],
   "U6500": [
     "Taman Desa ~ Hab Pasar Seni",
+    "650",
     "(M) KL2213 PASAR SENI (PLATFORM C1 - C3)",
     "JSM",
     "KL1092 PUBLIC BANK",
@@ -7997,6 +8034,7 @@
   ],
   "T6400": [
     "Stesen LRT Taman Jaya ~ Taman Sri Sentosa",
+    "T640",
     "PJ445 LRT TAMAN JAYA",
     "PERS BARAT",
     "PJ84 PJ WALK",
@@ -8051,6 +8089,7 @@
   ],
   "U7830": [
     "Stesen LRT Kelana Jaya ~ Subang Parade",
+    "783",
     "PJ585 LRT KELANA JAYA",
     "LDP",
     "PJ633 SMK KELANA JAYA",
@@ -8088,6 +8127,7 @@
   ],
   "T7820": [
     "Stesen LRT Lembah Subang ~ Ara Damansara",
+    "T782",
     "PJ671 LRT LEMBAH SUBANG",
     "PJ672 PUSAT DAGANGAN ARA DAMANSARA",
     "JLN PJU 1A/41",
@@ -8122,6 +8162,7 @@
   ],
   "T7800": [
     "Stesen LRT Kelana Jaya ~ Taman Mayang",
+    "T780",
     "PJ585 LRT KELANA JAYA",
     "LDP",
     "PJ602 KJMC",
@@ -8153,6 +8194,7 @@
   ],
   "T7810": [
     "Stesen LRT Kelana Jaya ~ Kelana Centre Point",
+    "T781",
     "PJ585 LRT KELANA JAYA",
     "LDP",
     "PJ686 KELANA PUTRI CONDOMINIUM",
@@ -8178,6 +8220,7 @@
   ],
   "T7900": [
     "Stesen LRT Paramount ~ Mid Valley",
+    "T790",
     "STESEN LRT PARAMOUNT",
     "(M) KL2147 MIDVALLEY NORTH COURT",
     "LINGKARAN SYED PUTRA",
@@ -8233,6 +8276,7 @@
   ],
   "T7860": [
     "Stesen LRT Asia Jaya ~ Stesen MRT Phileo Damansara",
+    "T786",
     "PJ436 LRT ASIA JAYA",
     "JLN STESEN",
     "PJ439 SK SRI PETALING (OPP)",
@@ -8282,6 +8326,7 @@
   ],
   "T7870": [
     "Stesen LRT Asia Jaya ~ Seksyen 14 & 18",
+    "T787",
     "PJ436 LRT ASIA JAYA",
     "JLN STESEN",
     "PJ439 SK SRI PETALING (OPP)",
@@ -8323,6 +8368,7 @@
   ],
   "T7880": [
     "Stesen LRT Universiti ~ Mid Valley",
+    "T788",
     "STESEN LRT UNIVERSITI",
     "(M) KL2147 MIDVALLEY NORTH COURT",
     "LINGKARAN SYED PUTRA",
@@ -8333,6 +8379,7 @@
   ],
   "T7890": [
     "Stesen LRT Universiti ~ Universiti Malaya via Pantai Hillpark",
+    "T789",
     "KL1440 LRT UNIVERSITI (TIMUR)",
     "JLN KERINCHI",
     "KL1102 MASJID AR-RAHMAN UM",
@@ -8363,6 +8410,7 @@
   ],
   "T7910": [
     "Stesen LRT Kerinchi ~ Pantai Hill Park",
+    "T791",
     "KL1100 LRT KERINCHI",
     "JLN PANTAI BARU",
     "KL1111 IPD PANTAI",
@@ -8397,6 +8445,7 @@
   ],
   "P0010": [
     "Terminal Taman Medan ~ Stesen LRT Taman Jaya",
+    "PJ01",
     "TERMINAL TAMAN MEDAN",
     "PJ445 LRT TAMAN JAYA",
     "PERS BARAT",
@@ -8475,6 +8524,7 @@
   ],
   "P0020": [
     "Stesen LRT Taman Jaya ~ PPUM via SS2 PJ",
+    "PJ02",
     "PJ445 LRT TAMAN JAYA",
     "PERS BARAT",
     "PJ749 WISMA MCIS",
@@ -8517,6 +8567,7 @@
   ],
   "P0030": [
     "Stesen LRT Taman Bahagia ~ SS6 Kelana Park View",
+    "PJ03",
     "PJ343 LRT TAMAN BAHAGIA",
     "JLN SS 2/3",
     "PJ186 RUMAH NO 57",
@@ -8555,6 +8606,7 @@
   ],
   "P0040": [
     "Stesen LRT Taman Bahagia ~ Kampung Tunku via SS3",
+    "PJ04",
     "PJ343 LRT TAMAN BAHAGIA",
     "JLN SS 2/3",
     "PJ186 RUMAH NO 57",
@@ -8618,12 +8670,13 @@
   ],
   "S5010": [
     "LRT Lembah Subang ~ Menara Prasarana",
-    "PJ671 LRT LEMBAH SUBANG",
     "MENARA PRASARANA",
+    "PJ671 LRT LEMBAH SUBANG",
     "JLN SUBANG DEPOH"
   ],
   "T8500": [
     "Stesen LRT Bangsar ~ Stesen MRT Semantan",
+    "T850",
     "KL1117 LRT BANGSAR",
     "JLN BANGSAR",
     "KL1762 PUSAT KHIDMAT LEMBAH PANTAI",
@@ -8654,6 +8707,7 @@
   ],
   "S4050": [
     "Stesen Bas Seksyen 13 ~ Bukit Jelutong",
+    "SA05",
     "TERMINAL BAS SEMENTARA SEKSYEN 13",
     "JLN LONTAR PELURU 13/39",
     "SA247 PUSAT KOMERSIAL SEKSYEN 13",
@@ -8712,6 +8766,7 @@
   ],
   "S1030": [
     "Sri Nilam ~ Taman Cahaya",
+    "AJ2A",
     "AJ52 HUB SRI NILAM",
     "JLN WAWASAN AMPANG",
     "PERUMAHAN JLN WAWASAN 3/2",
@@ -8744,6 +8799,7 @@
   ],
   "S1040": [
     "Sri Nilam ~ AEON Big Ampang",
+    "AJ2B",
     "AJ52 HUB SRI NILAM",
     "JLN WAWASAN AMPANG",
     "PERUMAHAN JLN WAWASAN 3/2",
@@ -8776,6 +8832,7 @@
   ],
   "S1050": [
     "Stesen LRT Cempaka ~ Bukit Teratai",
+    "AJ03",
     "SK TAMAN BUKIT TERATAI",
     "JLN MEGA",
     "99 SPEEDMART BUKIT TERATAI",
@@ -8832,6 +8889,7 @@
   ],
   "S2060": [
     "Hentian Banting ~ Bandar Baru Banting",
+    "BTG2",
     "BANDAR BANTING BARU",
     "PERS BINTANG UTAMA",
     "KG SG RABA",
@@ -8894,6 +8952,7 @@
   ],
   "S1060": [
     "Stesen KTM Bangi ~ Bandar Bukit Mahkota",
+    "KJ02",
     "KOMERSIAL BUKIT MAHKOTA",
     "PERS MAHKOTA 2",
     "BUKIT MAHKOTA CLUBHOUSE SEKSYEN 6",
@@ -8936,6 +8995,7 @@
   ],
   "S1070": [
     "Stesen MRT BTHO ~ Taman Tun Perak",
+    "KJ03",
     "MRT BTHO",
     "APARTMENT NETIZEN",
     "LEBUH UTAMA TUN HUSSEIN ONN",
@@ -8977,6 +9037,7 @@
   ],
   "U7720": [
     "Subang Suria Mah Sing ~ Hab Pasar Seni",
+    "772",
     "(M) KL2212 PASAR SENI (PLATFORM D1 - D6)",
     "JSM",
     "KL2144 TM BRICKFIELDS",
@@ -9101,6 +9162,7 @@
   ],
   "U7800": [
     "Kota Damansara ~ Hab Pasar Seni",
+    "780",
     "(M) KL2212 PASAR SENI (PLATFORM D1 - D6)",
     "JSM",
     "KL2144 TM BRICKFIELDS",
@@ -9264,6 +9326,7 @@
   ],
   "U8010": [
     "Bandar Utama ~ Metro Prima",
+    "801",
     "(M) TAMAN USAHAWAN KEPONG",
     "JLN METRO PERDANA BARAT 10",
     "KL560 AEON MALL METRO PRIMA",
@@ -9334,6 +9397,7 @@
   ],
   "U8020": [
     "Stesen LRT Kelana Jaya ~ Kota Damansara",
+    "802",
     "PJ585 LRT KELANA JAYA",
     "LDP",
     "PJ633 SMK KELANA JAYA",
@@ -9399,6 +9463,7 @@
   ],
   "U2000": [
     "UIA Gombak ~ SOGO KL",
+    "200",
     "SL163 KOLEJ VOKASIONAL GOMBAK",
     "JLN SG PUSU",
     "SL164 KUARTERS GURU BATU 8",
@@ -9504,6 +9569,7 @@
   ],
   "U2200": [
     "Taman Melawati ~ Lebuh Ampang",
+    "220",
     "TAMAN MELAWATI",
     "KL117 BSN LEBUH AMPANG",
     "JLN LEBUH AMPANG",
@@ -9643,6 +9709,7 @@
   ],
   "U2220": [
     "Taman Melawati ~ Stesen LRT Wangsa Maju",
+    "222",
     "AJ359 HENTIAN TAMAN MELAWATI",
     "JLN TMN MELAWATI",
     "AJ360 TAMAN MELAWATI E",
@@ -9692,6 +9759,7 @@
   ],
   "U2500": [
     "Stesen LRT Wangsa Maju ~ Lebuh Ampang",
+    "250",
     "STESEN LRT WANGSA MAJU",
     "KL117 BSN LEBUH AMPANG",
     "JLN LEBUH AMPANG",
@@ -9785,6 +9853,7 @@
   ],
   "U2510": [
     "AU3 Jentayu ~ Chow Kit",
+    "251",
     "AJ303 HAB BAS AU3",
     "JLN 3/56",
     "KL841 MENARA JENTAYU",
@@ -9889,6 +9958,7 @@
   ],
   "T2000": [
     "Stesen LRT Gombak ~ UIA Gombak",
+    "T200",
     "SL311 LRT GOMBAK",
     "JLN TERMINAL PUTRA",
     "KL198 FLAT TAMAN MELATI E6",
@@ -9910,6 +9980,7 @@
   ],
   "T2010": [
     "Stesen LRT Gombak ~ Hab Wira Damai",
+    "T201",
     "STESEN LRT GOMBAK",
     "SL311 LRT GOMBAK",
     "JLN TERMINAL PUTRA",
@@ -9972,6 +10043,7 @@
   ],
   "T2020": [
     "Stesen LRT Taman Melati ~ Taman Melewar",
+    "T202",
     "KL195 LRT TAMAN MELATI",
     "PERS PERTAHANAN",
     "PERUMAHAN AWAM SRI LANGKAWI",
@@ -10040,6 +10112,7 @@
   ],
   "T2220": [
     "Stesen LRT Sri Rampai ~ UKAY Perdana",
+    "T222",
     "HENTIAN UKAY PERDANA",
     "JLN UKAY PERDANA",
     "AJ396 PANGSAPURI KAYANGAN",
@@ -10105,6 +10178,7 @@
   ],
   "T2500": [
     "Stesen LRT Wangsa Maju ~ Setapak Sentral",
+    "T250",
     "KL192 LRT WANGSA MAJU",
     "JLN 1/27A",
     "KL193 TAR VILLA",
@@ -10149,6 +10223,7 @@
   ],
   "T2510": [
     "Stesen LRT Sri Rampai ~ Seksyen 10 Wangsa Maju",
+    "T251",
     "KL746 LRT SRI RAMPAI",
     "0",
     "WANGSA 9 RESIDENCY",
@@ -10180,6 +10255,7 @@
   ],
   "T2230": [
     "Stesen LRT Setiawangsa ~ AU3, Jentayu, Keramat",
+    "T223",
     "KL812 LRT SETIAWANGSA",
     "JLN JELATEK",
     "AJ413 SRA AL-AZIZIAH (OPP)",
@@ -10212,6 +10288,7 @@
   ],
   "T2240": [
     "Stesen LRT Dato Keramat ~ Desa Pandan",
+    "T224",
     "KL2311 LRT DATO' KERAMAT",
     "JLN DATUK KERAMAT",
     "KL2310 LRT DATO' KERAMAT/KUARTERS JUPEM",
@@ -10252,6 +10329,7 @@
   ],
   "U1700": [
     "Hab Wira Damai ~ Stesen MRT Titiwangsa",
+    "170",
     "SL294 HAB WIRA DAMAI",
     "JLN PINGGIRAN BT CAVES",
     "SL182 PANGSAPURI KENANGA",
@@ -10327,6 +10405,7 @@
   ],
   "U1710": [
     "Hab Wira Damai ~ Lebuh Ampang via Sentul",
+    "171",
     "HAB WIRA DAMAI",
     "KL117 BSN LEBUH AMPANG",
     "JLN LEBUH AMPANG",
@@ -10486,6 +10565,7 @@
   ],
   "U1730": [
     "Taman Jasa Utama ~ Lebuh Ampang",
+    "173",
     "TAMAN JASA UTAMA",
     "KL117 BSN LEBUH AMPANG",
     "JLN LEBUH AMPANG",
@@ -10628,6 +10708,7 @@
   ],
   "U1800": [
     "Taman Dato' Senu ~ Hab Pasar Seni",
+    "180",
     "TAMAN DATO' SENU",
     "(M) PASAR SENI (PLATFORM A7 - A8)",
     "JSM",
@@ -10694,6 +10775,7 @@
   ],
   "U1900": [
     "Desa Sri Hartamas ~ Lin Ho Jln Lekiu",
+    "190",
     "DESA SRI HARTAMAS",
     "KL105 LRT MASJID JAMEK",
     "JLN TUN PERAK",
@@ -10780,6 +10862,7 @@
   ],
   "U1910": [
     "Taman Sri Segambut~ Monorel Chow Kit",
+    "191",
     "KL1044 TERMINAL SRI SEGAMBUT",
     "JLN UDANG KEPAI",
     "KL1046 KOMERSIAL SRI SEGAMBUT/BHP (OPP)",
@@ -10864,6 +10947,7 @@
   ],
   "U2020": [
     "Hub Wira Damai ~ Lebuh Ampang via Gombak",
+    "202",
     "HAB WIRA DAMAI",
     "KL117 BSN LEBUH AMPANG",
     "JLN LEBUH AMPANG",
@@ -11004,6 +11088,7 @@
   ],
   "U3020": [
     "Titiwangsa ~ KLCC",
+    "302",
     "(M) KL1818 HAB TITIWANGSA",
     "JLN PANGKOR",
     "KL2249 PERKIM",
@@ -11040,6 +11125,7 @@
   ],
   "U8210": [
     "Pantai Hill Park ~ Hab Pasar Seni",
+    "821",
     "KL1412 HAB PANTAI HILLPARK",
     "JLN PANTAI PERMAI 13",
     "(M) KL1413 PANTAI MURNI",
@@ -11092,6 +11178,7 @@
   ],
   "U8220": [
     "Stesen LRT Bangsar ~ Bangsar Shopping Centre",
+    "822",
     "KL1117 LRT BANGSAR",
     "JLN BANGSAR",
     "KL1760 SUASANA SENTRAL LOFT",
@@ -11131,6 +11218,7 @@
   ],
   "U8510": [
     "Hab Pasar Seni ~ Kompleks Mahkamah Jalan Duta",
+    "851",
     "KL1821 PASAR SENI (PLATFORM A1 - A2)",
     "JSM",
     "KL112 KOTA RAYA",
@@ -11169,6 +11257,7 @@
   ],
   "P0050": [
     "Bandar Utama ~ Stesen LRT Taman Bahagia",
+    "PJ05",
     "(M) PJ530 HENTIAN BANDAR UTAMA",
     "CENTRAL PARK AVENUE",
     "PJ532 ONE UTAMA LDP",
@@ -11215,6 +11304,7 @@
   ],
   "P0060": [
     "Bandar Utama ~ Damansara Damai",
+    "PJ06",
     "(M) PJ530 HENTIAN BANDAR UTAMA",
     "CENTRAL PARK AVENUE",
     "PJ532 ONE UTAMA LDP",
@@ -11269,6 +11359,7 @@
   ],
   "S0070": [
     "Selayang Mutiara ~ Stesen LRT Gombak",
+    "MPS1",
     "HENTIAN SELAYANG MUTIARA",
     "JLN SG TUA",
     "KG SELAYANG PERMAI",
@@ -11408,6 +11499,7 @@
   ],
   "S0100": [
     "Stesen MRT Semantan  ~ Damanlela Open CarPark",
+    "PBD1",
     "KL2424 DAMANLELA CARPARK",
     "JLN DAMANLELA",
     "KL1174 MRT SEMANTAN PINTU B",
@@ -11415,6 +11507,7 @@
   ],
   "S1140": [
     "Pandan Perdana ~ Hospital Ampang",
+    "AJ04",
     "AJ276 PANDAN HEIGHT",
     "JLN PERDANA 3/1",
     "AJ277 PANDAN VISTA",
@@ -11475,6 +11568,7 @@
   ],
   "S4060": [
     "Terminal Seksyen 19 ~ Kota Kemuning",
+    "SA06",
     "SA442 HENTIAN SEKSYEN 19",
     "JLN NYIUR 18/41",
     "SA428 CIAST",
@@ -11538,6 +11632,7 @@
   ],
   "S1170": [
     "Hentian Kajang ~ Bandar Baru Bangi",
+    "KJ04",
     "KJ461 HENTIAN KAJANG",
     "JLN REKO",
     "KJ462 PLAZA PERABOT",
@@ -11590,6 +11685,7 @@
   ],
   "S4070": [
     "Stesen KTM Batu 3 ~ Seksyen 20 via HICOM",
+    "SA07",
     "KTM BATU 3",
     "PERS TEKNOLOGI SUBANG",
     "SJ573 KILANG GULA CSR",
@@ -11633,6 +11729,7 @@
   ],
   "S4080": [
     "Stesen LRT Alam Megah ~ Kota Kemuning",
+    "SA08",
     "SJ533 LRT ALAM MEGAH",
     "JLN BERANANG 27/14A",
     "SK HICOM",
@@ -11691,6 +11788,7 @@
   ],
   "S6020": [
     "Pasar Seni ~ Batu Caves (Thaipusam)",
+    "BC2",
     "KL1821 PASAR SENI (PLATFORM A1 - A2)",
     "JSM",
     "SL493 NISSAN",
@@ -11698,6 +11796,7 @@
   ],
   "S6050": [
     "LRT Gombak ~ Batu Caves (Thaipusam)",
+    "BC3",
     "SL311 LRT GOMBAK",
     "JLN TERMINAL PUTRA",
     "SHELL/MCD BATU CAVES",
@@ -11705,6 +11804,7 @@
   ],
   "S0040": [
     "Ukay Perdana ~ Taman Melawati via Sg. Sering",
+    "AJ01",
     "HENTIAN UKAY PERDANA",
     "JLN UKAY PERDANA",
     "AJ396 PANGSAPURI KAYANGAN",
@@ -11770,6 +11870,7 @@
   ],
   "S3020": [
     "Taman Sri Andalas ~ Bandar Klang",
+    "KLG3A",
     "BD553 TAMAN RAKYAT",
     "JLN TUN DR ISMAIL",
     "BD550 SRI TANJUNG 1",
@@ -11817,6 +11918,7 @@
   ],
   "S3030": [
     "Bandar Putera ~ Bandar Klang via Jalan Raja Nong",
+    "KLG3B",
     "PANGSAPURI SRI AYU",
     "LEBUH KEBUN NENAS 1/KS7",
     "TAMAN CAMELIA",
@@ -11860,6 +11962,7 @@
   ],
   "S1190": [
     "Lotus Rawang ~ Rawang Perdana",
+    "MPS2A",
     "LOTUS RAWANG",
     "JLN RAWANG",
     "SL351 KG BT16 RAWANG (TIMUR)",
@@ -11914,6 +12017,7 @@
   ],
   "S6060": [
     "Stesen LRT Awan Besar ~ Pavilion Bukit Jalil",
+    "PAVILION BUKIT JALIL (PAVBJ)",
     "KL2324 LRT AWAN BESAR",
     "JLN JALIL PERKASA",
     "PAVILION BUKIT JALIL",
@@ -11921,6 +12025,7 @@
   ],
   "S1390": [
     "Batu Arang ~ Stesen MRT Sungai Buloh",
+    "MPS3",
     "SK BATU ARANG",
     "JLN TAMAN MUHIBBAH",
     "SMK TUANKU ABDUL RAHMAN (OPP)",
@@ -12011,6 +12116,7 @@
   ],
   "S1490": [
     "Wangsa Permai ~ Bandar Baru Selayang",
+    "MPS4",
     "SL315 KEPONG INDUSTRIAL PARK",
     "PERS KIP UTAMA",
     "SL316 TAMAN WANGSA PERMAI/COCOMART",
@@ -12070,6 +12176,7 @@
   ],
   "R0200": [
     "Stesen LRT Ampang ~ KLCC via AKLEH",
+    "DS01(AM)",
     "AJ106 LRT AMPANG",
     "JLN AMPANG",
     "KL91 UOB BANK/INTERCONTINENTAL HOTEL",
@@ -12079,6 +12186,7 @@
   ],
   "R0210": [
     "KLCC via AKLEH ~ Stesen LRT Ampang",
+    "DS01(PM)",
     "KL2301 KLCC (OPP)",
     "JLN AMPANG",
     "KL2306 LRT AMPANG PARK",
@@ -12087,6 +12195,7 @@
   ],
   "S3040": [
     "Bandar Putera ~ Bandar Klang via Jalan Kebun",
+    "KLG3C",
     "PANGSAPURI SRI AYU",
     "LEBUH KEBUN NENAS 1/KS7",
     "TAMAN CAMELIA",
@@ -12165,6 +12274,7 @@
   ],
   "P1010": [
     "Kompleks F ~ Presint 5",
+    "P101",
     "PPJ191 KOMPLEKS PARCEL F",
     "LEBUH PERDANA TIMUR",
     "SEKOLAH SULTAN ALAM SHAH",
@@ -12216,6 +12326,7 @@
   ],
   "P1020": [
     "Presint 11 ~ Kompleks E",
+    "P102",
     "PPJ132 APARTMENT PRESINT 11B",
     "JALAN P11B",
     "PPJ266 PERUMAHAN PRESINT 11 (ZON 6B)",
@@ -12254,6 +12365,7 @@
   ],
   "P1030": [
     "Presint 14 via Alamanda ~ Kompleks E",
+    "P103",
     "HENTIAN P14",
     "JLN P14L",
     "PPJ206 SEKOLAH ARAB MODIN ANTARABANGSA",
@@ -12298,6 +12410,7 @@
   ],
   "P1040": [
     "Dataran Gemilang ~ PICC via Presint 5",
+    "P104",
     "PPJ34 DATARAN GEMILANG",
     "LINGKARAN GEMILANG DUA",
     "PPJ35 KEMENTERIAN WANITA & MASYARAKAT",
@@ -12325,6 +12438,7 @@
   ],
   "P1050": [
     "Dataran Gemilang ~ Kompleks ABCDE",
+    "P105",
     "PPJ34 DATARAN GEMILANG",
     "LINGKARAN GEMILANG DUA",
     "PPJ37 DATARAN GEMILANG",
@@ -12378,6 +12492,7 @@
   ],
   "P1060": [
     "Presint 4 ~ Kompleks E",
+    "P106",
     "PPJ352 KEMENTERIAN BELIA DAN SUKAN",
     "JALAN TUN HUSSEIN",
     "PPJ177 KEMENTERIAN PENGANGKUTAN",
@@ -12442,6 +12557,7 @@
   ],
   "P1080": [
     "Terminal Putrajaya Sentral ~ Kompleks ABCDE",
+    "P108",
     "(M) PPJ254 MRT PUTRAJAYA SENTRAL",
     "JALAN P7B",
     "PPJ88 APARTMENT PUTRA HARMONI (SELATAN)",
@@ -12478,6 +12594,7 @@
   ],
   "U1510": [
     "Bandar Baru Selayang ~ Hab Lebuh Pudu",
+    "151",
     "BANDAR BARU SELAYANG",
     "KL113 HAB LEBUH PUDU",
     "JLN TUN PERAK",
@@ -12588,6 +12705,7 @@
   ],
   "T8510": [
     "KL Sentral ~ Parlimen",
+    "T851",
     "KL SENTRAL",
     "JLN STESEN SENTRAL 5",
     "TAMAN BOTANI PERDANA",
@@ -12597,6 +12715,7 @@
   ],
   "U4510": [
     "Stesen MRT Kajang ~ Stesen MRT Putrajaya Sentral",
+    "451",
     "MRT KAJANG",
     "(M) PPJ254 MRT PUTRAJAYA SENTRAL",
     "JALAN P7B",
@@ -12647,6 +12766,7 @@
   ],
   "S6090": [
     "MRT Kg Batu ~ Batu Caves (Thaipusam)",
+    "BC4",
     "KL594 MRT KG BATU",
     "JLN 1/18B",
     "SHELL/MCD BATU CAVES",
@@ -12654,6 +12774,7 @@
   ],
   "T3008": [
     "Bukit Indah ~ Ampang Point via Jalan Rasmi",
+    "T300",
     "AJ42 HENTIAN BUKIT INDAH",
     "JLN BKT INDAH UTAMA",
     "AJ43 FLAT TAMAN KOSAS",
@@ -12704,6 +12825,7 @@
   ],
   "U4028": [
     "Terminal Maluri ~ Titiwangsa",
+    "402",
     "KL869 LRT MALURI",
     "JLN CHERAS",
     "KL1702 STADIUM BADMINTON KL (OPP)",
@@ -12766,6 +12888,7 @@
   ],
   "T3018": [
     "Taman Mulia Jaya ~ Ampang Point via Jalan Merdeka",
+    "T301",
     "TAMAN MULIA JAYA",
     "AJ182 AMPANG POINT",
     "JLN AMPANG",
@@ -12834,6 +12957,7 @@
   ],
   "T3028": [
     "Hutan Lipur Ampang ~ Ampang Point",
+    "T302",
     "HUTAN LIPUR AMPANG",
     "AJ182 AMPANG POINT",
     "JLN AMPANG",
@@ -12868,6 +12992,7 @@
   ],
   "T3048": [
     "Bukit Indah ~ Ampang Point via Jalan Ampang",
+    "T304",
     "AJ42 HENTIAN BUKIT INDAH",
     "JLN BKT INDAH UTAMA",
     "AJ43 FLAT TAMAN KOSAS",
@@ -12900,6 +13025,7 @@
   ],
   "U7548": [
     "Sekysen 13 Shah Alam ~ UITM Puncak Perdana",
+    "754",
     "(M) SA237 PANGSAPURI PERDANA",
     "JLN LOMPAT PAGAR 13/37",
     "SA498 MONFORT (OPP)",
@@ -12941,6 +13067,7 @@
   ],
   "U7538": [
     "Hentian Bandar Shah Alam ~ UiTM Puncak Alam",
+    "753",
     "HENTIAN BANDAR SHAH ALAM",
     "KS31 KOMPLEKS ANGSANA",
     "JLN KOLEJ",
@@ -13067,6 +13194,7 @@
   ],
   "S4100": [
     "Bukit Subang~Kg Melayu Subang ~Pekan Subang~Bukit Jelutung",
+    "SA10",
     "PETRONAS BUKIT SUBANG U16",
     "PERS METAFASA",
     "SA759 PANGSAPURI CENDANA",
@@ -13118,6 +13246,7 @@
   ],
   "U7828": [
     "Hentian PJ Old Town ~ Hab Pasar Seni",
+    "782",
     "HENTIAN PJ OLD TOWN",
     "(M) PASAR SENI (PLATFORM A6)",
     "JSM",
@@ -13193,6 +13322,7 @@
   ],
   "T7548": [
     "Hentian Bandar Shah Alam ~ Terminal Seksyen 17",
+    "T754",
     "SA786 HENTIAN BANDAR SEKSYEN 14",
     "JLN 14/1",
     "SA855 WISMA MBSA (OPP)",
@@ -13236,6 +13366,7 @@
   ],
   "U7088": [
     "Klang ~ Sunway Pyramid via Hentian Bandar",
+    "708",
     "(M) PJ614 MASJID AL-HUSNA",
     "L/RAYA NPE",
     "(M) PJ615 SUNWAY PYRAMID",
@@ -13319,6 +13450,7 @@
   ],
   "T7568": [
     "Kemuning Business Park ~ Hentian Bandar via Taman Muda",
+    "T756",
     "SA171 KOTA KEMUNING BUSINESS PARK",
     "PERS ANGGERIKK VANILLA",
     "SA894 KOTA KEMUNING CENTRAL LAKE",
@@ -13406,6 +13538,7 @@
   ],
   "U7718": [
     "Subang Mewah USJ 1 ~ Desa Mentari via Persiaran Tujuan",
+    "771",
     "SJ629 TAMAN PERINDUSTRIAN USJ1",
     "JLN SUBANG 3",
     "SJ630 SJKC CHEE WEN (OPP)",
@@ -13481,6 +13614,7 @@
   ],
   "T7538": [
     "Hentian Bandar Shah Alam ~ Sekysen 11, 9, 8, 6, 5",
+    "T753",
     "SA786 HENTIAN BANDAR SEKSYEN 14",
     "JLN 14/1",
     "SA19 MARDHIYYAH HOTEL & SUITES",
@@ -13514,6 +13648,7 @@
   ],
   "T7158": [
     "UiTM Puncak Alam ~ Bandar Puncak Alam",
+    "T715",
     "UITM PUNCAK ALAM",
     "(M) KS32 KOLEJ RAFFLESIA 2",
     "JLN KOLEJ",
@@ -13563,6 +13698,7 @@
   ],
   "U7508": [
     "Hab Sekysen 2 ~ Hab Pasar Seni",
+    "750",
     "KL2214 PASAR SENI (PLATFORM B1 - B2)",
     "JSM",
     "KL2144 TM BRICKFIELDS",
@@ -13694,6 +13830,7 @@
   ],
   "T4068": [
     "Cheras Batu 10 ~ Pangsun",
+    "T406",
     "TAMAN KOTA CHERAS FASA 1",
     "TMN KOTA CHERAS",
     "KJ38 TAMAN SUNTEX",
@@ -13797,6 +13934,7 @@
   ],
   "U5068": [
     "Putrajaya Sentral ~ Bandar Utama",
+    "506",
     "(M) PJ530 HENTIAN BANDAR UTAMA",
     "CENTRAL PARK AVENUE",
     "PJ722 SMK DAMANSARA UTAMA",
@@ -13831,6 +13969,7 @@
   ],
   "U5408": [
     "Putra Permai ~ Stesen KTM Serdang",
+    "540",
     "SJ212 HENTIAN PUTRA PERMAI",
     "JLN PUTRA PERMAI 1",
     "SJ218 EQUINE PARK",
@@ -13888,6 +14027,7 @@
   ],
   "T5718": [
     "Stesen KTM Serdang ~ Taman Sri Pulai",
+    "T571",
     "SJ595 KTM KOMUTER SERDANG (OPP)",
     "SBE",
     "KJ706 KOMERSIAL TAMAN DESA SERDANG",
@@ -13916,6 +14056,7 @@
   ],
   "U6418": [
     "Stesen LRT Subang Jaya ~ Pearl Point",
+    "641",
     "SJ63 LRT SUBANG JAYA",
     "SJ60 AEON BIG SUBANG JAYA",
     "JLN KEMAJUAN SUBANG",
@@ -13976,6 +14117,7 @@
   ],
   "T6028": [
     "Puchong Utama ~ Taman Saujana Puchong",
+    "T602",
     "SJ237 TERMINAL PUCHONG UTAMA",
     "JLN PUCHONG UTAMA 3",
     "SJ492 KLINIK KESIHATAN BATU 14",
@@ -14017,6 +14159,7 @@
   ],
   "S0120": [
     "LRT Taman Jaya ~ Hong Leong Bank PJCT",
+    "HLB2",
     "KL1174 MRT SEMANTAN PINTU B",
     "JLN SEMANTAN",
     "HONG LEONG PBD",
@@ -14024,6 +14167,7 @@
   ],
   "U2538": [
     "Stesen LRT Wangsa Maju ~ Ampang Point",
+    "253",
     "KL170 LRT WANGSA MAJU",
     "JLN 1/27A",
     "KL2104 SK WANGSA JAYA (OPP)",
@@ -14087,6 +14231,7 @@
   ],
   "U2548": [
     "Ayer Panas ~ Titiwangsa via Chowkit",
+    "254",
     "KL2080 PPR SUNGAI BONUS",
     "PERS 54B",
     "KL2081 PASAR AIR PANAS (OPP)",
@@ -14128,6 +14273,7 @@
   ],
   "T1208": [
     "Kompleks Sungai Mas ~ Taman Mastiara",
+    "T120",
     "KL588 TAMAN KOK LIAN/ PPR PEKAN BATU",
     "JLN SULTAN AZLAN SHAH",
     "KL590 SJKC MUN CHOONG",
@@ -14153,6 +14299,7 @@
   ],
   "U2018": [
     "Batu 12 Gombak – Stesen MRT Titiwangsa",
+    "201",
     "SL124 HOSPITAL ORANG ASLI (OPP)",
     "JLN GOMBAK",
     "SL120 SKEM BUSINESS CENTRE",

@@ -86,7 +86,7 @@ export class GTFSJsonProcessor {
 
             const keywords = []
             if (route_long_name) keywords.push(route_long_name) // add route_long_name
-            if (route_short_name) keywords.push(route_long_name) // add route_long_name
+            if (route_short_name) keywords.push(route_short_name) // add route_long_name
 
             for (let tripId in trips) {
                 const tripName = trips[tripId]
