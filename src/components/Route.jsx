@@ -22,7 +22,7 @@ function MRTFeederRoute(props) {
   const { name, handleClick } = props
   return (
     <button
-      className="btn btn-outline btn-warning mb-2 w-full"
+      className="btn btn-outline btn-warning mb-2"
       onClick={() => handleClick()}
     >
       <span className="">{name}</span>

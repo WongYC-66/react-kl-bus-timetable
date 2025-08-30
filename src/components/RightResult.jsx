@@ -17,7 +17,7 @@ export default function RightResult(props) {
   // console.log(stop_sequences)
 
   return (
-    <div className="result-right-window w-1/2">
+    <div className="result-right-window">
 
       {/* Selected Route Header */}
       <RouteHeader selectedRoute={selectedRoute} />
