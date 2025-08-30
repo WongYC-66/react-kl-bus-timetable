@@ -53,10 +53,10 @@ export default function App() {
 
         <p>Disclaimer: Not Live data. Only serves as reference. </p>
 
-        <p>
-          <a href='https://github.com/WongYC-66/react-kl-bus-timetable'>soure code</a> 
+        <p className='text-blue-300'>
+          <a href='https://github.com/WongYC-66/react-kl-bus-timetable' className='text-decoration-line: underline'>soure code</a> 
           <span> </span>
-          <a href='https://developer.data.gov.my/realtime-api/gtfs-static'>data source</a>
+          <a href='https://developer.data.gov.my/realtime-api/gtfs-static' className='text-decoration-line: underline'>data source</a>
         </p>
       </footer>
     </div>
