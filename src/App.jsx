@@ -16,7 +16,7 @@ export default function App() {
   return (
     <div id='container' className='p-4 lg:p-16'>
       <header>
-        <h1 className='text-5xl'>KL Bus Timetable (MRT Feeder Bus)</h1>
+        <h1 className='text-5xl'>KL Bus Timetable (MRT Feeder Bus + RapidKL)</h1>
       </header>
 
       <main>
