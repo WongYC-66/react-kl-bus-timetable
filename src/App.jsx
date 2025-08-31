@@ -26,6 +26,7 @@ export default function App() {
             <input type='text'
               className='input w-full'
               text={searchTerm}
+              placeholder='route name or bus stop name'
               onChange={e => setSearchTerm(e.target.value)}
             />
           </label>
