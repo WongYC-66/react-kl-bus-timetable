@@ -90,3 +90,47 @@ export const getStopAndTimeByRouteId = (selectedRoute) => {
 export const getRouteProvider = (routeId) => {
     return allRoutes?.[routeId]?.provider
 }
+
+export const addGeoInfo = (stopInfoHash) => {
+    const res = {}
+    for (let stopSeq in stopInfoHash) {
+        const stopInfo = stopInfoHash[stopSeq]
+        const stop_id = stopInfo.stop_id
+        res[stopSeq] = {
+            ...stopInfo,
+            lat: allStops[stop_id].stop_lat,
+            lon: allStops[stop_id].stop_lon,
+        }
+    }
+    return res
+}
+
+export const toArrayOfStopObj = (stopInfoHash) => {
+    return Object.entries(stopInfoHash)
+        .map(([stopSeq, stopInfo]) => ({ stopSeq, ...stopInfo }))
+        .map(convertGeoToNumberType)
+}
+
+const convertGeoToNumberType = (obj) => {
+    const { lat, lon, ...rest } = obj
+    return {
+        ...rest,
+        lat: Number(lat),
+        lon: Number(lon)
+    }
+}
+
+export const getCenterLocation = (positions) => {
+    let latitudeSum = 0
+    let longitudeSum = 0
+
+    positions.forEach(([lat, lon]) => {
+        latitudeSum += lat
+        longitudeSum += lon
+    })
+
+    const avgLatitude = latitudeSum / positions.length
+    const avgLongitude = longitudeSum / positions.length
+
+    return [avgLatitude, avgLongitude]
+}

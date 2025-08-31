@@ -1,6 +1,7 @@
 import { useMemo } from "react"
 import { getRouteNameById, getRouteProvider, getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
 import Stop from "./Stop"
+import RouteMap from "./RouteMap"
 
 export default function RightResult(props) {
   const { selectedRoute } = props
@@ -29,6 +30,12 @@ export default function RightResult(props) {
           key={name}>{name}
         </h2>
       )}
+
+      {/* Route Map */}
+      <RouteMap
+        selectedRoute={selectedRoute}
+        allStops={allStops}
+      />
 
       {/* Each Bus Stop */}
       {stop_sequences.map(stopSeq =>

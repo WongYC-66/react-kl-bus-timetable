@@ -129,8 +129,8 @@ export class MrtFeederBusJsonProcessor extends GTFSJsonProcessor {
 
     getStopData = async () => {
         const stopIdToHash = {}
-        this.allStops.forEach(({ stop_id, stop_code, stop_name, ...rest }) => {
-            stopIdToHash[stop_id] = { stop_code, stop_name }
+        this.allStops.forEach(({ stop_id, stop_code, stop_name, stop_lat, stop_lon, ...rest }) => {
+            stopIdToHash[stop_id] = { stop_code, stop_name, stop_lat, stop_lon }
         })
         return stopIdToHash
     }
@@ -151,8 +151,8 @@ export class RapidKLBusJsonProcessor extends GTFSJsonProcessor {
 
     getStopData = async () => {
         const stopIdToHash = {}
-        this.allStops.forEach(({ stop_id, stop_desc, stop_name, ...rest }) => {
-            stopIdToHash[stop_id] = { stop_desc, stop_name }
+        this.allStops.forEach(({ stop_id, stop_desc, stop_name, stop_lat, stop_lon, ...rest }) => {
+            stopIdToHash[stop_id] = { stop_desc, stop_name, stop_lat, stop_lon }
         })
         return stopIdToHash
     }
