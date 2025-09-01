@@ -62,7 +62,7 @@ export default function RouteMap(props) {
       {/* Bus marker */}
       {Boolean(bus.length) && bus.map(({ position, vehicle }) =>
         <Marker position={[position.latitude, position.longitude]} icon={busIcon}>
-          <Popup>{vehicle.id} ({position.speed} km/h)</Popup>
+          <Popup>{vehicle.id} ({position.speed.toFixed(1)} km/h)</Popup>
         </Marker>
       )}
 
