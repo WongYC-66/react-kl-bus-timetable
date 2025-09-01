@@ -2,6 +2,7 @@ import allRoutes from "../data/my-routes.json"
 import allTrips from "../data/my-trips.json"
 import allStops from "../data/my-stops.json"
 import allRouteWithKeywords from "../data/my-routes-keywords.json"
+import GtfsRealtimeBindings from "gtfs-realtime-bindings"
 
 export const getRelevantRoutes = (searchTerm) => {
     searchTerm = searchTerm.toLowerCase()
@@ -133,4 +134,63 @@ export const getCenterLocation = (positions) => {
     const avgLongitude = longitudeSum / positions.length
 
     return [avgLatitude, avgLongitude]
+}
+
+export const getGTFSLiveData = async (selectedRoute) => {
+
+    // Get Live Bus data , 
+    // https://gtfs.org/documentation/realtime/language-bindings/nodejs/
+    // https://github.com/TransitApp/gtfs-realtime-bindings/blob/master/nodejs/README.md
+
+    const URLs = [
+        `https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-mrtfeeder`,
+        `https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-kl`,
+    ]
+
+    const tasks = URLs.map(async (url) => {
+        const response = await fetch(url)
+        const buffer = await response.arrayBuffer();
+
+        const feed = GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(
+            new Uint8Array(buffer)
+        );
+
+        return feed
+    })
+
+    const feedArr = await Promise.all(tasks)
+
+    const busData = feedArr
+        .map(feed => feed.entity)
+        .flat()
+        .map(feedEntity => feedEntity.vehicle)  // ignore id
+
+    // console.log({ feedArr })
+    return busData
+}
+
+export const filterRelevantBus = (bus, routeId) => {
+    const serviceProvider = getRouteProvider(routeId)
+
+    let targetRouteName = ""
+    switch (serviceProvider) {
+        case 'RapidKL':
+            targetRouteName = routeId
+            // targetRouteName = getRapidKLRouteShortName(routeId)
+            break
+        case 'MRT_Feeder':
+        default:
+            targetRouteName = getMRTRouteLongName(routeId)
+            break
+    }
+
+    return bus.filter(vehicle => vehicle?.trip?.routeId === targetRouteName)
+}
+
+export const getMRTRouteLongName = (routeId) => {
+    return allRoutes?.[routeId]?.route_long_name
+}
+
+export const getRapidKLRouteShortName = (routeId) => {
+    return allRoutes?.[routeId]?.route_short_name
 }

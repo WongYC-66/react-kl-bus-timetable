@@ -1,6 +1,8 @@
 import { useEffect, useMemo } from 'react';
-import { MapContainer, TileLayer, Popup, Polygon, CircleMarker, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, Popup, Polygon, CircleMarker, Marker, useMap } from 'react-leaflet'
+import L from "leaflet";
 import "leaflet/dist/leaflet.css";
+import busIconFile from "../assets/bus_icon.png";
 
 import { addGeoInfo, getCenterLocation, toArrayOfStopObj } from '../util/util';
 
@@ -8,20 +10,28 @@ import { addGeoInfo, getCenterLocation, toArrayOfStopObj } from '../util/util';
 
 export default function RouteMap(props) {
 
-  const { selectedRoute, allStops } = props
+  const { selectedRoute, allStops, bus } = props
 
   const allStopsWithGeo = useMemo(() => addGeoInfo(allStops), [selectedRoute])
   const allStopsArr = toArrayOfStopObj(allStopsWithGeo)
 
   // plot Route shape
-  const stopPositions = allStopsArr.map(({ lat, lon }) => [lat, lon])
+  const stopPositions = useMemo(() => allStopsArr.map(({ lat, lon }) => [lat, lon]), [selectedRoute])
   const purpleOptions = { color: 'purple' }
 
   // map centering
-  const [centerLatitude, centerLongitude] = getCenterLocation(stopPositions)
+  const [centerLatitude, centerLongitude] = useMemo(() => getCenterLocation(stopPositions, [selectedRoute]))
 
   // plot stop marker
   const redOptions = { color: 'red' }
+
+  // Custom Bus Icon
+  const busIcon = new L.Icon({
+    iconUrl: busIconFile,
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32],
+  });
 
   // console.log("map rendered")
   // console.log({ allStopsArr, stopPositions })
@@ -37,8 +47,7 @@ export default function RouteMap(props) {
       {/* Additional map layers or components can be added here */}
 
       {/* fix map not recentering when selectedRoute changed */}
-      <RecenterMap center={[centerLatitude, centerLongitude]} />
-      <FitBounds positions={stopPositions} />
+      <FitBounds positions={stopPositions} selectedRoute={selectedRoute} />
 
       {/* Route Polygon label */}
       <Polygon pathOptions={purpleOptions} positions={stopPositions} />
@@ -49,31 +58,29 @@ export default function RouteMap(props) {
           <Popup>{stopSeq} - {stop_name}</Popup>
         </CircleMarker>
       )}
+
+      {/* Bus marker */}
+      {Boolean(bus.length) && bus.map(({ position, vehicle }) =>
+        <Marker position={[position.latitude, position.longitude]} icon={busIcon}>
+          <Popup>{vehicle.id} ({position.speed} km/h)</Popup>
+        </Marker>
+      )}
+
     </MapContainer>
   );
 }
 
 // thanks chatGPT for following
-function RecenterMap({ center }) {
-  const map = useMap();
-
-  useEffect(() => {
-    if (center) {
-      map.setView(center);
-    }
-  }, [center, map]);
-
-  return null;
-}
-
-function FitBounds({ positions }) {
+function FitBounds({ positions, selectedRoute }) {
   const map = useMap();
 
   useEffect(() => {
     if (positions && positions.length > 0) {
       map.fitBounds(positions); // Leaflet will pick zoom + center automatically
     }
-  }, [positions, map]);
+    // }, [positions, map]);
+  }, [selectedRoute]);
 
   return null;
 }
+

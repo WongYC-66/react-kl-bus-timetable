@@ -1,21 +1,49 @@
-import { useMemo } from "react"
-import { getRouteNameById, getRouteProvider, getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
+import { useEffect, useMemo, useState } from "react"
+
+import { filterRelevantBus, getGTFSLiveData, getRouteNameById, getRouteProvider, getStopAndTimeByRouteId, getTripNamesByRouteId } from "../util/util"
 import Stop from "./Stop"
 import RouteMap from "./RouteMap"
+
+const FETCH_TIME_INTERVAL = 15000 // 15 sec
 
 export default function RightResult(props) {
   const { selectedRoute } = props
 
   if (selectedRoute === null) return <></>
 
+  const [bus, setBus] = useState([])
+
   const tripNames = useMemo(() => getTripNamesByRouteId(selectedRoute), [selectedRoute])
   const allStops = useMemo(() => getStopAndTimeByRouteId(selectedRoute), [selectedRoute])
+  const relevantBus = useMemo(() => filterRelevantBus(bus, selectedRoute), [selectedRoute])
 
   const stop_sequences = useMemo(() => Object.keys(allStops), [selectedRoute])
+
+  useEffect(() => {
+
+    const firstFetch = async () => {
+      // console.log('first fetch')
+      const busData = await getGTFSLiveData(selectedRoute)
+      setBus(busData)
+    }
+
+    const timer = setInterval(async () => {
+      // console.log('interval fetch')
+      const busData = await getGTFSLiveData(selectedRoute)
+      setBus(busData)
+    }, FETCH_TIME_INTERVAL)
+
+    firstFetch()
+
+    return () => clearInterval(timer)
+
+  }, [])
 
 
   // console.log(allStops)
   // console.log(stop_sequences)
+  // console.log({ relevantBus })
+  // console.log({ selectedRoute })
 
   return (
     <div className="result-right-window">
@@ -35,7 +63,19 @@ export default function RightResult(props) {
       <RouteMap
         selectedRoute={selectedRoute}
         allStops={allStops}
+        bus={relevantBus}
       />
+
+      {/* Bus on duty */}
+      {Boolean(relevantBus.length) && <div>
+        <p>Bus on route:</p>
+        {relevantBus.map(({ position, vehicle }) => <li>
+          {vehicle.id} ({position.speed} km/h)
+        </li>)}
+
+        <hr></hr>
+      </div>}
+
 
       {/* Each Bus Stop */}
       {stop_sequences.map(stopSeq =>
