@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { getRelevantRoutes } from './util/util'
 import LeftResult from './components/LeftResult'
 import RightResult from './components/RightResult'
+import Bookmark from './components/Bookmark'
 import './style.css'
 
 export default function App() {
@@ -27,10 +28,16 @@ export default function App() {
               className='input w-full'
               text={searchTerm}
               placeholder='route name or bus stop name'
+              value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
             />
           </label>
+
+
         </div>
+
+        {/* Save to localstorage bookmarks */}
+        <Bookmark searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
         <div className='result flex mt-5'>
           <LeftResult
@@ -46,7 +53,7 @@ export default function App() {
 
       <footer className='text-center'>
         <p>
-          Created by YC_Wong @2025
+          Created by YC_Wong @2026
         </p>
 
         <p>Disclaimer: Not Live data. Only serves as reference. </p>
